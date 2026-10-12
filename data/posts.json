@@ -5,13 +5,31 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-12T06:53:26.466963+00:00",
+    "last_sync": "2026-10-12T06:56:14.506150+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "CONDOLENCIAS",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "comunicados",
+      "category_label": "Comunicado Oficial",
+      "badge": "Condolencias",
+      "date": "12 Oct 2026, 06:56 UTC",
+      "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/844070067_1110907651869043_1628377454322689683_n.png?stp=dst-jpg_tt6&cstp=mx1842x2048&ctp=s565x565&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QnjKznfzl-4Q7kNvwFo4AJq&_nc_oc=AdoSYzQ2yZhlQvzw-BFfmioRESVlIPbxaF5mi8HcZbUFwPaUf6n_NBzLLeoDEz7vRB4&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=KyjrLt4GDkAvpGLK1TA1_w&_nc_ss=79289&oh=00_AQOBMtDzM33ykMsnYhNuM8EO0eEVCM6_zO40ry4bHucfWg&oe=6AD2435E",
+      "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/844070067_1110907651869043_1628377454322689683_n.png?stp=dst-jpg_tt6&cstp=mx1842x2048&ctp=s565x565&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QnjKznfzl-4Q7kNvwFo4AJq&_nc_oc=AdoSYzQ2yZhlQvzw-BFfmioRESVlIPbxaF5mi8HcZbUFwPaUf6n_NBzLLeoDEz7vRB4&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=KyjrLt4GDkAvpGLK1TA1_w&_nc_ss=79289&oh=00_AQOBMtDzM33ykMsnYhNuM8EO0eEVCM6_zO40ry4bHucfWg&oe=6AD2435E",
+      "description": "El Rector, el Vicerrector Académico, el Vicerrector de Investigación, la Facultad de Ciencias Agrarias y toda la familia de la Universidad Nacional de… See more\nCONDOLENCIAS\nEl Rector, el Vicerrector Académico, el Vicerrector de Investigación, la Facultad de Ciencias Agrarias y toda la familia de la Universidad Nacional de… See more\nEl Rector, e...",
+      "facebook_url": "https://www.facebook.com/unapunooficial",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-12T06:56:14.506150+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "CONDOLENCIAS",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "comunicados",
@@ -29,7 +47,7 @@
       "extracted_at": "2026-10-12T06:53:26.466963+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "MEDALLAS DE ORO, PLATA Y BRONCE PARA LA UNA PUNO EN FONDISMO Y VELOCIDAD EN LA UNIVERSIADA L...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -47,7 +65,7 @@
       "extracted_at": "2026-10-12T06:53:26.466963+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "UNA PUNO REAFIRMA SU COMPROMISO CON EL COMITÉ DE SALVAGUARDA DE LA FESTIVIDAD VIRGEN DE LA C...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -65,7 +83,7 @@
       "extracted_at": "2026-10-12T06:53:26.466963+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "RECTOR DE LA UNA PUNO SUPERVISA AVANCE DE LABORATORIOS PARA CAMÉLIDOS SUDAMERICANOS EN LA RA...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "investigacion",
@@ -78,24 +96,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial",
       "likes": 2360,
       "shares": 485,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-12T06:53:26.466963+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "RECTOR DE LA UNA PUNO SUPERVISA Y DEGUSTA PANETONES ELABORADOS EN LA PANIFICADORA UNIVERSITA...",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "institucional",
-      "category_label": "Vida Universitaria",
-      "badge": "Oficial",
-      "date": "12 Oct 2026, 06:53 UTC",
-      "image": "https://scontent.fjul1-1.fna.fbcdn.net/v/t39.99422-6/841465235_1419748860340717_663809710373420890_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WCUuS0qaug8Q7kNvwEUxPBl&_nc_oc=AdpzcGjKBZiKcyS292YIczed-egu9wwv7OvaU8t7l1pfp8LjZw6Krny5LtOkJ1Ba9ic&_nc_zt=14&_nc_ht=scontent.fjul1-1.fna&_nc_gid=JgoqpwZGjJHuY-yZWjfErA&_nc_ss=79289&oh=00_AQPDJ4e_1gMgM76Fxvf50gopuH-JHdylHYmbpFFKWBE70g&oe=6AD26C44",
-      "thumbnail": "https://scontent.fjul1-1.fna.fbcdn.net/v/t39.99422-6/841465235_1419748860340717_663809710373420890_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WCUuS0qaug8Q7kNvwEUxPBl&_nc_oc=AdpzcGjKBZiKcyS292YIczed-egu9wwv7OvaU8t7l1pfp8LjZw6Krny5LtOkJ1Ba9ic&_nc_zt=14&_nc_ht=scontent.fjul1-1.fna&_nc_gid=JgoqpwZGjJHuY-yZWjfErA&_nc_ss=79289&oh=00_AQPDJ4e_1gMgM76Fxvf50gopuH-JHdylHYmbpFFKWBE70g&oe=6AD26C44",
-      "description": "RECTOR DE LA UNA PUNO SUPERVISA Y DEGUSTA PANETONES ELABORADOS EN LA PANIFICADORA UNIVERSITARIA... Ver más\nRECTOR DE LA UNA PUNO SUPERVISA Y DEGUSTA PANETONES ELABORADOS EN LA PANIFICADORA UNIVERSITARIA... Ver más\nQue de hasta Posgrado.\nQue de hasta Posgrado.",
-      "facebook_url": "https://www.facebook.com/unapunooficial",
-      "likes": 2680,
-      "shares": 560,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-12T06:53:26.466963+00:00"
