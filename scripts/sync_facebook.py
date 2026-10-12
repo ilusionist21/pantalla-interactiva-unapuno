@@ -3,7 +3,7 @@
 SINCRONIZADOR AUTOMÁTICO DE FACEBOOK: @unapunooficial
 Compatible con Windows, Linux (GitHub Actions) y cPanel.
 - Guarda ÚNICAMENTE las URLs de las fotos en data/posts.json (cero almacenamiento en disco).
-- Extrae las 5 últimas publicaciones con su primera foto real.
+- Extrae las 5 últimas publicaciones con su PRIMERA foto real (orden DOM de Facebook).
 """
 
 import asyncio
@@ -28,7 +28,6 @@ def get_chrome_path():
             r"C:\Program Files\Microsoft\Edge\Application\msedge.exe"
         ]
     else:
-        # Linux / GitHub Actions
         candidates = [
             "/usr/bin/google-chrome",
             "/usr/bin/google-chrome-stable",
@@ -49,7 +48,6 @@ async def scrape_with_browser():
         from pyppeteer import launch
 
     exec_path = get_chrome_path()
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] Iniciando extractor de Facebook...")
     if exec_path:
         print(f"[*] Navegador detectado: {exec_path}")
 
@@ -81,20 +79,15 @@ async def scrape_with_browser():
         except:
             pass
 
-        # Scroll para hidratar las 5 publicaciones recientes
-        for _ in range(5):
-            await page.evaluate('''() => {
-                document.querySelectorAll('div[role="dialog"]').forEach(d => {
-                    const btn = d.querySelector('[aria-label="Cerrar"], [aria-label="Close"]');
-                    if (btn) try { btn.click(); } catch(e){}
-                    try { d.remove(); } catch(e){}
-                });
-                document.body.style.overflow = 'auto';
-                window.scrollBy(0, 1200);
-            }''')
+        # Scroll suave sin destruir nodos de React para que hidrate las publicaciones
+        for _ in range(4):
+            await page.evaluate('window.scrollBy(0, 1000)')
             await asyncio.sleep(2)
 
-        # Extraer los artículos con su foto principal correcta (evitando avatares y seleccionando la portada de álbumes)
+        # LÓGICA DIRECTA:
+        # En el DOM de Facebook, las imágenes del contenido de cada post aparecen en orden exacto (Foto 1, Foto 2, ...).
+        # El avatar del autor está en un <svg><image>, mientras que las fotos del post son <img> con src*="scontent".
+        # Por tanto, la PRIMERA <img> válida dentro del artículo es SIEMPRE la Foto #1 (tenga 1, 5 o 40 fotos).
         posts_extracted = await page.evaluate('''() => {
             const results = [];
             const articles = document.querySelectorAll('div[role="article"]');
@@ -105,36 +98,20 @@ async def scrape_with_browser():
                 
                 const fullText = textNodes.join('\\n');
                 
-                // Buscar todas las imágenes de Facebook en el artículo
+                // Tomar todas las <img> de scontent en orden de aparición en el DOM
                 const imgs = Array.from(art.querySelectorAll('img[src*="scontent"]'));
                 
-                // Filtrar imágenes reales de contenido (descartando avatares de 40x40 o íconos)
-                const contentImgs = imgs.filter(im => {
-                    const rect = im.getBoundingClientRect();
-                    const w = rect.width || im.naturalWidth || im.width || 0;
-                    const h = rect.height || im.naturalHeight || im.height || 0;
+                // Elegir la PRIMERA imagen que no sea un icono/avatar diminuto
+                const firstPhoto = imgs.find(im => {
+                    const w = im.getBoundingClientRect().width || im.naturalWidth || im.width || 0;
                     const src = im.src || '';
-                    const isSmallAvatar = src.includes('p50x50') || src.includes('s50x50') || src.includes('s100x100');
-                    return (w > 120 && h > 120) && !isSmallAvatar;
-                });
-                
-                // Si la publicación tiene varias fotos (álbum de 5 fotos), elegir la foto principal de portada (la más grande)
-                let bestImg = null;
-                if (contentImgs.length > 0) {
-                    contentImgs.sort((a, b) => {
-                        const areaA = (a.getBoundingClientRect().width || a.naturalWidth || a.width || 1) * (a.getBoundingClientRect().height || a.naturalHeight || a.height || 1);
-                        const areaB = (b.getBoundingClientRect().width || b.naturalWidth || b.width || 1) * (b.getBoundingClientRect().height || b.naturalHeight || b.height || 1);
-                        return areaB - areaA;
-                    });
-                    bestImg = contentImgs[0];
-                } else if (imgs.length > 0) {
-                    bestImg = imgs.find(im => !im.src.includes('p50x50') && !im.src.includes('s50x50') && !im.src.includes('s100x100')) || imgs[0];
-                }
+                    return w > 120 && !src.includes('p50x50') && !src.includes('s50x50');
+                }) || imgs[0];
 
-                if (bestImg && fullText.length > 25) {
+                if (firstPhoto && fullText.length > 25) {
                     results.push({
                         text: fullText,
-                        imgUrl: bestImg.src
+                        imgUrl: firstPhoto.src
                     });
                 }
             }
@@ -167,7 +144,7 @@ def format_and_save(extracted):
         ("institucional", "Vida Universitaria", "Oficial"),
     ]
 
-    # Leer publicaciones existentes para preservar hasta completar las 5
+    # Leer publicaciones existentes para preservar siempre las 5 más recientes
     existing_posts = []
     if os.path.exists(POSTS_FILE):
         try:
@@ -221,7 +198,7 @@ def format_and_save(extracted):
         if len(new_posts) >= 5:
             break
 
-    # Rellenar con publicaciones anteriores si se extrajeron menos de 5
+    # Fusionar con anteriores si en alguna corrida se extrajeron menos de 5
     final_posts = list(new_posts)
     for p in existing_posts:
         if len(final_posts) >= 5:
@@ -234,7 +211,6 @@ def format_and_save(extracted):
             p_copy['id'] = f"fb-official-{idx+1:02d}"
             final_posts.append(p_copy)
 
-    # Reasignar IDs secuenciales
     for i, p in enumerate(final_posts):
         p['id'] = f"fb-official-{i+1:02d}"
 
@@ -247,7 +223,7 @@ def format_and_save(extracted):
                 "facebook_page": FACEBOOK_URL,
                 "facebook_handle": "@unapunooficial",
                 "last_sync": now.isoformat(),
-                "sync_status": f"OK - {len(final_posts)} URLs directas de Facebook",
+                "sync_status": f"OK - {len(final_posts[:5])} URLs directas de Facebook",
                 "auto_refresh_minutes": 15
             },
             "posts": final_posts[:5]
