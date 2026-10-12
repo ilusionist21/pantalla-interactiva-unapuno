@@ -94,7 +94,7 @@ async def scrape_with_browser():
             }''')
             await asyncio.sleep(2)
 
-        # Extraer los artículos con su primera foto real
+        # Extraer los artículos con su foto principal correcta (evitando avatares y seleccionando la portada de álbumes)
         posts_extracted = await page.evaluate('''() => {
             const results = [];
             const articles = document.querySelectorAll('div[role="article"]');
@@ -104,11 +104,37 @@ async def scrape_with_browser():
                     .filter(t => t.length > 20 && !t.includes('Iniciar sesión') && !t.includes('Facebook'));
                 
                 const fullText = textNodes.join('\\n');
-                const img = art.querySelector('img[src*="scontent"]');
-                if (img && fullText.length > 25) {
+                
+                // Buscar todas las imágenes de Facebook en el artículo
+                const imgs = Array.from(art.querySelectorAll('img[src*="scontent"]'));
+                
+                // Filtrar imágenes reales de contenido (descartando avatares de 40x40 o íconos)
+                const contentImgs = imgs.filter(im => {
+                    const rect = im.getBoundingClientRect();
+                    const w = rect.width || im.naturalWidth || im.width || 0;
+                    const h = rect.height || im.naturalHeight || im.height || 0;
+                    const src = im.src || '';
+                    const isSmallAvatar = src.includes('p50x50') || src.includes('s50x50') || src.includes('s100x100');
+                    return (w > 120 && h > 120) && !isSmallAvatar;
+                });
+                
+                // Si la publicación tiene varias fotos (álbum de 5 fotos), elegir la foto principal de portada (la más grande)
+                let bestImg = null;
+                if (contentImgs.length > 0) {
+                    contentImgs.sort((a, b) => {
+                        const areaA = (a.getBoundingClientRect().width || a.naturalWidth || a.width || 1) * (a.getBoundingClientRect().height || a.naturalHeight || a.height || 1);
+                        const areaB = (b.getBoundingClientRect().width || b.naturalWidth || b.width || 1) * (b.getBoundingClientRect().height || b.naturalHeight || b.height || 1);
+                        return areaB - areaA;
+                    });
+                    bestImg = contentImgs[0];
+                } else if (imgs.length > 0) {
+                    bestImg = imgs.find(im => !im.src.includes('p50x50') && !im.src.includes('s50x50') && !im.src.includes('s100x100')) || imgs[0];
+                }
+
+                if (bestImg && fullText.length > 25) {
                     results.push({
                         text: fullText,
-                        imgUrl: img.src
+                        imgUrl: bestImg.src
                     });
                 }
             }
