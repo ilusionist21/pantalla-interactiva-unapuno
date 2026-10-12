@@ -18,7 +18,7 @@ class AppleKioskApp {
 
     // Sincronización Automática de Facebook (15 minutos)
     this.fbSyncIntervalMs = 15 * 60 * 1000;
-    this.lastSyncTime = Date.now();
+    this.lastSyncTime = 0;
     this.fallbackImage = 'assets/portal_unap.jpg';
     this.lastForegroundRefresh = 0;
     this.publicShareUrl = 'https://ilusionist21.github.io/pantalla-interactiva-unapuno/';
@@ -62,18 +62,15 @@ class AppleKioskApp {
     const syncEl = document.getElementById('syncText');
     if (!syncEl) return;
 
-    const elapsedSec = Math.floor((Date.now() - this.lastSyncTime) / 1000);
-    const remainingSec = Math.max(0, (15 * 60) - elapsedSec);
-
-    const remM = Math.floor(remainingSec / 60);
-    const remS = String(remainingSec % 60).padStart(2, '0');
-
-    if (elapsedSec < 60) {
-      syncEl.textContent = `En Vivo • ${remM}:${remS}`;
-    } else {
-      const elapsedM = Math.floor(elapsedSec / 60);
-      syncEl.textContent = `${elapsedM}m • Próx ${remM}:${remS}`;
+    if (!this.lastSyncTime) {
+      syncEl.textContent = 'Comprobando datos';
+      return;
     }
+
+    const elapsedM = Math.max(0, Math.floor((Date.now() - this.lastSyncTime) / 60000));
+    syncEl.textContent = elapsedM >= 30
+      ? `Sin actualizar • hace ${elapsedM} min`
+      : `Actualizado hace ${elapsedM} min`;
   }
 
   /* ==========================================================================
@@ -105,8 +102,6 @@ class AppleKioskApp {
   }
 
   refreshFacebookData() {
-    this.lastSyncTime = Date.now();
-
     // En GitHub Pages o servidor estático, recargar posts.json directamente sin caché
     if (window.location.hostname.includes('github.io') || window.location.protocol === 'file:') {
       this.loadPosts().then(() => {
@@ -141,6 +136,7 @@ class AppleKioskApp {
     const embeddedPosts = this.normalizePosts(window.UNAP_POSTS_DATA?.posts);
     if (embeddedPosts.length) {
       this.posts = embeddedPosts;
+      this.lastSyncTime = Date.parse(window.UNAP_POSTS_DATA?.university?.last_sync) || 0;
     }
 
     try {
@@ -148,7 +144,10 @@ class AppleKioskApp {
       if (resp.ok) {
         const data = await resp.json();
         const remotePosts = this.normalizePosts(data.posts);
-        if (remotePosts.length) this.posts = remotePosts;
+        if (remotePosts.length) {
+          this.posts = remotePosts;
+          this.lastSyncTime = Date.parse(data.university?.last_sync) || 0;
+        }
       }
     } catch (e) {
       console.warn('Error al leer posts.json:', e);
