@@ -85,8 +85,17 @@ class AppleKioskApp {
   refreshFacebookData() {
     this.lastSyncTime = Date.now();
 
-    // 1. En cPanel, disparar el script nativo sync_facebook.php
-    fetch('sync_facebook.php')
+    // En GitHub Pages o servidor estático, recargar posts.json directamente sin caché
+    if (window.location.hostname.includes('github.io') || window.location.protocol === 'file:') {
+      this.loadPosts().then(() => {
+        this.renderDockCards();
+        this.showPost(this.currentIdx);
+      });
+      return;
+    }
+
+    // En cPanel, disparar el script nativo sync_facebook.php y luego recargar posts.json
+    fetch('sync_facebook.php', { cache: 'no-store' })
       .then(r => r.json())
       .then(res => {
         console.log('[Apple Sync OK]:', res);
@@ -96,7 +105,6 @@ class AppleKioskApp {
         });
       })
       .catch(() => {
-        // 2. En local / GitHub Pages, recargar posts.json directamente
         this.loadPosts().then(() => {
           this.renderDockCards();
           this.showPost(this.currentIdx);
@@ -109,7 +117,7 @@ class AppleKioskApp {
      ========================================================================== */
   async loadPosts() {
     try {
-      const resp = await fetch('data/posts.json?t=' + Date.now());
+      const resp = await fetch('data/posts.json?t=' + Date.now(), { cache: 'no-store' });
       if (resp.ok) {
         const data = await resp.json();
         this.posts = (data.posts || []).slice(0, 5);
