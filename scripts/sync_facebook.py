@@ -82,8 +82,16 @@ async def scrape_with_browser():
             pass
 
         # Scroll para hidratar las 5 publicaciones recientes
-        for _ in range(4):
-            await page.evaluate('window.scrollBy(0, 1000)')
+        for _ in range(5):
+            await page.evaluate('''() => {
+                document.querySelectorAll('div[role="dialog"]').forEach(d => {
+                    const btn = d.querySelector('[aria-label="Cerrar"], [aria-label="Close"]');
+                    if (btn) try { btn.click(); } catch(e){}
+                    try { d.remove(); } catch(e){}
+                });
+                document.body.style.overflow = 'auto';
+                window.scrollBy(0, 1200);
+            }''')
             await asyncio.sleep(2)
 
         # Extraer los artículos con su primera foto real
@@ -133,7 +141,17 @@ def format_and_save(extracted):
         ("institucional", "Vida Universitaria", "Oficial"),
     ]
 
-    posts = []
+    # Leer publicaciones existentes para preservar hasta completar las 5
+    existing_posts = []
+    if os.path.exists(POSTS_FILE):
+        try:
+            with open(POSTS_FILE, "r", encoding="utf-8") as f:
+                ex_data = json.load(f)
+                existing_posts = ex_data.get("posts", [])
+        except:
+            existing_posts = []
+
+    new_posts = []
     seen_urls = set()
 
     for item in extracted:
@@ -142,7 +160,7 @@ def format_and_save(extracted):
             continue
         seen_urls.add(url)
 
-        idx = len(posts)
+        idx = len(new_posts)
         cat = categories[idx % len(categories)]
 
         raw_text = item['text']
@@ -155,7 +173,7 @@ def format_and_save(extracted):
         if len(desc) > 350:
             desc = desc[:347] + "..."
 
-        posts.append({
+        new_posts.append({
             "id": f"fb-official-{idx+1:02d}",
             "title": title.upper(),
             "subtitle": "Publicado en facebook.com/unapunooficial",
@@ -163,7 +181,6 @@ def format_and_save(extracted):
             "category_label": cat[1],
             "badge": cat[2],
             "date": now.strftime("%d %b %Y, %H:%M UTC"),
-            # GUARDAR ÚNICAMENTE LA URL (SIN GUARDAR ARCHIVOS PESADOS EN DISCO)
             "image": url,
             "thumbnail": url,
             "description": desc,
@@ -175,10 +192,27 @@ def format_and_save(extracted):
             "extracted_at": now.isoformat()
         })
 
-        if len(posts) >= 5:
+        if len(new_posts) >= 5:
             break
 
-    if posts:
+    # Rellenar con publicaciones anteriores si se extrajeron menos de 5
+    final_posts = list(new_posts)
+    for p in existing_posts:
+        if len(final_posts) >= 5:
+            break
+        img = p.get('image')
+        if img and img not in seen_urls:
+            seen_urls.add(img)
+            idx = len(final_posts)
+            p_copy = dict(p)
+            p_copy['id'] = f"fb-official-{idx+1:02d}"
+            final_posts.append(p_copy)
+
+    # Reasignar IDs secuenciales
+    for i, p in enumerate(final_posts):
+        p['id'] = f"fb-official-{i+1:02d}"
+
+    if final_posts:
         data = {
             "university": {
                 "name": "Universidad Nacional del Altiplano",
@@ -187,17 +221,17 @@ def format_and_save(extracted):
                 "facebook_page": FACEBOOK_URL,
                 "facebook_handle": "@unapunooficial",
                 "last_sync": now.isoformat(),
-                "sync_status": f"OK - {len(posts)} URLs directas de Facebook",
+                "sync_status": f"OK - {len(final_posts)} URLs directas de Facebook",
                 "auto_refresh_minutes": 15
             },
-            "posts": posts
+            "posts": final_posts[:5]
         }
 
         os.makedirs(os.path.dirname(POSTS_FILE), exist_ok=True)
         with open(POSTS_FILE, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
 
-        print(f"[OK] {len(posts)} publicaciones de Facebook actualizadas en {POSTS_FILE} (cero archivos pesados guardados).")
+        print(f"[OK] {len(final_posts[:5])} publicaciones de Facebook actualizadas en {POSTS_FILE} (cero archivos pesados guardados).")
 
 def run_sync():
     extracted = asyncio.run(scrape_with_browser())
