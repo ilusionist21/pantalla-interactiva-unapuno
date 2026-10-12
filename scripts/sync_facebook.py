@@ -102,7 +102,7 @@ EXTRACT_POSTS_JS = r"""
     const isPhotoUrl = value => {
         const url = value || '';
         return /(?:scontent|fbcdn|lookaside\.fbsbx)/i.test(url)
-            && !/(?:avatar|profile|emoji|icon|rsrc\.php|p(?:50|64)x(?:50|64)|s(?:50|64)x(?:50|64))/i.test(url);
+            && !/(?:avatar|profile|emoji|icon|rsrc\.php|t39\.30808-1|_nc_sid=3ab345|p(?:50|64)x(?:50|64)|s(?:50|64)x(?:50|64))/i.test(url);
     };
 
     const getImageCandidates = article => {
@@ -273,6 +273,17 @@ def get_img_id(url):
     return os.path.basename(urlparse(url).path).lower()
 
 
+def is_profile_image_url(url):
+    """Descarta avatar, portada o identidad de la página mezclados con posts."""
+    return bool(
+        re.search(
+            r"(?:/t39\.30808-1/|[?&]_nc_sid=3ab345(?:&|$)|avatar|profile)",
+            url or "",
+            flags=re.IGNORECASE,
+        )
+    )
+
+
 def get_high_resolution_image_url(url):
     """Quita el límite de tamaño del CDN de Facebook sin alterar su firma."""
     if not url or not re.search(r"(?:fbcdn|scontent)", url, flags=re.IGNORECASE):
@@ -350,7 +361,7 @@ def format_and_save(extracted):
 
         url = item.get("imgUrl", "")
         img_id = get_img_id(url)
-        if not url or not img_id:
+        if not url or not img_id or is_profile_image_url(url):
             continue
 
         lines = clean_text_lines(raw_text)
@@ -408,7 +419,7 @@ def format_and_save(extracted):
             previous.get("title", ""),
             previous.get("description", ""),
             previous.get("badge", ""),
-        ):
+        ) or is_profile_image_url(previous.get("image", "")):
             continue
         previous_img_id = get_img_id(previous.get("image", ""))
         previous_title = previous.get("title", "").upper()[:45].strip()
