@@ -5,13 +5,31 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-12T15:28:42.933378+00:00",
+    "last_sync": "2026-10-12T15:30:44.026356+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "UNIVERSIDAD NACIONAL DEL ALTIPLANO PUNO | PUNO",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "12 Oct 2026, 15:30 UTC",
+      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/480269675_1053749870124057_8842701845433751412_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x2048&_nc_cat=102&ccb=1-7&_nc_sid=3ab345&_nc_ohc=PFxijiEFPRwQ7kNvwEY2Xj4&_nc_oc=AdqEv-mS40wiUMAx7wTLVBvIO7n4nXLnrq5JpsGv3u6xabSb2XI-sUHAyoiU_wsEHn4&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&_nc_gid=WUSHl8P9OfhJ2XFl08el5A&_nc_ss=79289&oh=00_AQNuMT9mRvxJQSYsfwWyO7knnRncyjL0g-qkjLSppbbirg&oe=6AD2E79C",
+      "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/480269675_1053749870124057_8842701845433751412_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=s720x720&_nc_cat=102&ccb=1-7&_nc_sid=3ab345&_nc_ohc=PFxijiEFPRwQ7kNvwEY2Xj4&_nc_oc=AdqEv-mS40wiUMAx7wTLVBvIO7n4nXLnrq5JpsGv3u6xabSb2XI-sUHAyoiU_wsEHn4&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&_nc_gid=WUSHl8P9OfhJ2XFl08el5A&_nc_ss=79289&oh=00_AQNuMT9mRvxJQSYsfwWyO7knnRncyjL0g-qkjLSppbbirg&oe=6AD2E79C",
+      "description": "Información oficial de la UNA Puno sobre Universidad Nacional del Altiplano Puno | Puno.",
+      "facebook_url": "https://www.facebook.com/unapunooficial",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-12T15:30:44.026356+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "FELIZ ANIVERSARIO E.P. DE SOCIOLOGÍA",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -29,7 +47,7 @@
       "extracted_at": "2026-10-12T15:28:42.933378+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "MEDALLAS DE ORO, PLATA Y BRONCE PARA LA UNA PUNO EN FONDISMO Y VELOCIDAD EN LA UNIVERSIADA L...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -47,7 +65,7 @@
       "extracted_at": "2026-10-12T15:28:42.933378+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "UNA PUNO REAFIRMA SU COMPROMISO CON EL COMITÉ DE SALVAGUARDA DE LA FESTIVIDAD VIRGEN DE LA C...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -65,7 +83,7 @@
       "extracted_at": "2026-10-12T15:28:42.933378+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "¡EL ESTADIO MONUMENTAL DE LA UNA PUNO ABRE SUS PUERTAS A LA FIESTA DEL FÚTBOL!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "investigacion",
@@ -78,24 +96,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial",
       "likes": 2360,
       "shares": 485,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-12T15:28:42.933378+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "RECTOR DE LA UNA PUNO SUPERVISA AVANCE DE LABORATORIOS PARA CAMÉLIDOS SUDAMERICANOS EN LA RAYA",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "comunicados",
-      "category_label": "Comunicado Oficial",
-      "badge": "Oficial",
-      "date": "12 Oct 2026, 15:28 UTC",
-      "image": "https://scontent.flim20-1.fna.fbcdn.net/v/t39.99422-6/841318146_29135128566173984_5228544002477599080_n.png?stp=dst-jpg_tt6&cstp=mx1494x996&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=twhuddbz-jIQ7kNvwErFvVH&_nc_oc=AdpcK_5kY9UVJ8qY5YeDECb-3L5BCLMY-lQw5Kk9pLbNRxTNojX_mNWbn_n0KalmKMI&_nc_zt=14&_nc_ht=scontent.flim20-1.fna&_nc_gid=dPjsE3iolDmiugyksP5XlQ&_nc_ss=79289&oh=00_AQO-W_Q20EQH6ne9GXG0ISj-3hnqg72B3VeRFRuVnQwAFw&oe=6AD2DE9B",
-      "thumbnail": "https://scontent.flim20-1.fna.fbcdn.net/v/t39.99422-6/841318146_29135128566173984_5228544002477599080_n.png?stp=dst-jpg_tt6&cstp=mx1494x996&ctp=s590x590&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=twhuddbz-jIQ7kNvwErFvVH&_nc_oc=AdpcK_5kY9UVJ8qY5YeDECb-3L5BCLMY-lQw5Kk9pLbNRxTNojX_mNWbn_n0KalmKMI&_nc_zt=14&_nc_ht=scontent.flim20-1.fna&_nc_gid=dPjsE3iolDmiugyksP5XlQ&_nc_ss=79289&oh=00_AQO-W_Q20EQH6ne9GXG0ISj-3hnqg72B3VeRFRuVnQwAFw&oe=6AD2DE9B",
-      "description": "Información oficial de la UNA Puno sobre RECTOR DE LA UNA PUNO SUPERVISA AVANCE DE LABORATORIOS PARA CAMÉLIDOS SUDAMERICANOS EN LA RAYA.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02Bp4ZZjYb322iXMtHnpVzkL4syvPFcebYg1wcJ72A5bkRDqRqD3NDJaEah36ztPTwl?__cft__[0]=AZgzC6KGszKQSx5gcSaLkatrJ9Jv-ILtMtAicl9tndaYThEkvyjmA5EFXCbiZyRN7aT1mb_i20kp9aftqaFQ2DtIhuY6-Wkn2L6e911qAK0NjUm6Wl9TTtuZ_F9VYcjwEeF3lloiH6MuaId5B2e_2Yfehpl5-RgD6UG8dXqLvUImrbCf4AtqdV1xBds&__tn__=%2CO%2CP-R",
-      "likes": 2680,
-      "shares": 560,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-12T15:28:42.933378+00:00"
