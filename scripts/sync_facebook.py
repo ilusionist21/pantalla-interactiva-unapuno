@@ -294,6 +294,12 @@ def clean_text_lines(raw_text):
         line = re.sub(r"(?:\.{1,3}\s*)?(?:ver más|see more)\s*$", "", line, flags=re.IGNORECASE).strip()
         if not line or line.lower() in {"ver más", "see more", "me gusta", "comentar", "compartir"}:
             continue
+        normalized_line = normalize_for_filter(line)
+        if re.match(
+            r"^(?:ver|view|mostrar).*(?:comentarios|comments|respuestas|replies)$",
+            normalized_line,
+        ):
+            break
         if line not in lines:
             lines.append(line)
     return lines
@@ -348,7 +354,8 @@ def format_and_save(extracted):
             continue
 
         lines = clean_text_lines(raw_text)
-        title = (lines[0] if lines else "PUBLICACIÓN OFICIAL UNA PUNO").upper()
+        raw_title = lines[0] if lines else "Publicación oficial UNA Puno"
+        title = raw_title.upper()
         if len(title) > 95:
             title = title[:92] + "..."
         title_key = title[:45].strip()
@@ -363,7 +370,7 @@ def format_and_save(extracted):
         description = (
             "\n".join(lines[1:5])
             if len(lines) > 1
-            else "Publicación oficial de la Universidad Nacional del Altiplano Puno."
+            else f"Información oficial de la UNA Puno sobre {raw_title.rstrip('.')}."
         )
         if len(description) > 350:
             description = description[:347] + "..."

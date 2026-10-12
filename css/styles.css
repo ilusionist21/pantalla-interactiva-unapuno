@@ -421,6 +421,9 @@ html, body {
   color: var(--text-white);
   margin-bottom: 16px;
   text-shadow: 0 2px 10px rgba(0, 0, 0, 0.6);
+  opacity: 1;
+  visibility: visible;
+  -webkit-text-fill-color: currentColor;
 }
 
 .cinema-description {
@@ -435,6 +438,42 @@ html, body {
   margin-bottom: 24px;
   flex: 1;
   overflow-y: auto;
+  opacity: 1;
+  visibility: visible;
+  -webkit-text-fill-color: currentColor;
+  overflow-wrap: anywhere;
+}
+
+/* En monitores, el texto debe dominar la ficha y no perderse dentro de un
+   bloque vacío demasiado alto cuando Facebook solo entrega una línea. */
+@media (min-width: 1101px) {
+  .cinema-details {
+    justify-content: flex-start;
+    overflow-y: hidden;
+  }
+
+  .cinema-title {
+    flex: 0 0 auto;
+    font-size: clamp(1.95rem, 2.2vw, 2.7rem);
+  }
+
+  .cinema-description {
+    flex: 0 1 auto;
+    min-height: clamp(120px, 18vh, 190px);
+    max-height: min(34vh, 280px);
+    padding: 22px 26px;
+    color: #ffffff;
+    background: rgba(0, 20, 44, 0.9);
+    font-size: clamp(1.08rem, 1.18vw, 1.28rem);
+    font-weight: 550;
+    line-height: 1.58;
+    text-shadow: 0 1px 8px rgba(0, 0, 0, 0.7);
+    box-shadow: inset 0 0 0 1px rgba(0, 200, 255, 0.08);
+  }
+
+  .cinema-footer {
+    margin-top: auto;
+  }
 }
 
 .cinema-footer {
