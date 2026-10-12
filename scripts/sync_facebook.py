@@ -179,10 +179,11 @@ EXTRACT_POSTS_JS = r"""
         const lines = getTextLines(article);
         const images = getImageCandidates(article);
         const firstPhoto = images[0];
-        if (!firstPhoto) continue;
+        const postUrl = getPostUrl(article);
+        if (!firstPhoto || !postUrl) continue;
 
         const text = lines.join('\n');
-        if (text.length < 8 && !getPostUrl(article)) continue;
+        if (text.length < 8) continue;
 
         const key = `${firstPhoto.url.split('?')[0]}|${lines[0] || ''}`;
         if (seen.has(key)) continue;
@@ -191,19 +192,9 @@ EXTRACT_POSTS_JS = r"""
         results.push({
             text: text || 'PUBLICACIÓN OFICIAL UNA PUNO',
             imgUrl: firstPhoto.url,
-            postUrl: getPostUrl(article),
+            postUrl,
             publishedAt: getPublishedAt(article)
         });
-    }
-
-    // Facebook puede devolver una página de bloqueo sin artículos. Conservar
-    // al menos el recurso Open Graph evita un JSON vacío y facilita diagnosticar.
-    if (!results.length) {
-        const image = document.querySelector('meta[property="og:image"]')?.content || '';
-        const title = document.querySelector('meta[property="og:title"]')?.content || '';
-        if (isPhotoUrl(image)) {
-            results.push({ text: title || 'PUBLICACIÓN OFICIAL UNA PUNO', imgUrl: image, postUrl: '' });
-        }
     }
 
     return results
@@ -566,7 +557,8 @@ def main():
             print("[*] Esperando 15 minutos (900 seg) para el próximo ciclo...")
             time.sleep(15 * 60)
     else:
-        run_sync()
+        if not run_sync():
+            raise SystemExit(1)
 
 
 if __name__ == "__main__":
