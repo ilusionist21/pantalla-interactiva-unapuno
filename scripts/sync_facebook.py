@@ -130,6 +130,12 @@ async def scrape_with_browser():
             pass
         return []
 
+def get_img_id(url):
+    """Extrae el nombre único del archivo de imagen ignorando subdominios y tokens temporales de Facebook."""
+    if not url:
+        return ""
+    return url.split("?")[0].split("/")[-1]
+
 def format_and_save(extracted):
     if not extracted:
         print("[!] No se extrajeron publicaciones nuevas. Conservando datos actuales.")
@@ -144,7 +150,7 @@ def format_and_save(extracted):
         ("institucional", "Vida Universitaria", "Oficial"),
     ]
 
-    # Leer publicaciones existentes para preservar siempre las 5 más recientes
+    # Leer publicaciones existentes para preservar siempre las 5 más recientes sin duplicar
     existing_posts = []
     if os.path.exists(POSTS_FILE):
         try:
@@ -155,22 +161,28 @@ def format_and_save(extracted):
             existing_posts = []
 
     new_posts = []
-    seen_urls = set()
+    seen_img_ids = set()
+    seen_titles = set()
 
     for item in extracted:
         url = item['imgUrl']
-        if url in seen_urls:
-            continue
-        seen_urls.add(url)
-
-        idx = len(new_posts)
-        cat = categories[idx % len(categories)]
+        img_id = get_img_id(url)
 
         raw_text = item['text']
         lines = [l.strip() for l in raw_text.split('\n') if len(l.strip()) > 5]
-        title = lines[0] if lines else f"PUBLICACIÓN OFICIAL UNA PUNO #{idx+1}"
+        title = (lines[0] if lines else f"PUBLICACIÓN OFICIAL UNA PUNO").upper()
         if len(title) > 95:
             title = title[:92] + "..."
+        title_key = title[:45].strip()
+
+        # Evitar duplicados por ID de archivo de foto o por título idéntico
+        if img_id in seen_img_ids or title_key in seen_titles:
+            continue
+        seen_img_ids.add(img_id)
+        seen_titles.add(title_key)
+
+        idx = len(new_posts)
+        cat = categories[idx % len(categories)]
 
         desc = '\n'.join(lines[1:5]) if len(lines) > 1 else raw_text
         if len(desc) > 350:
@@ -178,7 +190,7 @@ def format_and_save(extracted):
 
         new_posts.append({
             "id": f"fb-official-{idx+1:02d}",
-            "title": title.upper(),
+            "title": title,
             "subtitle": "Publicado en facebook.com/unapunooficial",
             "category": cat[0],
             "category_label": cat[1],
@@ -198,14 +210,18 @@ def format_and_save(extracted):
         if len(new_posts) >= 5:
             break
 
-    # Fusionar con anteriores si en alguna corrida se extrajeron menos de 5
+    # Fusionar con anteriores si en alguna corrida se extrajeron menos de 5 (comparando por nombre de foto y título)
     final_posts = list(new_posts)
     for p in existing_posts:
         if len(final_posts) >= 5:
             break
-        img = p.get('image')
-        if img and img not in seen_urls:
-            seen_urls.add(img)
+        img = p.get('image', '')
+        img_id = get_img_id(img)
+        t_key = p.get('title', '').upper()[:45].strip()
+
+        if img_id and img_id not in seen_img_ids and t_key not in seen_titles:
+            seen_img_ids.add(img_id)
+            seen_titles.add(t_key)
             idx = len(final_posts)
             p_copy = dict(p)
             p_copy['id'] = f"fb-official-{idx+1:02d}"
