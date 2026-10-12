@@ -264,7 +264,7 @@ class AppleKioskApp {
       thumb.className = 'dock-thumb';
       thumb.loading = 'lazy';
       thumb.alt = post.title;
-      this.setImageSource(thumb, this.getPostImage(post), post.title);
+      this.setImageSource(thumb, this.getPostThumbnail(post), post.title);
 
       const info = document.createElement('div');
       info.className = 'dock-info';
@@ -293,6 +293,10 @@ class AppleKioskApp {
 
   getPostImage(post) {
     return post && (post.image || post.thumbnail) || this.fallbackImage;
+  }
+
+  getPostThumbnail(post) {
+    return post && (post.thumbnail || post.image) || this.fallbackImage;
   }
 
   setImageSource(img, source, alt = '') {

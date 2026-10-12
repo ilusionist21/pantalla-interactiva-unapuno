@@ -17,7 +17,7 @@ import sys
 import time
 import unicodedata
 from datetime import datetime, timezone
-from urllib.parse import urlparse
+from urllib.parse import parse_qsl, urlencode, urlparse
 
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -273,6 +273,20 @@ def get_img_id(url):
     return os.path.basename(urlparse(url).path).lower()
 
 
+def get_high_resolution_image_url(url):
+    """Quita el límite de tamaño del CDN de Facebook sin alterar su firma."""
+    if not url or not re.search(r"(?:fbcdn|scontent)", url, flags=re.IGNORECASE):
+        return url
+
+    parsed = urlparse(url)
+    query = [
+        (key, value)
+        for key, value in parse_qsl(parsed.query, keep_blank_values=True)
+        if key.lower() != "ctp"
+    ]
+    return parsed._replace(query=urlencode(query, doseq=True)).geturl()
+
+
 def clean_text_lines(raw_text):
     lines = []
     for raw_line in (raw_text or "").splitlines():
@@ -363,7 +377,7 @@ def format_and_save(extracted):
                 "category_label": category[1],
                 "badge": category[2],
                 "date": now.strftime("%d %b %Y, %H:%M UTC"),
-                "image": url,
+                "image": get_high_resolution_image_url(url),
                 "thumbnail": url,
                 "description": description,
                 "facebook_url": item.get("postUrl") or FACEBOOK_URL,
@@ -402,6 +416,9 @@ def format_and_save(extracted):
 
     for index, post in enumerate(new_posts[:5]):
         post["id"] = f"fb-official-{index + 1:02d}"
+        thumbnail = post.get("thumbnail") or post.get("image", "")
+        post["thumbnail"] = thumbnail
+        post["image"] = get_high_resolution_image_url(post.get("image") or thumbnail)
 
     payload = {
         "university": {
