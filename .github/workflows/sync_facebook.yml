@@ -1,0 +1,44 @@
+name: Sincronizar Facebook UNA Puno Cada 15 Minutos
+
+on:
+  schedule:
+    # Se ejecuta automáticamente cada 15 minutos en los servidores de GitHub (100% gratis)
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # Permite ejecutar la sincronización manual con 1 clic desde GitHub
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'scripts/**'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias necesarias
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyppeteer
+
+      - name: Ejecutar sincronizador de Facebook UNA Puno
+        run: |
+          python scripts/sync_facebook.py
+
+      - name: Guardar cambios en posts.json si hay novedades (sin guardar fotos pesadas)
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add data/posts.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-sync: 5 últimas publicaciones de Facebook @unapunooficial [skip ci]" && git push)
