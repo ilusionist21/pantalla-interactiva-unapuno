@@ -2,8 +2,9 @@ name: Sincronizar Facebook UNA Puno Cada 15 Minutos
 
 on:
   schedule:
-    # Se ejecuta automáticamente cada 15 minutos en los servidores de GitHub (100% gratis)
-    - cron: '*/15 * * * *'
+    # Cada 15 minutos, fuera de :00/:15/:30/:45 para evitar las ventanas
+    # de alta carga de GitHub Actions donde los schedules pueden retrasarse.
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch: # Permite ejecutar la sincronización manual con 1 clic desde GitHub
   push:
     branches:
@@ -18,7 +19,7 @@ permissions:
 
 concurrency:
   group: facebook-sync
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   sync:

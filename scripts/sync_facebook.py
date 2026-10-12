@@ -127,11 +127,48 @@ EXTRACT_POSTS_JS = r"""
         return candidates.sort((a, b) => b.width - a.width);
     };
 
+    const getPostLink = article => Array.from(article.querySelectorAll('a[href]'))
+        .find(anchor => /(?:\/posts\/|\/photos\/|\/videos\/|story_fbid=)/i.test(anchor.href));
+
     const getPostUrl = article => {
-        const link = Array.from(article.querySelectorAll('a[href]'))
-            .map(anchor => anchor.href)
-            .find(href => /(?:\/posts\/|\/photos\/|\/videos\/|story_fbid=)/i.test(href));
-        return link ? new URL(link, location.href).href : '';
+        const link = getPostLink(article);
+        return link ? new URL(link.href, location.href).href : '';
+    };
+
+    const getPublishedAt = article => {
+        const link = getPostLink(article);
+        if (!link) return '';
+
+        const values = [
+            link.getAttribute('datetime'),
+            link.getAttribute('aria-label'),
+            link.getAttribute('title'),
+            link.innerText
+        ].filter(Boolean).map(clean);
+
+        for (const value of values) {
+            const absolute = Date.parse(value);
+            if (!Number.isNaN(absolute) && /\d/.test(value)) {
+                return new Date(absolute).toISOString();
+            }
+
+            const relative = value.match(/(?:hace\s*)?(\d+)\s*(s|seg(?:undo)?s?|m|min(?:uto)?s?|h|hora?s?|d|d[ií]a?s?|w|semana?s?|month?s?|mes(?:es)?)/i);
+            if (relative) {
+                const amount = Number(relative[1]);
+                const unit = relative[2].toLowerCase();
+                const multiplier = /^(s|seg|segundo)/.test(unit) ? 1000
+                    : /^(m|min|minuto)/.test(unit) ? 60000
+                    : /^(h|hora)/.test(unit) ? 3600000
+                    : /^(d|día)/.test(unit) ? 86400000
+                    : /^(w|semana)/.test(unit) ? 604800000
+                    : 2592000000;
+                return new Date(Date.now() - amount * multiplier).toISOString();
+            }
+
+            if (/^(ahora|just now)$/i.test(value)) return new Date().toISOString();
+        }
+
+        return '';
     };
 
     const results = [];
@@ -154,7 +191,8 @@ EXTRACT_POSTS_JS = r"""
         results.push({
             text: text || 'PUBLICACIÓN OFICIAL UNA PUNO',
             imgUrl: firstPhoto.url,
-            postUrl: getPostUrl(article)
+            postUrl: getPostUrl(article),
+            publishedAt: getPublishedAt(article)
         });
     }
 
@@ -168,7 +206,15 @@ EXTRACT_POSTS_JS = r"""
         }
     }
 
-    return results;
+    return results
+        .map((result, index) => ({ result, index }))
+        .sort((a, b) => {
+            const aTime = Date.parse(a.result.publishedAt || '') || 0;
+            const bTime = Date.parse(b.result.publishedAt || '') || 0;
+            if (aTime !== bTime) return bTime - aTime;
+            return a.index - b.index;
+        })
+        .map(({ result }) => result);
 }
 """
 
@@ -322,6 +368,19 @@ def normalize_for_filter(value):
     return re.sub(r"[^a-z0-9]+", " ", without_accents.lower()).strip()
 
 
+def parse_published_at(value):
+    """Convierte la fecha detectada en Facebook a UTC; None significa sin fecha."""
+    if not value:
+        return None
+    try:
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
+
+
 def is_excluded_post(*values):
     searchable = normalize_for_filter(" ".join(value or "" for value in values))
     return any(term in searchable for term in EXCLUDED_POST_TERMS)
@@ -333,6 +392,16 @@ def format_and_save(extracted):
         return False
 
     now = datetime.now(timezone.utc)
+    def sort_key(pair):
+        published_at = parse_published_at(pair[1].get("publishedAt"))
+        return (
+            0 if published_at else 1,
+            -published_at.timestamp() if published_at else 0,
+            pair[0],
+        )
+
+    extracted = sorted(enumerate(extracted), key=sort_key)
+    extracted = [item for _, item in extracted]
     categories = [
         ("institucional", "Actualidad Universitaria", "UNA Puno"),
         ("deportes", "Deporte Universitario", "Logro Histórico"),
@@ -386,6 +455,8 @@ def format_and_save(extracted):
         if len(description) > 350:
             description = description[:347] + "..."
 
+        published_at = parse_published_at(item.get("publishedAt")) or now
+
         new_posts.append(
             {
                 "id": f"fb-official-{idx + 1:02d}",
@@ -394,7 +465,8 @@ def format_and_save(extracted):
                 "category": category[0],
                 "category_label": category[1],
                 "badge": category[2],
-                "date": now.strftime("%d %b %Y, %H:%M UTC"),
+                "date": published_at.strftime("%d %b %Y, %H:%M UTC"),
+                "published_at": published_at.isoformat(),
                 "image": get_high_resolution_image_url(url),
                 "thumbnail": url,
                 "description": description,
