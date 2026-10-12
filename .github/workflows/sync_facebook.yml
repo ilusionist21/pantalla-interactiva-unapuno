@@ -11,6 +11,7 @@ on:
       - master
     paths:
       - 'scripts/**'
+      - '.github/workflows/sync_facebook.yml'
 
 permissions:
   contents: write
