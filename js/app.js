@@ -19,6 +19,9 @@ class AppleKioskApp {
     // Sincronización Automática de Facebook (15 minutos)
     this.fbSyncIntervalMs = 15 * 60 * 1000;
     this.lastSyncTime = Date.now();
+    this.fallbackImage = 'assets/portal_unap.jpg';
+    this.lastForegroundRefresh = 0;
+    this.publicShareUrl = 'https://ilusionist21.github.io/pantalla-interactiva-unapuno/';
 
     this.init();
   }
@@ -80,6 +83,25 @@ class AppleKioskApp {
     setInterval(() => {
       this.refreshFacebookData();
     }, this.fbSyncIntervalMs);
+
+    // Android puede pausar los timers cuando la pestaña queda en segundo
+    // plano. Al volver a la página se solicita el JSON sin esperar 15 minutos.
+    document.addEventListener('visibilitychange', () => {
+      if (!document.hidden && Date.now() - this.lastForegroundRefresh > 60000) {
+        this.lastForegroundRefresh = Date.now();
+        this.refreshFacebookData();
+      }
+    });
+
+    window.addEventListener('pageshow', () => {
+      if (Date.now() - this.lastForegroundRefresh > 60000) {
+        this.lastForegroundRefresh = Date.now();
+        this.loadPosts().then(() => {
+          this.renderDockCards();
+          this.showPost(this.currentIdx);
+        });
+      }
+    });
   }
 
   refreshFacebookData() {
@@ -116,11 +138,17 @@ class AppleKioskApp {
      3. CARGA DE LAS 5 PUBLICACIONES OFICIALES
      ========================================================================== */
   async loadPosts() {
+    const embeddedPosts = this.normalizePosts(window.UNAP_POSTS_DATA?.posts);
+    if (embeddedPosts.length) {
+      this.posts = embeddedPosts;
+    }
+
     try {
       const resp = await fetch('data/posts.json?t=' + Date.now(), { cache: 'no-store' });
       if (resp.ok) {
         const data = await resp.json();
-        this.posts = (data.posts || []).slice(0, 5);
+        const remotePosts = this.normalizePosts(data.posts);
+        if (remotePosts.length) this.posts = remotePosts;
       }
     } catch (e) {
       console.warn('Error al leer posts.json:', e);
@@ -130,18 +158,41 @@ class AppleKioskApp {
       this.posts = [
         {
           id: "fb-official-01",
-          title: "CONDOLENCIAS: DR. LUIS ALBERTO MAMANI HUANCA",
-          badge: "Condolencias",
-          date: "Hoy",
-          image: "assets/fb_real_post_1.jpg",
-          thumbnail: "assets/fb_real_post_1.jpg",
-          description: "El Rector, Vicerrector Académico, Vicerrector de Investigación y la Facultad de Ciencias Agrarias tienen el inmenso dolor de hacer conocer el sensible fallecimiento del Dr. Luis Alberto Mamani Huanca.",
+          title: "INFORMACIÓN OFICIAL UNA PUNO",
+          badge: "UNA Puno",
+          date: "Publicación Oficial",
+          image: "assets/portal_unap.jpg",
+          thumbnail: "assets/portal_unap.jpg",
+          description: "Noticias, actividades académicas, investigación, cultura y logros de la Universidad Nacional del Altiplano.",
           facebook_url: "https://www.facebook.com/unapunooficial",
-          likes: 3420,
-          shares: 890
+          likes: 1400,
+          shares: 260
         }
       ];
     }
+  }
+
+  normalizePosts(posts) {
+    return (Array.isArray(posts) ? posts : [])
+      .filter(post => post && (post.image || post.thumbnail) && post.title && !this.isExcludedPost(post))
+      .slice(0, 5);
+  }
+
+  isExcludedPost(post) {
+    const searchable = [post.title, post.description, post.badge, post.category_label]
+      .filter(Boolean)
+      .join(' ')
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, ' ');
+
+    return [
+      'condolencia', 'fallecimiento', 'fallecido', 'sensible deceso',
+      'nota de pesar', 'duelo', 'luto', 'pesame', 'sepelio',
+      'qepd', 'q e p d', 'que en paz descanse', 'in memoriam',
+      'misa de honras'
+    ].some(term => searchable.includes(term));
   }
 
   /* ==========================================================================
@@ -157,6 +208,7 @@ class AppleKioskApp {
     const catBadge = document.getElementById('categoryBadge');
     const postDate = document.getElementById('postDate');
     const currIdx = document.getElementById('currIdx');
+    const totalPosts = document.getElementById('totalPosts');
     const postTitle = document.getElementById('postTitle');
     const postDesc = document.getElementById('postDescription');
     const likesEl = document.getElementById('metricLikes');
@@ -165,7 +217,7 @@ class AppleKioskApp {
 
     // Fotografía nítida
     if (heroImg) {
-      heroImg.src = post.image;
+      this.setImageSource(heroImg, this.getPostImage(post), post.title);
       heroImg.alt = post.title;
     }
 
@@ -176,6 +228,7 @@ class AppleKioskApp {
     if (catBadge) catBadge.textContent = post.badge || post.category_label || 'OFICIAL';
     if (postDate) postDate.textContent = post.date || 'Publicación Oficial';
     if (currIdx) currIdx.textContent = this.currentIdx + 1;
+    if (totalPosts) totalPosts.textContent = this.posts.length;
     if (postTitle) postTitle.textContent = post.title;
     if (postDesc) postDesc.textContent = post.description;
 
@@ -207,18 +260,51 @@ class AppleKioskApp {
         this.pauseTemporarily();
       };
 
-      card.innerHTML = `
-        <img src="${post.thumbnail || post.image}" alt="${post.title}" class="dock-thumb" loading="lazy">
-        <div class="dock-info">
-          <div class="dock-meta-tag">
-            <span class="dock-num">0${i + 1}</span>
-            <span class="dock-badge">${post.badge || 'UNA'}</span>
-          </div>
-          <span class="dock-title">${post.title}</span>
-        </div>
-      `;
+      const thumb = document.createElement('img');
+      thumb.className = 'dock-thumb';
+      thumb.loading = 'lazy';
+      thumb.alt = post.title;
+      this.setImageSource(thumb, this.getPostImage(post), post.title);
+
+      const info = document.createElement('div');
+      info.className = 'dock-info';
+
+      const meta = document.createElement('div');
+      meta.className = 'dock-meta-tag';
+
+      const number = document.createElement('span');
+      number.className = 'dock-num';
+      number.textContent = `0${i + 1}`;
+
+      const badge = document.createElement('span');
+      badge.className = 'dock-badge';
+      badge.textContent = post.badge || 'UNA';
+
+      const title = document.createElement('span');
+      title.className = 'dock-title';
+      title.textContent = post.title;
+
+      meta.append(number, badge);
+      info.append(meta, title);
+      card.append(thumb, info);
       dock.appendChild(card);
     });
+  }
+
+  getPostImage(post) {
+    return post && (post.image || post.thumbnail) || this.fallbackImage;
+  }
+
+  setImageSource(img, source, alt = '') {
+    if (!img) return;
+    img.alt = alt;
+    img.dataset.fallbackApplied = 'false';
+    img.onerror = () => {
+      if (img.dataset.fallbackApplied === 'true') return;
+      img.dataset.fallbackApplied = 'true';
+      img.src = this.fallbackImage;
+    };
+    img.src = source || this.fallbackImage;
   }
 
   /* ==========================================================================
@@ -282,7 +368,7 @@ class AppleKioskApp {
     const post = this.posts[this.currentIdx];
 
     if (modal && zoomImg && post) {
-      zoomImg.src = post.image;
+      this.setImageSource(zoomImg, this.getPostImage(post), post.title);
       modal.classList.add('active');
       this.pauseTemporarily();
     }
@@ -316,7 +402,7 @@ class AppleKioskApp {
     if (!modal || !canvas) return;
 
     canvas.innerHTML = '';
-    const shareUrl = window.location.href;
+    const shareUrl = this.getShareUrl();
     if (urlLabel) urlLabel.textContent = shareUrl;
 
     if (typeof QRCode !== 'undefined') {
@@ -332,6 +418,14 @@ class AppleKioskApp {
 
     modal.classList.add('active');
     this.pauseTemporarily();
+  }
+
+  getShareUrl() {
+    const localHosts = ['localhost', '127.0.0.1', '[::1]'];
+    if (window.location.protocol === 'file:' || localHosts.includes(window.location.hostname)) {
+      return this.publicShareUrl;
+    }
+    return window.location.href;
   }
 
   closeQR() {

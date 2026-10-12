@@ -83,7 +83,7 @@
           <div class="meta-row">
             <div class="pill-badge" id="categoryBadge">Oficial</div>
             <span class="meta-date" id="postDate">Actualizado hoy</span>
-            <div class="post-counter"><span id="currIdx">1</span> <span class="counter-slash">/</span> 5</div>
+            <div class="post-counter"><span id="currIdx">1</span> <span class="counter-slash">/</span> <span id="totalPosts">5</span></div>
           </div>
 
           <h1 class="cinema-title" id="postTitle">Cargando publicación oficial...</h1>
@@ -178,6 +178,8 @@
     </div>
   </div>
 
+  <!-- Respaldo para Android cuando el navegador bloquea fetch(file://...). -->
+  <script src="data/posts.js"></script>
   <script src="js/qrcode.min.js"></script>
   <script src="js/app.js"></script>
 </body>

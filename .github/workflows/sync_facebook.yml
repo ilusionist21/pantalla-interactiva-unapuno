@@ -34,15 +34,38 @@ jobs:
       - name: Instalar dependencias necesarias
         run: |
           python -m pip install --upgrade pip
-          pip install pyppeteer
+          pip install -r scripts/requirements.txt
 
       - name: Ejecutar sincronizador de Facebook UNA Puno
         run: |
           python scripts/sync_facebook.py
 
       - name: Guardar cambios en posts.json si hay novedades (sin guardar fotos pesadas)
+        shell: bash
         run: |
+          set -e
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
-          git add data/posts.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-sync: 5 últimas publicaciones de Facebook @unapunooficial [skip ci]" && git pull --rebase -X theirs origin main && git push)
+          git pull --rebase -X theirs origin main
+          git add data/posts.json data/posts.js
+          if git diff --cached --quiet; then
+            echo "No hay cambios en data/posts.json."
+            exit 0
+          fi
+
+          git commit -m "Auto-sync: 5 últimas publicaciones de Facebook @unapunooficial [skip ci]"
+
+          # Puede haber una ejecución automática que haya publicado justo
+          # antes. Reintentar la rebase evita dejar el scraper en rojo por
+          # una carrera de push, sin sobrescribir contenido remoto.
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push rechazado; sincronizando con origin/main (intento ${attempt}/3)..."
+            git pull --rebase -X theirs origin main
+            sleep 5
+          done
+
+          echo "No se pudo publicar data/posts.json después de 3 intentos."
+          exit 1

@@ -7,6 +7,8 @@
 
 Sistema de señalética digital interactiva y tótem táctil para la **Universidad Nacional del Altiplano Puno** ([@unapunooficial](https://www.facebook.com/unapunooficial)). Diseñado con estética **Apple Minimalist** (iPadOS / macOS Tahoe), paleta institucional (Celeste y Azul), y sincronización automática en la nube cada 15 minutos sin almacenar imágenes pesadas en Git.
 
+La interfaz incluye un modo específico para **Android en orientación horizontal**: mantiene la fotografía y la ficha en dos columnas, adapta el contenido a la altura disponible y convierte las publicaciones inferiores en un carrusel táctil.
+
 🔗 **Sitio en Producción (Live Demo):**  
 👉 **[https://ilusionist21.github.io/pantalla-interactiva-unapuno/](https://ilusionist21.github.io/pantalla-interactiva-unapuno/)**
 
@@ -90,7 +92,9 @@ Cualquier modificación al generador de datos debe respetar el siguiente esquema
 | [`css/styles.css`](css/styles.css) | Sistema de diseño Apple Minimalist, tipografía *Plus Jakarta Sans*, blur backdrop y responsividad táctil. |
 | [`js/app.js`](js/app.js) | Controlador cliente: ciclo de rotación, polling cada 15m, control de pantalla completa y modal QR. |
 | [`data/posts.json`](data/posts.json) | Base de datos JSON liviana (~3 KB) con las 5 últimas publicaciones oficiales y enlaces CDN. |
-| [`scripts/sync_facebook.py`](scripts/sync_facebook.py) | Scraper en Python con Chromium headless (Pyppeteer). Cierra popups de Facebook y fusiona publicaciones. |
+| [`data/posts.js`](data/posts.js) | Copia de respaldo para Android cuando `fetch` está bloqueado al abrir el HTML desde `file://`. |
+| [`scripts/sync_facebook.py`](scripts/sync_facebook.py) | Scraper en Python con Chromium headless (Pyppeteer), reintentos, imágenes diferidas, enlaces de publicación y deduplicación. |
+| [`scripts/requirements.txt`](scripts/requirements.txt) | Dependencia fijada del scraper para GitHub Actions y ejecución local. |
 | [`.github/workflows/sync_facebook.yml`](.github/workflows/sync_facebook.yml) | Automatización CI/CD que ejecuta el scraper cada 15 minutos en los servidores de GitHub. |
 | [`sync_facebook.php`](sync_facebook.php) | Scraper nativo en PHP + cURL + GraphQL (para instalaciones en cPanel sin Node ni Chrome). |
 | [`PantallaInteractiva.exe`](PantallaInteractiva.exe) | Lanzador nativo Windows C# para modo kiosco fullscreen. |
@@ -107,6 +111,17 @@ Cualquier modificación al generador de datos debe respetar el siguiente esquema
    ```
 2. En GitHub ve a **Settings** > **Pages** y selecciona la rama `main` en la carpeta `/ (root)`.
 3. El flujo de GitHub Actions ya está configurado para actualizar los datos cada 15 minutos de forma automática.
+
+Para probar el scraper manualmente en Windows o Linux:
+
+```bash
+python -m pip install -r scripts/requirements.txt
+python scripts/sync_facebook.py
+```
+
+Si Facebook bloquea una solicitud puntual, el scraper reintenta tres veces y conserva las publicaciones anteriores cuando la respuesta no es válida. También genera `data/posts.js` para que la vista móvil pueda mostrar los últimos datos disponibles aunque el HTML se abra desde el administrador de archivos del teléfono.
+
+El feed excluye automáticamente publicaciones de condolencias, fallecimientos, duelo, luto y avisos similares, tanto durante la extracción como al cargar datos antiguos en el navegador.
 
 ### Opción B: Servidor cPanel / Hosting Universitario (PHP Puro)
 1. Sube todos los archivos a la carpeta `public_html/` de tu hosting.
