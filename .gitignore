@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Temporary / Scratch
+temp_*
+*.log
+*.tmp
+debug_*
+
+# OS
+.DS_Store
+Thumbs.db

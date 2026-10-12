@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>UNA Puno — Pantalla Digital Oficial</title>
+  <meta name="theme-color" content="#030812">
+  <meta name="referrer" content="no-referrer">
+
+  <!-- Tipografía Premium Apple Style -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="apple-signage">
+
+  <!-- Fondo Ambiental Dinámico Apple -->
+  <div class="apple-ambient" id="ambientGlow"></div>
+  <div class="ambient-overlay"></div>
+
+  <div class="kiosk-shell">
+
+    <!-- ══════════════ 1. HEADER FLOTANTE MINIMALISTA (ESTILO APPLE) ══════════════ -->
+    <header class="apple-header">
+      <div class="hdr-brand">
+        <div class="crest-wrap">
+          <img src="assets/logo_unap.png" alt="UNA Puno" class="crest-img">
+        </div>
+        <div class="brand-info">
+          <span class="brand-title">UNA Puno</span>
+          <span class="brand-subtitle">Universidad Nacional del Altiplano</span>
+        </div>
+      </div>
+
+      <div class="hdr-center-pill">
+        <div class="live-status">
+          <span class="live-dot"></span>
+          <span class="live-txt" id="syncText">En Vivo</span>
+        </div>
+        <div class="divider-v"></div>
+        <div class="clock-display">
+          <span class="clock-digits" id="clock">--:--</span>
+          <span class="clock-seconds" id="clockSec">--</span>
+        </div>
+        <div class="divider-v"></div>
+        <div class="weather-display">
+          <span class="weather-temp">15°C</span>
+          <span class="weather-loc">Puno</span>
+        </div>
+      </div>
+
+      <div class="hdr-actions">
+        <button class="apple-btn" onclick="app.openQR()" title="Ver en smartphone">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+          <span>Celular</span>
+        </button>
+        <button class="apple-btn apple-btn-primary" onclick="app.toggleFS()" title="Pantalla Completa">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"/></svg>
+          <span id="fsLabel">Pantalla Completa</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- ══════════════ 2. SHOWCASE PRINCIPAL MINIMALISTA (APPLE TV STYLE) ══════════════ -->
+    <main class="apple-stage">
+      
+      <div class="cinema-card">
+        
+        <!-- Marco de la Fotografía Nítida -->
+        <div class="cinema-media-frame" onclick="app.openZoom()">
+          <img src="assets/fb_real_post_1.jpg" alt="Publicación" id="heroImage" class="cinema-img">
+          
+          <div class="media-hover-glass">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/><line x1="11" y1="8" x2="11" y2="14"/><line x1="8" y1="11" x2="14" y2="11"/></svg>
+            <span>Toca para expandir</span>
+          </div>
+        </div>
+
+        <!-- Ficha de Información Minimalista -->
+        <div class="cinema-details">
+          
+          <div class="meta-row">
+            <div class="pill-badge" id="categoryBadge">Oficial</div>
+            <span class="meta-date" id="postDate">Actualizado hoy</span>
+            <div class="post-counter"><span id="currIdx">1</span> <span class="counter-slash">/</span> 5</div>
+          </div>
+
+          <h1 class="cinema-title" id="postTitle">Cargando publicación oficial...</h1>
+
+          <p class="cinema-description" id="postDescription">Conectando con las publicaciones oficiales de Facebook...</p>
+
+          <!-- Acciones y Métricas -->
+          <div class="cinema-footer">
+            <div class="cinema-actions">
+              <a href="https://www.facebook.com/unapunooficial" target="_blank" rel="noopener noreferrer" class="btn-apple-fb" id="btnFb">
+                <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                <span>Abrir en Facebook</span>
+              </a>
+              <button class="btn-apple-ghost" onclick="app.openQR()">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+                <span>Escanear QR</span>
+              </button>
+            </div>
+
+            <div class="engagement-chips">
+              <div class="chip">
+                <svg viewBox="0 0 24 24" fill="#FF453A" width="14" height="14"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>
+                <span id="metricLikes">3,420</span>
+              </div>
+              <div class="chip">
+                <svg viewBox="0 0 24 24" fill="#00C8FF" width="14" height="14"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92c0-1.61-1.31-2.92-2.92-2.92z"/></svg>
+                <span id="metricShares">890</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Barra de Progreso Lineal Apple -->
+          <div class="apple-timeline">
+            <div class="timeline-track">
+              <div class="timeline-progress" id="progressFill"></div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+      <!-- Controles de Flecha Sutiles -->
+      <button class="nav-chevron chevron-left" onclick="app.prev()" aria-label="Anterior">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="15 18 9 12 15 6"/></svg>
+      </button>
+      <button class="nav-chevron chevron-right" onclick="app.next()" aria-label="Siguiente">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"/></svg>
+      </button>
+    </main>
+
+    <!-- ══════════════ 3. DOCK DE NAVEGACIÓN FLOTANTE (ESTILO IPADOS / MACOS) ══════════════ -->
+    <nav class="apple-dock-nav">
+      <div class="dock-container" id="dockCards">
+        <!-- Generado dinámicamente: 5 tarjetas flotantes con efecto glassmorphism -->
+      </div>
+    </nav>
+
+    <!-- ══════════════ 4. TICKER MINIMALISTA SUTIL ══════════════ -->
+    <footer class="apple-ticker">
+      <div class="ticker-label">UNA AL DÍA</div>
+      <div class="ticker-marquee-box">
+        <div class="ticker-marquee" id="tickerText">
+          • Medallas de Oro, Plata y Bronce en la Universiada Lima 2026 • Salvaguarda y compromiso institucional con la Festividad Virgen de la Candelaria • Comunicados oficiales de la Universidad Nacional del Altiplano Puno • Convocatoria Examen de Admisión 2026 • Sigue la página oficial @unapunooficial
+        </div>
+      </div>
+    </footer>
+
+  </div>
+
+  <!-- MODAL ZOOM APPLE (EXPANSIÓN ULTRA NÍTIDA) -->
+  <div class="apple-modal" id="zoomModal" onclick="app.closeZoom()">
+    <div class="modal-backdrop"></div>
+    <div class="modal-body" onclick="event.stopPropagation()">
+      <button class="modal-close" onclick="app.closeZoom()">&times;</button>
+      <img src="" alt="Foto" id="zoomImage" class="modal-img-full">
+    </div>
+  </div>
+
+  <!-- MODAL QR APPLE -->
+  <div class="apple-modal" id="qrModal" onclick="app.closeQR()">
+    <div class="modal-backdrop"></div>
+    <div class="qr-dialog" onclick="event.stopPropagation()">
+      <button class="modal-close" onclick="app.closeQR()">&times;</button>
+      <div class="qr-crest-top">
+        <img src="assets/logo_unap.png" alt="UNA Puno" class="qr-crest-img">
+      </div>
+      <h2 class="qr-heading">Escanear para Celular</h2>
+      <p class="qr-subheading">Apunta con la cámara de tu smartphone para tener esta pantalla interactiva en tu mano.</p>
+      <div class="qr-canvas-wrap" id="qrCanvas"></div>
+      <span class="qr-link-badge" id="qrUrl"></span>
+    </div>
+  </div>
+
+  <script src="js/qrcode.min.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
