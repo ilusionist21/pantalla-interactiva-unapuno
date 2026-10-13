@@ -1,0 +1,28 @@
+import json
+import tempfile
+import unittest
+from pathlib import Path
+from unittest.mock import patch
+
+from scripts import sync_facebook
+
+
+class PartialFeedTest(unittest.TestCase):
+    def test_old_single_post_does_not_advance_sync(self):
+        with tempfile.TemporaryDirectory() as directory:
+            posts_file = Path(directory) / "posts.json"
+            posts_file.write_text(json.dumps({"posts": [{
+                "facebook_url": "https://www.facebook.com/unapunooficial/posts/old?tracking=1"
+            }]}), encoding="utf-8")
+            old_contents = posts_file.read_text(encoding="utf-8")
+            with patch.object(sync_facebook, "POSTS_FILE", str(posts_file)):
+                self.assertFalse(sync_facebook.format_and_save([{
+                    "postUrl": "https://www.facebook.com/unapunooficial/posts/old?tracking=2",
+                    "text": "Noticia antigua",
+                    "imgUrl": "https://scontent.xx.fbcdn.net/old.jpg",
+                }]))
+            self.assertEqual(posts_file.read_text(encoding="utf-8"), old_contents)
+
+
+if __name__ == "__main__":
+    unittest.main()

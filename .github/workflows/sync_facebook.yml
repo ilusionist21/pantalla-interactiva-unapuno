@@ -6,14 +6,6 @@ on:
     # y hacer scraping solo si la última sincronización tiene 15+ minutos.
     - cron: '3/5 * * * *'
   workflow_dispatch: # Permite ejecutar la sincronización manual con 1 clic desde GitHub
-  push:
-    branches:
-      - main
-      - master
-    paths:
-      - 'scripts/**'
-      - '.github/workflows/sync_facebook.yml'
-
 permissions:
   contents: write
 

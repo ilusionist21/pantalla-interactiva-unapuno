@@ -293,14 +293,19 @@ async def scrape_attempt(attempt_number):
 
 
 async def scrape_with_browser():
+    best_extracted = []
     for attempt in range(1, 4):
         extracted = await scrape_attempt(attempt)
-        if extracted:
+        if len(extracted) > len(best_extracted):
+            best_extracted = extracted
+        # Facebook a veces devuelve solo un artículo antiguo al runner.
+        # No tratar una respuesta parcial como si fuera el feed completo.
+        if len(extracted) >= 3:
             return extracted
         if attempt < 3:
             await asyncio.sleep(attempt * 2)
-    print("[!] Facebook no devolvió publicaciones después de 3 intentos.")
-    return []
+    print(f"[!] Facebook solo devolvió {len(best_extracted)} artículos tras 3 intentos.")
+    return best_extracted
 
 
 def get_img_id(url):
@@ -408,6 +413,22 @@ def format_and_save(extracted):
                 existing_posts = json.load(handle).get("posts", [])
         except (OSError, json.JSONDecodeError):
             existing_posts = []
+
+    # Una única entrada ya publicada no demuestra que el feed esté al día.
+    # No renovar last_sync ni las URLs CDN con una respuesta parcial antigua.
+    if len(extracted) < 3 and existing_posts:
+        known_urls = {
+            urlparse(post.get("facebook_url", "")).path.rstrip("/").lower()
+            for post in existing_posts
+        }
+        has_new_post = any(
+            urlparse(item.get("postUrl", "")).path.rstrip("/").lower() not in known_urls
+            for item in extracted
+            if item.get("postUrl") and not is_excluded_post(item.get("text", ""))
+        )
+        if not has_new_post:
+            print("[!] Facebook devolvió un feed parcial sin novedades; no se actualiza last_sync.")
+            return False
 
     new_posts = []
     seen_img_ids = set()
