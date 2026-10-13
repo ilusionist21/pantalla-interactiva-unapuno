@@ -21,7 +21,9 @@ class AppleKioskApp {
     this.lastSyncTime = 0;
     this.fallbackImage = 'assets/portal_unap.jpg';
     this.lastForegroundRefresh = 0;
-    this.publicShareUrl = 'https://ilusionist21.github.io/pantalla-interactiva-unapuno/';
+    this.publicShareUrl = window.location.protocol === 'file:'
+      ? 'https://ilusionist21.github.io/pantalla-interactiva-unapuno/'
+      : new URL('./', window.location.href).href;
 
     this.init();
   }
@@ -102,31 +104,11 @@ class AppleKioskApp {
   }
 
   refreshFacebookData() {
-    // En GitHub Pages o servidor estático, recargar posts.json directamente sin caché
-    if (window.location.hostname.includes('github.io') || window.location.protocol === 'file:') {
-      this.loadPosts().then(() => {
-        this.renderDockCards();
-        this.showPost(this.currentIdx);
-      });
-      return;
-    }
-
-    // En cPanel, disparar el script nativo sync_facebook.php y luego recargar posts.json
-    fetch('sync_facebook.php', { cache: 'no-store' })
-      .then(r => r.json())
-      .then(res => {
-        console.log('[Apple Sync OK]:', res);
-        this.loadPosts().then(() => {
-          this.renderDockCards();
-          this.showPost(this.currentIdx);
-        });
-      })
-      .catch(() => {
-        this.loadPosts().then(() => {
-          this.renderDockCards();
-          this.showPost(this.currentIdx);
-        });
-      });
+    // El cron actualiza los datos; la pantalla solo los consulta.
+    this.loadPosts().then(() => {
+      this.renderDockCards();
+      this.showPost(this.currentIdx);
+    });
   }
 
   /* ==========================================================================
