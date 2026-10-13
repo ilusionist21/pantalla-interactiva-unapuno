@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-12T23:12:41.626025+00:00",
+    "last_sync": "2026-10-13T03:36:50.703327+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "SOCIOLOGÍA UNA PUNO: 54 AÑOS FORMANDO MENTES CRÍTICAS PARA TRANSFORMAR LA SOCIEDAD",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "13 Oct 2026, 00:36 UTC",
+      "published_at": "2026-10-13T00:36:50.626000+00:00",
+      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/843573462_28617919191211174_7346992066658337711_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Qied8UNmpLMQ7kNvwFG6NX8&_nc_oc=AdoQ8aZk33KJrd9kNjxbSK0SE33iRxAaJ1gT7rNjKrdEO-C9Eao08QgOy9OLpozN1D4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xpowLkPmkMTSvUVw9p7XfQ&_nc_ss=79289&oh=00_AQMTDo2j_s1R1j15-GmFDAz5AZpzE371yE6YB_hcBKPD_A&oe=6AD3954A",
+      "thumbnail": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/843573462_28617919191211174_7346992066658337711_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Qied8UNmpLMQ7kNvwFG6NX8&_nc_oc=AdoQ8aZk33KJrd9kNjxbSK0SE33iRxAaJ1gT7rNjKrdEO-C9Eao08QgOy9OLpozN1D4&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=xpowLkPmkMTSvUVw9p7XfQ&_nc_ss=79289&oh=00_AQMTDo2j_s1R1j15-GmFDAz5AZpzE371yE6YB_hcBKPD_A&oe=6AD3954A",
+      "description": "Información oficial de la UNA Puno sobre SOCIOLOGÍA UNA PUNO: 54 AÑOS FORMANDO MENTES CRÍTICAS PARA TRANSFORMAR LA SOCIEDAD.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0JcRNLnnvopr41zxyzZa9aPEQoJgV4MRxLYRVBzuAsw6j9DEwqWX1fy8X6vpirGfLl?__cft__[0]=AZj1st1I-lv0e3wL8qxWiYWv4Dq5kndUs9CsBQVefNcfU5VTNBRJc5zexAAvdQFvVbDr3Jmf26GfJQwRPR7ZL_jLf47n1Hr5uQIXUDH_C4R2bA0V73POUmsgLYcijb1qRGK_HR0DcjKfwV2uJIj45rqwjDIeT9YneO88alk6e0ktZstwOSNsgluWSL8&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-13T03:36:50.703327+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "ESCUELA PROFESIONAL DE SOCIOLOGÍA: 54 AÑOS DE PENSAMIENTO CRÍTICO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-12T23:12:41.626025+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "FELIZ ANIVERSARIO E.P. DE SOCIOLOGÍA",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-12T22:46:54.716211+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "MEDALLAS DE ORO, PLATA Y BRONCE PARA LA UNA PUNO EN FONDISMO Y VELOCIDAD EN LA UNIVERSIADA L...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-12T22:46:54.716211+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "UNA PUNO REAFIRMA SU COMPROMISO CON EL COMITÉ DE SALVAGUARDA DE LA FESTIVIDAD VIRGEN DE LA C...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "investigacion",
@@ -82,25 +101,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0NJN3FpKRV3tuHt9HzekKZeXwtKeoDnyPhNzUT5rU3dKA6bmaH4pSruoRKUixHtNEl?__cft__[0]=AZiX-5bhH1MRXx9Xgz3MR7xO0qsTaxWYMLNSWBj1Wth3KiBIdw4i_HyZblgokttMdkpfuQeapAK8Lc18i6wpa3hXozoFxVXjMkYeEyeiyaNq0XoxgIQfN_Ou7_5hTUrW7YNLg2nqFOu4ZDDOIx-s9aR_3NrhIql9pcf1awFGXhzdp7p0j9GjUUFQYuc&__tn__=%2CO%2CP-R",
       "likes": 2360,
       "shares": 485,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-12T22:46:54.716211+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "RECTOR DE LA UNA PUNO SUPERVISA AVANCE DE LABORATORIOS PARA CAMÉLIDOS SUDAMERICANOS EN LA RAYA",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "comunicados",
-      "category_label": "Comunicado Oficial",
-      "badge": "Oficial",
-      "date": "09 Oct 2026, 22:46 UTC",
-      "published_at": "2026-10-09T22:46:54.334000+00:00",
-      "image": "https://scontent.flim20-1.fna.fbcdn.net/v/t39.99422-6/841318146_29135128566173984_5228544002477599080_n.png?stp=dst-jpg_tt6&cstp=mx1494x996&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=twhuddbz-jIQ7kNvwErFvVH&_nc_oc=AdpcK_5kY9UVJ8qY5YeDECb-3L5BCLMY-lQw5Kk9pLbNRxTNojX_mNWbn_n0KalmKMI&_nc_zt=14&_nc_ht=scontent.flim20-1.fna&_nc_gid=erqZ3I0AD2WlZxVRMbmQkQ&_nc_ss=79289&oh=00_AQOS2Lb5vkiCoBPw6yPettqnot9PPk3mBGGEWv80R1XNXg&oe=6AD34F1B",
-      "thumbnail": "https://scontent.flim20-1.fna.fbcdn.net/v/t39.99422-6/841318146_29135128566173984_5228544002477599080_n.png?stp=dst-jpg_tt6&cstp=mx1494x996&ctp=s590x590&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=twhuddbz-jIQ7kNvwErFvVH&_nc_oc=AdpcK_5kY9UVJ8qY5YeDECb-3L5BCLMY-lQw5Kk9pLbNRxTNojX_mNWbn_n0KalmKMI&_nc_zt=14&_nc_ht=scontent.flim20-1.fna&_nc_gid=erqZ3I0AD2WlZxVRMbmQkQ&_nc_ss=79289&oh=00_AQOS2Lb5vkiCoBPw6yPettqnot9PPk3mBGGEWv80R1XNXg&oe=6AD34F1B",
-      "description": "Información oficial de la UNA Puno sobre RECTOR DE LA UNA PUNO SUPERVISA AVANCE DE LABORATORIOS PARA CAMÉLIDOS SUDAMERICANOS EN LA RAYA.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02Bp4ZZjYb322iXMtHnpVzkL4syvPFcebYg1wcJ72A5bkRDqRqD3NDJaEah36ztPTwl?__cft__[0]=AZiExUeBYSwI_124ndR_UymzSWRZCTyjsFTHKQT6Xb6ySKN3aRgJlpk-fe_-8VX6SLLIVGl9nc2hbggePTiKctUFOEWOQXn336KjhAcXG3VV6qrYUF9YpDE0NzVobe82jKr7HOftBLwr6C5Xys1HXGJDQK5Hs_fom2UDZnptqSnf5GaZ-McJ8kBjuNY&__tn__=%2CO%2CP-R",
-      "likes": 2680,
-      "shares": 560,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-12T22:46:54.716211+00:00"
