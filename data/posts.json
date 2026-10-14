@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-14T06:45:14.829692+00:00",
+    "last_sync": "2026-10-14T17:34:12.476670+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "ESTAMOS EN VIVO!",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "14 Oct 2026, 14:33 UTC",
+      "published_at": "2026-10-14T14:33:35.999000+00:00",
+      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/848045092_2303258643550834_5689120009424896259_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&_nc_cat=104&ccb=1-7&_nc_sid=032300&_nc_ohc=DBhnJuN0R4UQ7kNvwHfGPDU&_nc_oc=Adqg67L2kOR-TnFFj7M3oTnp8tKWKcZ2Cwh5JznUz7I7bs_78j8XBgSspY8dN7PEdI4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=0uDW-dHwsQIai45S_Qev5w&_nc_ss=79289&oh=00_AQPXRUzh0hMfzyH15Arxf6ziL7z9kmB4RJrMX4hmcAVUbw&oe=6AD5A638",
+      "thumbnail": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/848045092_2303258643550834_5689120009424896259_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=032300&_nc_ohc=DBhnJuN0R4UQ7kNvwHfGPDU&_nc_oc=Adqg67L2kOR-TnFFj7M3oTnp8tKWKcZ2Cwh5JznUz7I7bs_78j8XBgSspY8dN7PEdI4&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=0uDW-dHwsQIai45S_Qev5w&_nc_ss=79289&oh=00_AQPXRUzh0hMfzyH15Arxf6ziL7z9kmB4RJrMX4hmcAVUbw&oe=6AD5A638",
+      "description": "Ceremonia de inauguración del XXII Congreso Internacional de Telecomunicaciones, Electrónica, Eléctrica y Computación COITEEC 2026.\nVirginia Torres Farfán\nQue bueno\nbrindar Arriba abajo y adentro",
+      "facebook_url": "https://www.facebook.com/unapunooficial/videos/2076603916341913/?__cft__[0]=AZjdwQOMNQM7HNMTSa35Nk93IL1_TKtOx939hdR7hMMJH95XX6BEreoC5nDk8JpGQ79SgKKGD2Kzu06dPhMa-Q1xBE6JZewZRc1XPigE8JseXmBRfoUWx9OO6hMiC-kCU9iG6sB5QDPt97eDIkiX5q5nBBCCWIiL7mkY1GoYL4DggkSeq4zcrjSABKAd8OlFGHkOXw&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-14T17:34:12.476670+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "SE CONTARÁ CON MÁS ESPACIOS DE BIENESTAR UNIVERSITARIO:",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-14T06:45:14.829692+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "UNA PUNO RECONOCE Y FELICITA A SUS ATLETAS GANADORES DE LOS XXVI JUEGOS UNIVERSITARIOS NACIO...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-13T22:55:32.473134+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "I SIMPOSIO DE NUTRICIÓN HUMANA: INNOVACIÓN, AVANCES Y ACTUALIZACIÓN",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-13T22:55:32.473134+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "SOCIOLOGÍA UNA PUNO: 54 AÑOS FORMANDO MENTES CRÍTICAS PARA TRANSFORMAR LA SOCIEDAD",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -82,25 +101,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02NTs5XTikfNrznLAMnw9Dmj6gSCZ4coo5BqDuTGxZ5ABHRZqGd1xDtMK4iwfXrw4ol?__cft__[0]=AZhyWnHt3fW4RoT1iczScOErSzGIdVEfcnnUjzMFj7MZY37LxClspxUMC5s6rgq8SfM4VBzvVwpd7E3luHDPnJZqsaLbgBP4fb-2rqmC2l01wD80ezyIbos2N24Y5knKYbts0QxJKIDZJ8jtyQ0vTM2jVZW0GEKiK9rjAN9tdjz3U3U63qz4z5phSwc&__tn__=%2CO%2CP-R",
       "likes": 2040,
       "shares": 410,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-13T22:55:32.473134+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "ESCUELA PROFESIONAL DE SOCIOLOGÍA: 54 AÑOS DE PENSAMIENTO CRÍTICO",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "investigacion",
-      "category_label": "Investigación Científica",
-      "badge": "Campus & Ciencia",
-      "date": "12 Oct 2026, 22:55 UTC",
-      "published_at": "2026-10-12T22:55:32.385000+00:00",
-      "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.99422-6/843697663_2360098077881801_9030370948897767341_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_w43IS1pUYcQ7kNvwHoBkut&_nc_oc=AdorHIjotWMSxfQ_Z99OM9S4QCppPf8J9PqBuyuBYCGiNICwkXedBKRbqUKKrZgW5sA&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=cxJRicJs322BGLK8NKQOyg&_nc_ss=79289&oh=00_AQMqenbRR197i5A5Dn32soZ3xkYT09ZlLyF83dU2_HMkTA&oe=6AD47FC1",
-      "thumbnail": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.99422-6/843697663_2360098077881801_9030370948897767341_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_w43IS1pUYcQ7kNvwHoBkut&_nc_oc=AdorHIjotWMSxfQ_Z99OM9S4QCppPf8J9PqBuyuBYCGiNICwkXedBKRbqUKKrZgW5sA&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=cxJRicJs322BGLK8NKQOyg&_nc_ss=79289&oh=00_AQMqenbRR197i5A5Dn32soZ3xkYT09ZlLyF83dU2_HMkTA&oe=6AD47FC1",
-      "description": "Información oficial de la UNA Puno sobre ESCUELA PROFESIONAL DE SOCIOLOGÍA: 54 AÑOS DE PENSAMIENTO CRÍTICO.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02sYwcXWWHxHMNanXovfLBu68MvesDrLS9wvnyayRDcFPnSv5nnLvM1fx19gp1iRghl?__cft__[0]=AZjoMW7gjfxuYvixokigfvxqwxQDf3_VnI4QeixdQYjGZd7uThJfcty3c-WQo9-pasC_ZccrVMn9l8A6a3PWilPrTNVrENVjW6WkbY82zvIjJ0eLV3nJ-3x44827nMNlm-Wos92R7siHALhaunhNPJGMT2XFP6h7vBRfm7y-H0p4JWJWwYlt61zwde0&__tn__=%2CO%2CP-R",
-      "likes": 2360,
-      "shares": 485,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-13T22:55:32.473134+00:00"
