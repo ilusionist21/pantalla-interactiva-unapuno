@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-13T22:55:32.473134+00:00",
+    "last_sync": "2026-10-14T01:42:32.214860+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "SE CONTARÁ CON MÁS ESPACIOS DE BIENESTAR UNIVERSITARIO:",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "14 Oct 2026, 00:41 UTC",
+      "published_at": "2026-10-14T00:41:58.259000+00:00",
+      "image": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.99422-6/845949927_1761142021817230_8102083792353455850_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_QW0I5IRNvcQ7kNvwEwApHe&_nc_oc=Adohja2-WHgcarJdIXBPjH3CuQqcjN6V-j8xtfRuz-zHfiasjlcc0_XJdyG1zPrkl8E&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=kYI8b5rikfGcmuhTNsoQbQ&_nc_ss=79289&oh=00_AQMLp4eJFx_vh94cLFVM0ISfejxuGFqCHFNLVXrPBx7-Ww&oe=6AD4B053",
+      "thumbnail": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.99422-6/845949927_1761142021817230_8102083792353455850_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_QW0I5IRNvcQ7kNvwEwApHe&_nc_oc=Adohja2-WHgcarJdIXBPjH3CuQqcjN6V-j8xtfRuz-zHfiasjlcc0_XJdyG1zPrkl8E&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=kYI8b5rikfGcmuhTNsoQbQ&_nc_ss=79289&oh=00_AQMLp4eJFx_vh94cLFVM0ISfejxuGFqCHFNLVXrPBx7-Ww&oe=6AD4B053",
+      "description": "UNA PUNO AVANZA CON LA CONSTRUCCIÓN DEL BLOQUE C DEL COMEDOR",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid01HoDMgdEaV8wRj6iororPM9oEBJkPFnFxTMVHFPkNZWgaUsFFCPyATdbEErVbxREl?__cft__[0]=AZgcPflyXznoAdKz4DGY9WZuq4bLIKbLoL4n-48Ak-gRNVYSkWz1L_1X0dNF6AJoR7syoRXkN-f8f76--x_XOyuS3nmY7azw_pe9lpBj5xxU6EI0ddlwd4WIgVGghID_dw2-J5DI-IH3oid777IybB2ZOh4aIV4Lnz8-5qQLnl2KuhihcuzTQUK9HdM&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-14T01:42:32.214860+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "UNA PUNO RECONOCE Y FELICITA A SUS ATLETAS GANADORES DE LOS XXVI JUEGOS UNIVERSITARIOS NACIO...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-13T22:55:32.473134+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "I SIMPOSIO DE NUTRICIÓN HUMANA: INNOVACIÓN, AVANCES Y ACTUALIZACIÓN",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-13T22:55:32.473134+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "SOCIOLOGÍA UNA PUNO: 54 AÑOS FORMANDO MENTES CRÍTICAS PARA TRANSFORMAR LA SOCIEDAD",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-13T22:55:32.473134+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "ESCUELA PROFESIONAL DE SOCIOLOGÍA: 54 AÑOS DE PENSAMIENTO CRÍTICO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "investigacion",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-13T22:55:32.473134+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "FELIZ ANIVERSARIO E.P. DE SOCIOLOGÍA",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "deportes",
-      "category_label": "Deporte Universitario",
-      "badge": "Logro Histórico",
-      "date": "12 Oct 2026, 13:46 UTC",
-      "published_at": "2026-10-12T13:46:54.328000+00:00",
-      "image": "https://scontent.flim20-1.fna.fbcdn.net/v/t39.99422-6/847631228_1620433009587441_6887433186955198797_n.png?stp=dst-jpg_tt6&cstp=mx1725x2048&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ANVtki6ipiIQ7kNvwETHsMd&_nc_oc=AdrU1XaL3zcWjru39NxgtT87KFyo5hFv3TWh74T6ToS8NQtnzBO_kcnDE7s9BRd78SY&_nc_zt=14&_nc_ht=scontent.flim20-1.fna&_nc_gid=h3O4zXI0ZC36J6oleF6I3A&_nc_ss=79289&oh=00_AQOmhjD0k_ZqN51LuSuxP2f5QNIgyVYItvw0_Thkez9oMA&oe=6AD335AE",
-      "thumbnail": "https://scontent.flim20-1.fna.fbcdn.net/v/t39.99422-6/847631228_1620433009587441_6887433186955198797_n.png?stp=dst-jpg_tt6&cstp=mx1725x2048&ctp=s600x600&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ANVtki6ipiIQ7kNvwETHsMd&_nc_oc=AdrU1XaL3zcWjru39NxgtT87KFyo5hFv3TWh74T6ToS8NQtnzBO_kcnDE7s9BRd78SY&_nc_zt=14&_nc_ht=scontent.flim20-1.fna&_nc_gid=h3O4zXI0ZC36J6oleF6I3A&_nc_ss=79289&oh=00_AQOmhjD0k_ZqN51LuSuxP2f5QNIgyVYItvw0_Thkez9oMA&oe=6AD335AE",
-      "description": "Juan Carlos Pari Paye\nFelicidades!!!",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02cRDi4CRQy7CukoJrH9NUTGXmG7bbuvzZmPQZaZEaj8AUCCuoKJYhe8uacDzmsuMfl?__cft__[0]=AZgADwpUqToB6MLNL7U4L7PL2aVAm2hD-ZIaX1XS_Xy26JkBFs6Wjql-mdpe_KWoTllgjPd8HiX3irKpN0xu2jwGpG3YxdLZifiOIvSCZJyIsThVYhAanhTYd302_-BVuUrx6lbU782DacV86bHaEnqw4BDqU3w-iHgXr8x1fRUPkhqZENu10mMg_3w&__tn__=%2CO%2CP-R",
-      "likes": 1720,
-      "shares": 335,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-12T22:46:54.716211+00:00"
     }
   ]
 }
