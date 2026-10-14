@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-14T17:34:12.476670+00:00",
+    "last_sync": "2026-10-14T20:57:48.700378+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "LA UNA PUNO ACOMPAÑA EL BIENESTAR EMOCIONAL DE SUS ESTUDIANTES CON \"CULTIVANDO LA INTELIGENC...",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "14 Oct 2026, 20:06 UTC",
+      "published_at": "2026-10-14T20:06:14.376000+00:00",
+      "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/849846687_1818637639266939_7724429623540875767_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PdoHDqlUHzcQ7kNvwGSwUGl&_nc_oc=Ado9HZUEVAI1vJPmtni6ebPnUR7NPqIG-jb5hmHO8KnaHnvj3mHaFwnRSaspzyG60HA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=boYE385dM7rxenyXUK6-PQ&_nc_ss=79289&oh=00_AQOQlau8jMoz1hdu_yPH9OhNdNMKP6vDaLGDlWJtvHfYYA&oe=6AD5C745",
+      "thumbnail": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/849846687_1818637639266939_7724429623540875767_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PdoHDqlUHzcQ7kNvwGSwUGl&_nc_oc=Ado9HZUEVAI1vJPmtni6ebPnUR7NPqIG-jb5hmHO8KnaHnvj3mHaFwnRSaspzyG60HA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=boYE385dM7rxenyXUK6-PQ&_nc_ss=79289&oh=00_AQOQlau8jMoz1hdu_yPH9OhNdNMKP6vDaLGDlWJtvHfYYA&oe=6AD5C745",
+      "description": "Información oficial de la UNA Puno sobre LA UNA PUNO ACOMPAÑA EL BIENESTAR EMOCIONAL DE SUS ESTUDIANTES CON \"CULTIVANDO LA INTELIGENCIA DEL FUTURO\".",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0Di9ZCx8snLjV4fVyXRFkfH8H46P54zuqcrUHVYBhGf8eqgg3gHyoEAhFfScNHxEZl?__cft__[0]=AZhsHvH1QGZMNnAAhch9B_Obbig2DLS2jtzCLkZ5Y24_xFU5pnK9nbDQo3F5GD4d_REtSKb_dMwTHjUMecTl6uuwLzu9zdUVfX1J5GYQuS63g40V-F7HpBYRy6x84y35SRb0OCTf1PDjnH_cpvCaeEDF6QvezxnnxPY1us41JbqtcAKTxOgByw9i6QU&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-14T20:57:48.700378+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "ESTAMOS EN VIVO!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-14T17:34:12.476670+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "SE CONTARÁ CON MÁS ESPACIOS DE BIENESTAR UNIVERSITARIO:",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-14T06:45:14.829692+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "UNA PUNO RECONOCE Y FELICITA A SUS ATLETAS GANADORES DE LOS XXVI JUEGOS UNIVERSITARIOS NACIO...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-13T22:55:32.473134+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "I SIMPOSIO DE NUTRICIÓN HUMANA: INNOVACIÓN, AVANCES Y ACTUALIZACIÓN",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -82,25 +101,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid094cjaJAttRznhp927c96XFJqsHVyScFsM91dj21YMTeM9TH9196ELs4eSkFuS2pel?__cft__[0]=AZgYgeF4NbmXBdr79UHtJJCvyD85VjnmFVnlFkM9pgw9IIxuhqAlErKax3EkQDbg-lWEMnly9SHnRT9JjrqPi1Fl2hej7P4H47Jb0dEzUUAnnmmHa6f08tXI4bKypXRzJIMksC6xm925uN6y5sa8zuGfUH9CawXLgivYXJp452AhAuwgDXFOxdA8psU&__tn__=%2CO%2CP-R",
       "likes": 1720,
       "shares": 335,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-13T22:55:32.473134+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "SOCIOLOGÍA UNA PUNO: 54 AÑOS FORMANDO MENTES CRÍTICAS PARA TRANSFORMAR LA SOCIEDAD",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "cultura",
-      "category_label": "Cultura & Folklore",
-      "badge": "Candelaria 2026",
-      "date": "13 Oct 2026, 00:55 UTC",
-      "published_at": "2026-10-13T00:55:32.384000+00:00",
-      "image": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.99422-6/843573462_28617919191211174_7346992066658337711_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Qied8UNmpLMQ7kNvwHS56QN&_nc_oc=AdqQPtW9Tx03VrDUMnWfEmPY1vrk8XRR17ujDUImmZ1WAUG75ldjJRnCgeLBhAjzt6U&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=cxJRicJs322BGLK8NKQOyg&_nc_ss=79289&oh=00_AQP_opY0K5I5hDMzA73KpQnFfNke4z4CC0MkCnPUs9DxDw&oe=6AD4764A",
-      "thumbnail": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.99422-6/843573462_28617919191211174_7346992066658337711_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Qied8UNmpLMQ7kNvwHS56QN&_nc_oc=AdqQPtW9Tx03VrDUMnWfEmPY1vrk8XRR17ujDUImmZ1WAUG75ldjJRnCgeLBhAjzt6U&_nc_zt=14&_nc_ht=scontent-dfw6-1.xx&_nc_gid=cxJRicJs322BGLK8NKQOyg&_nc_ss=79289&oh=00_AQP_opY0K5I5hDMzA73KpQnFfNke4z4CC0MkCnPUs9DxDw&oe=6AD4764A",
-      "description": "Información oficial de la UNA Puno sobre SOCIOLOGÍA UNA PUNO: 54 AÑOS FORMANDO MENTES CRÍTICAS PARA TRANSFORMAR LA SOCIEDAD.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02NTs5XTikfNrznLAMnw9Dmj6gSCZ4coo5BqDuTGxZ5ABHRZqGd1xDtMK4iwfXrw4ol?__cft__[0]=AZhyWnHt3fW4RoT1iczScOErSzGIdVEfcnnUjzMFj7MZY37LxClspxUMC5s6rgq8SfM4VBzvVwpd7E3luHDPnJZqsaLbgBP4fb-2rqmC2l01wD80ezyIbos2N24Y5knKYbts0QxJKIDZJ8jtyQ0vTM2jVZW0GEKiK9rjAN9tdjz3U3U63qz4z5phSwc&__tn__=%2CO%2CP-R",
-      "likes": 2040,
-      "shares": 410,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-13T22:55:32.473134+00:00"
