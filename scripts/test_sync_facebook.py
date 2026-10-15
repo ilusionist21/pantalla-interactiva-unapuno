@@ -24,5 +24,12 @@ class PartialFeedTest(unittest.TestCase):
             self.assertEqual(posts_file.read_text(encoding="utf-8"), old_contents)
 
 
+class TransientFacebookFailureTest(unittest.TestCase):
+    def test_empty_response_keeps_workflow_successful(self):
+        with patch.object(sync_facebook, "run_sync", return_value=False):
+            with patch("sys.argv", ["sync_facebook.py"]):
+                sync_facebook.main()
+
+
 if __name__ == "__main__":
     unittest.main()

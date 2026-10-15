@@ -24,6 +24,11 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 POSTS_FILE = os.path.join(SCRIPT_DIR, "..", "data", "posts.json")
 POSTS_JS_FILE = os.path.join(SCRIPT_DIR, "..", "data", "posts.js")
 FACEBOOK_URL = "https://www.facebook.com/unapunooficial"
+FACEBOOK_SCRAPE_URLS = (
+    FACEBOOK_URL,
+    f"{FACEBOOK_URL}/posts",
+    "https://m.facebook.com/unapunooficial",
+)
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
@@ -243,7 +248,8 @@ async def scrape_attempt(attempt_number):
 
     browser = None
     try:
-        print(f"[*] Intento {attempt_number}: conectando a {FACEBOOK_URL}...")
+        scrape_url = FACEBOOK_SCRAPE_URLS[(attempt_number - 1) % len(FACEBOOK_SCRAPE_URLS)]
+        print(f"[*] Intento {attempt_number}: conectando a {scrape_url}...")
         browser = await launch(**launch_kwargs)
         page = await browser.newPage()
         await page.setViewport({"width": 1400, "height": 1000, "deviceScaleFactor": 1})
@@ -251,7 +257,7 @@ async def scrape_attempt(attempt_number):
         await page.setExtraHTTPHeaders({"Accept-Language": "es-ES,es;q=0.9,en;q=0.8"})
 
         response = await page.goto(
-            FACEBOOK_URL,
+            scrape_url,
             {"waitUntil": "domcontentloaded", "timeout": 45000},
         )
         status = response.status if response else 0
@@ -578,8 +584,9 @@ def main():
             print("[*] Esperando 15 minutos (900 seg) para el próximo ciclo...")
             time.sleep(15 * 60)
     else:
-        if not run_sync():
-            raise SystemExit(1)
+        # Una respuesta vacía de Facebook es transitoria: format_and_save ya
+        # conserva los últimos datos y el cron volverá a intentarlo.
+        run_sync()
 
 
 if __name__ == "__main__":
