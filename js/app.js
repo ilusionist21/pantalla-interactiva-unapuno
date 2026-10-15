@@ -72,9 +72,8 @@ class AppleKioskApp {
     }
 
     const elapsedM = Math.max(0, Math.floor((Date.now() - this.lastSyncTime) / 60000));
-    syncEl.textContent = elapsedM >= 30
-      ? `Sin actualizar • hace ${elapsedM} min`
-      : `Actualizado hace ${elapsedM} min`;
+    const elapsed = elapsedM < 60 ? `${elapsedM} min` : `${Math.floor(elapsedM / 60)} h`;
+    syncEl.textContent = `Actualizado • hace ${elapsed}`;
   }
 
   startWeather() {
@@ -127,9 +126,11 @@ class AppleKioskApp {
 
   refreshFacebookData() {
     // El cron actualiza los datos; la pantalla solo los consulta.
+    const previousLatest = `${this.posts[0]?.published_at || this.posts[0]?.date || ''}|${this.posts[0]?.title || ''}`;
     this.loadPosts().then(() => {
+      const currentLatest = `${this.posts[0]?.published_at || this.posts[0]?.date || ''}|${this.posts[0]?.title || ''}`;
       this.renderDockCards();
-      this.showPost(this.currentIdx);
+      this.showPost(previousLatest && currentLatest !== previousLatest ? 0 : this.currentIdx);
     });
   }
 
