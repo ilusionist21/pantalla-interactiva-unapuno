@@ -429,12 +429,17 @@ def format_and_save(extracted):
             urlparse(post.get("facebook_url", "")).path.rstrip("/").lower()
             for post in existing_posts
         }
-        has_new_post = any(
-            urlparse(item.get("postUrl", "")).path.rstrip("/").lower() not in known_urls
+        extracted_urls = {
+            urlparse(item.get("postUrl", "")).path.rstrip("/").lower()
             for item in extracted
             if item.get("postUrl") and not is_excluded_post(item.get("text", ""))
+        }
+        has_new_post = any(
+            post_url not in known_urls for post_url in extracted_urls
         )
-        if not has_new_post:
+        latest_url = urlparse(existing_posts[0].get("facebook_url", "")).path.rstrip("/").lower()
+        confirms_latest = len(extracted_urls) >= 2 and latest_url in extracted_urls
+        if not has_new_post and not confirms_latest:
             print("[!] Facebook devolvió un feed parcial sin novedades; no se actualiza last_sync.")
             return False
 
