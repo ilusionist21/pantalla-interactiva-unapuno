@@ -18,6 +18,7 @@ class AppleKioskApp {
 
     // Sincronización Automática de Facebook (15 minutos)
     this.fbSyncIntervalMs = 15 * 60 * 1000;
+    this.weatherRefreshIntervalMs = 30 * 60 * 1000;
     this.lastSyncTime = 0;
     this.fallbackImage = 'assets/portal_unap.jpg';
     this.lastForegroundRefresh = 0;
@@ -30,6 +31,7 @@ class AppleKioskApp {
 
   async init() {
     this.startClock();
+    this.startWeather();
     this.setupEvents();
     await this.loadPosts();
     this.renderDockCards();
@@ -73,6 +75,26 @@ class AppleKioskApp {
     syncEl.textContent = elapsedM >= 30
       ? `Sin actualizar • hace ${elapsedM} min`
       : `Actualizado hace ${elapsedM} min`;
+  }
+
+  startWeather() {
+    this.loadWeather();
+    setInterval(() => this.loadWeather(), this.weatherRefreshIntervalMs);
+  }
+
+  async loadWeather() {
+    const weatherEl = document.getElementById('weatherTemp');
+    if (!weatherEl) return;
+
+    try {
+      const resp = await fetch('https://api.open-meteo.com/v1/forecast?latitude=-15.8402&longitude=-70.0219&current=temperature_2m&timezone=America%2FLima', { cache: 'no-store' });
+      if (!resp.ok) return;
+      const data = await resp.json();
+      const temperature = Number(data.current?.temperature_2m);
+      if (Number.isFinite(temperature)) weatherEl.textContent = `${Math.round(temperature)} °C`;
+    } catch (error) {
+      console.warn('Error al consultar el clima:', error);
+    }
   }
 
   /* ==========================================================================

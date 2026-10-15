@@ -26,7 +26,8 @@ POSTS_JS_FILE = os.path.join(SCRIPT_DIR, "..", "data", "posts.js")
 FACEBOOK_URL = "https://www.facebook.com/unapunooficial"
 FACEBOOK_SCRAPE_URLS = (
     FACEBOOK_URL,
-    f"{FACEBOOK_URL}/posts",
+    f"{FACEBOOK_URL}/posts?locale=es_LA",
+    f"{FACEBOOK_URL}/?sk=posts&locale=es_LA",
     "https://m.facebook.com/unapunooficial",
 )
 USER_AGENT = (
@@ -253,7 +254,8 @@ async def scrape_attempt(attempt_number):
         browser = await launch(**launch_kwargs)
         page = await browser.newPage()
         await page.setViewport({"width": 1400, "height": 1000, "deviceScaleFactor": 1})
-        await page.setUserAgent(USER_AGENT)
+        detected_user_agent = await page.evaluate("navigator.userAgent")
+        await page.setUserAgent(detected_user_agent.replace("HeadlessChrome", "Chrome") or USER_AGENT)
         await page.setExtraHTTPHeaders({"Accept-Language": "es-ES,es;q=0.9,en;q=0.8"})
 
         response = await page.goto(
@@ -300,7 +302,7 @@ async def scrape_attempt(attempt_number):
 
 async def scrape_with_browser():
     best_extracted = []
-    for attempt in range(1, 4):
+    for attempt in range(1, len(FACEBOOK_SCRAPE_URLS) + 1):
         extracted = await scrape_attempt(attempt)
         if len(extracted) > len(best_extracted):
             best_extracted = extracted
@@ -308,9 +310,9 @@ async def scrape_with_browser():
         # No tratar una respuesta parcial como si fuera el feed completo.
         if len(extracted) >= 3:
             return extracted
-        if attempt < 3:
+        if attempt < len(FACEBOOK_SCRAPE_URLS):
             await asyncio.sleep(attempt * 2)
-    print(f"[!] Facebook solo devolvió {len(best_extracted)} artículos tras 3 intentos.")
+    print(f"[!] Facebook solo devolvió {len(best_extracted)} artículos tras {len(FACEBOOK_SCRAPE_URLS)} intentos.")
     return best_extracted
 
 
