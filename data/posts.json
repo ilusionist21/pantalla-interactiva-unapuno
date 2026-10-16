@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-16T15:35:15.614809+00:00",
+    "last_sync": "2026-10-16T19:01:41.816612+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "FELIZ DÍA DEL INGENIERO AGROINDUSTRIAL",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "16 Oct 2026, 18:56 UTC",
+      "published_at": "2026-10-16T18:56:47.061000+00:00",
+      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/853854396_2373281136810957_7165343446745418935_n.png?stp=dst-jpg_tt6&cstp=mx1918x2048&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dEzpVFNcRjsQ7kNvwGnHt4O&_nc_oc=AdpF3kmnCUYdI6dufYOFajNRxlRaN5Z7OQiTBtfKxwUOsj1YM1nkTK08NNWHzvapGDU&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=OLFG7NEgMRsAvzTo2GAY7A&_nc_ss=78289&oh=00_AQMmcQYwgXD89CkpWLF1b3RKJ7ZAJwxQPsWf1eqEifHouA&oe=6AD83D7F",
+      "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/853854396_2373281136810957_7165343446745418935_n.png?stp=dst-jpg_tt6&cstp=mx1918x2048&ctp=p180x540&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=dEzpVFNcRjsQ7kNvwGnHt4O&_nc_oc=AdpF3kmnCUYdI6dufYOFajNRxlRaN5Z7OQiTBtfKxwUOsj1YM1nkTK08NNWHzvapGDU&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=OLFG7NEgMRsAvzTo2GAY7A&_nc_ss=78289&oh=00_AQMmcQYwgXD89CkpWLF1b3RKJ7ZAJwxQPsWf1eqEifHouA&oe=6AD83D7F",
+      "description": "Información oficial de la UNA Puno sobre Feliz Día del Ingeniero Agroindustrial.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0N4c4CTRKi6aZkq8Hztm98zae3pxebMcKivDQ42PwMyjr6fUQRemoNR3yGTUqQyGAl?__cft__[0]=AZi5cRGT6bBzt8WaYQVhgy5NvgdYRGpbrgFw_kG75yvkwc781RlhRWpI_1eDOji5wMy9Yrovfo6AGN5tq-QfIwq3AvT2QLtbwZbG4CjT4pfWebEyKblRzA08J-BIIODBt1Mai71CszXCVW9ri5zwQNGTt56NR0v5xYQDsZAJrxni7p9k4jYbgHGL2SI&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-16T19:01:41.816612+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "NUTRICIÓN HUMANA, CIENCIA APLICADA A LA VIDA DE LAS FAMILIAS",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-16T15:35:15.614809+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "RECTOR DE LA UNA PUNO RECONOCIÓ A DOCENTES PASANTES DE LA UNIVERSIDAD NACIONAL DE LA RIOJA –...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-16T11:40:29.191533+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "UNA PUNO DA LA BIENVENIDA A ESTUDIANTES PASANTES DE LA UNIVERSIDAD NACIONAL DEL SANTA – CHIM...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-16T11:40:29.191533+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "UNA PUNO ANALIZA OPORTUNIDADES DE LA INDUSTRIALIZACIÓN DEL GAS NATURAL EN EL III CONGRESO DE...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-15T23:16:16.975875+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "CON EXHIBICIÓN ROBÓTICA E INNOVACIÓN TECNOLÓGICA SE INAUGURÓ EL XXII COITEEC 2026",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "deportes",
-      "category_label": "Deporte Universitario",
-      "badge": "Logro Histórico",
-      "date": "14 Oct 2026, 23:31 UTC",
-      "published_at": "2026-10-14T23:31:51.320000+00:00",
-      "image": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.99422-6/846396184_2142320939733134_7451475184045338537_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lvlG_AGP4g4Q7kNvwGqHoUJ&_nc_oc=AdoWhWScAJbJj-z2bHT7WjPOMGThzJz_DXAKgZp7fb9yBRs98tAebECNRBnma6P63k4&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ZehfxHMtIj-9CwI7npfbhQ&_nc_ss=78289&oh=00_AQMkn3ehmZUyRdVokI8ZHVpLyR8ZFgWt08ncYm1fBZQzWg&oe=6AD6FB3A",
-      "thumbnail": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.99422-6/846396184_2142320939733134_7451475184045338537_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lvlG_AGP4g4Q7kNvwGqHoUJ&_nc_oc=AdoWhWScAJbJj-z2bHT7WjPOMGThzJz_DXAKgZp7fb9yBRs98tAebECNRBnma6P63k4&_nc_zt=14&_nc_ht=scontent-atl3-2.xx&_nc_gid=ZehfxHMtIj-9CwI7npfbhQ&_nc_ss=78289&oh=00_AQMkn3ehmZUyRdVokI8ZHVpLyR8ZFgWt08ncYm1fBZQzWg&oe=6AD6FB3A",
-      "description": "Información oficial de la UNA Puno sobre CON EXHIBICIÓN ROBÓTICA E INNOVACIÓN TECNOLÓGICA SE INAUGURÓ EL XXII COITEEC 2026.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid07rWG7tYtPimVQNBEWqCR5iBXYdpTJVaMmvRrEV5hzDjdyPi9mxpCtSyPyZsqExqXl?__cft__[0]=AZhqR89WMA4iOp9V5Jl7Non70OW8Zs0ay8FKLU-BcwyYcpp8dv15FQTZYpiUlof3gHma864rKvHDUlpTB4yhsNpKBhhJSYGMc93xUF6XMzGe8zGNFYjkxcDizyVruicoCgJWEBi7NEvPo1oI0uXbuTU7NODeAzpOrl6de-gkJSK1odUjPZX5cg1HL50&__tn__=%2CO%2CP-R",
-      "likes": 1720,
-      "shares": 335,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-15T20:32:46.739040+00:00"
     }
   ]
 }
