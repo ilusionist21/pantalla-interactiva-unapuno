@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-16T19:01:41.816612+00:00",
+    "last_sync": "2026-10-16T22:02:49.569600+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "¡ESTAMOS EN VIVO!",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "16 Oct 2026, 20:01 UTC",
+      "published_at": "2026-10-16T20:01:54.300000+00:00",
+      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/854893643_3871881859620769_3708118759004275951_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&_nc_cat=111&ccb=1-7&_nc_sid=032300&_nc_ohc=LjAZ4TEGKYQQ7kNvwGSVSAW&_nc_oc=Adqv0V3BB4obm4wioOpvJOHnSkljyyoDoTnKzdlGhtnDIuGse1sTqJbxIu5749O3_W8&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=U7dEqU9Fg0qBKaet79B_bQ&_nc_ss=78289&oh=00_AQP5qEkTE-oKexS_s-4YrIKuWrpg1qy1uVsYSx7xzxO5Sw&oe=6AD8739D",
+      "thumbnail": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/854893643_3871881859620769_3708118759004275951_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=032300&_nc_ohc=LjAZ4TEGKYQQ7kNvwGSVSAW&_nc_oc=Adqv0V3BB4obm4wioOpvJOHnSkljyyoDoTnKzdlGhtnDIuGse1sTqJbxIu5749O3_W8&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=U7dEqU9Fg0qBKaet79B_bQ&_nc_ss=78289&oh=00_AQP5qEkTE-oKexS_s-4YrIKuWrpg1qy1uVsYSx7xzxO5Sw&oe=6AD8739D",
+      "description": "CEREMONIA CENTRAL DEL XLV ANIVERSARIO DE LA ESCUELA PROFESIONAL DE NUTRICIÓN HUMANA\nCelebramos un nuevo aniversario formando profesionales comprom",
+      "facebook_url": "https://www.facebook.com/unapunooficial/videos/964506476177642/?__cft__[0]=AZi-TOlsb43NzuukTgKnEUmn73BBZqKs31TjFfeQ0V2zeU4Vv6c3z1uB5NA0doW5GD03umav9H4-W2o_69WhK6uRLrHgQ0QkE-ydVUh16sR7OUaMdKd4uGUOJJBPX3Wdy8OEFXWOXjvzt_JcT2eOLmLzWwDtR60MvE9j3Px__TW3BGFCfFLD6Oz5XkRMgySqbQ&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-16T22:02:49.569600+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "FELIZ DÍA DEL INGENIERO AGROINDUSTRIAL",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-16T19:01:41.816612+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "NUTRICIÓN HUMANA, CIENCIA APLICADA A LA VIDA DE LAS FAMILIAS",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-16T15:35:15.614809+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "RECTOR DE LA UNA PUNO RECONOCIÓ A DOCENTES PASANTES DE LA UNIVERSIDAD NACIONAL DE LA RIOJA –...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-16T11:40:29.191533+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "UNA PUNO DA LA BIENVENIDA A ESTUDIANTES PASANTES DE LA UNIVERSIDAD NACIONAL DEL SANTA – CHIM...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-16T11:40:29.191533+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "UNA PUNO ANALIZA OPORTUNIDADES DE LA INDUSTRIALIZACIÓN DEL GAS NATURAL EN EL III CONGRESO DE...",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "deportes",
-      "category_label": "Deporte Universitario",
-      "badge": "Logro Histórico",
-      "date": "15 Oct 2026, 00:16 UTC",
-      "published_at": "2026-10-15T00:16:16.892000+00:00",
-      "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/850848931_1407679680995705_8086505502984793757_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3jkHIY8rSwQQ7kNvwFxLkx1&_nc_oc=AdrQLU11g7VrD-PLskXRZtpRXivuDZXi7nRyUF86hklSIMeivFrIG3vXonmlTjQHAjo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=zpfcYzjbKGIS8E4394dHxQ&_nc_ss=78289&oh=00_AQMyc9VAVHTDvmyjG_vKT4NgfB34bKKm1shpUv3MIL0Ugg&oe=6AD73C41",
-      "thumbnail": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/850848931_1407679680995705_8086505502984793757_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3jkHIY8rSwQQ7kNvwFxLkx1&_nc_oc=AdrQLU11g7VrD-PLskXRZtpRXivuDZXi7nRyUF86hklSIMeivFrIG3vXonmlTjQHAjo&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=zpfcYzjbKGIS8E4394dHxQ&_nc_ss=78289&oh=00_AQMyc9VAVHTDvmyjG_vKT4NgfB34bKKm1shpUv3MIL0Ugg&oe=6AD73C41",
-      "description": "Información oficial de la UNA Puno sobre UNA PUNO ANALIZA OPORTUNIDADES DE LA INDUSTRIALIZACIÓN DEL GAS NATURAL EN EL III CONGRESO DE PETROQUÍMICA.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0jvkbtbmC6fLuYvt3HvsK2mHrSNkRWk8WpAU8kFpmguhBVn5R5sRjEnaFNeikbUa6l?__cft__[0]=AZhycb4QmgdMLjUWGaZ9tHHFmD3DSBPJW2uamsSBlJ3VPsuZ2bb8FuzaZPi1GQqajM7XzR0UkAHHN2MWO0z8wgRXGyb2xBZCACzdCEUkT9jNRzKct5uQWqZNVK6Hp4heO24ieJzQjqMa_jAiPbGIZhxMGx5-1Hv4uWJzv9Pjy-op0cA2g5MM005vU9k&__tn__=%2CO%2CP-R",
-      "likes": 1720,
-      "shares": 335,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-15T23:16:16.975875+00:00"
     }
   ]
 }
