@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-16T11:40:29.191533+00:00",
+    "last_sync": "2026-10-16T15:35:15.614809+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "NUTRICIÓN HUMANA, CIENCIA APLICADA A LA VIDA DE LAS FAMILIAS",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "16 Oct 2026, 14:34 UTC",
+      "published_at": "2026-10-16T14:34:19.920000+00:00",
+      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/850817636_2990453151308317_3969939886684389287_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=G27pMWtGRfMQ7kNvwHg7hDi&_nc_oc=Adr3al8XZQgycqoK3pUwa-jqJncMOKrFZSMJHXkEmvaWObgdcnkYKAveVVX7epd1qX8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Jm12EpEaL4rkWiTmsJHgfQ&_nc_ss=78289&oh=00_AQOEONmZzyv5_3XAIkzlzCFNMx9nlzSqAcATFubmdyhguw&oe=6AD80820",
+      "thumbnail": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/850817636_2990453151308317_3969939886684389287_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=G27pMWtGRfMQ7kNvwHg7hDi&_nc_oc=Adr3al8XZQgycqoK3pUwa-jqJncMOKrFZSMJHXkEmvaWObgdcnkYKAveVVX7epd1qX8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=Jm12EpEaL4rkWiTmsJHgfQ&_nc_ss=78289&oh=00_AQOEONmZzyv5_3XAIkzlzCFNMx9nlzSqAcATFubmdyhguw&oe=6AD80820",
+      "description": "Información oficial de la UNA Puno sobre NUTRICIÓN HUMANA, CIENCIA APLICADA A LA VIDA DE LAS FAMILIAS.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0bUcoJG9mQsMsmUUaCBBGdgqBAjDrG2UKYCUX9FNZrUu3gX7waXQjhbBR2prBtJ6Jl?__cft__[0]=AZj-V_fOSTzRnyUlofclkp3C-LPeAOyZjEHdR9AUCd4kbSsuZzuuQ8Ua48RdTDJE5NnpIFOPWsu9biYRVPMxh5y-q2nzW1tCLgXD9MOACyhCGrjt9BgOltJPlQjwOg4vnREaed347MNq0N69lrFeBGh8QwE2PTvXxrDRhAxD-0EBfKW8Y8L94Ox5H-0&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-16T15:35:15.614809+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "RECTOR DE LA UNA PUNO RECONOCIÓ A DOCENTES PASANTES DE LA UNIVERSIDAD NACIONAL DE LA RIOJA –...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-16T11:40:29.191533+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "UNA PUNO DA LA BIENVENIDA A ESTUDIANTES PASANTES DE LA UNIVERSIDAD NACIONAL DEL SANTA – CHIM...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-16T11:40:29.191533+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "UNA PUNO ANALIZA OPORTUNIDADES DE LA INDUSTRIALIZACIÓN DEL GAS NATURAL EN EL III CONGRESO DE...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-15T23:16:16.975875+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "CON EXHIBICIÓN ROBÓTICA E INNOVACIÓN TECNOLÓGICA SE INAUGURÓ EL XXII COITEEC 2026",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-15T20:32:46.739040+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "LA UNA PUNO ACOMPAÑA EL BIENESTAR EMOCIONAL DE SUS ESTUDIANTES CON \"CULTIVANDO LA INTELIGENC...",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "cultura",
-      "category_label": "Cultura & Folklore",
-      "badge": "Candelaria 2026",
-      "date": "14 Oct 2026, 20:36 UTC",
-      "published_at": "2026-10-14T20:36:38.851000+00:00",
-      "image": "https://scontent.fjul1-1.fna.fbcdn.net/v/t39.99422-6/849846687_1818637639266939_7724429623540875767_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PdoHDqlUHzcQ7kNvwGA2QFg&_nc_oc=AdpchER9fRvVe6QWSSiOLc2MrxQpB1Am021Xk5pyKk13-sza0-J4nWR9QxwASSydlkQ&_nc_zt=14&_nc_ht=scontent.fjul1-1.fna&_nc_gid=Edj_kBZ8bT-94ynNDjPuWw&_nc_ss=79289&oh=00_AQPhk4WVPYjf2pZ09MLpepq_Ir1KTl6g1LXcOA5zXvixUQ&oe=6AD6A845",
-      "thumbnail": "https://scontent.fjul1-1.fna.fbcdn.net/v/t39.99422-6/849846687_1818637639266939_7724429623540875767_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PdoHDqlUHzcQ7kNvwGA2QFg&_nc_oc=AdpchER9fRvVe6QWSSiOLc2MrxQpB1Am021Xk5pyKk13-sza0-J4nWR9QxwASSydlkQ&_nc_zt=14&_nc_ht=scontent.fjul1-1.fna&_nc_gid=Edj_kBZ8bT-94ynNDjPuWw&_nc_ss=79289&oh=00_AQPhk4WVPYjf2pZ09MLpepq_Ir1KTl6g1LXcOA5zXvixUQ&oe=6AD6A845",
-      "description": "Información oficial de la UNA Puno sobre LA UNA PUNO ACOMPAÑA EL BIENESTAR EMOCIONAL DE SUS ESTUDIANTES CON \"CULTIVANDO LA INTELIGENCIA DEL FUTURO\".",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02HZbGPd4hdqUtpcQp36qAqbC1sMBRoCktX8HxKSHMPzoGo6mjZ3qHcXg1ynJFMPxpl?__cft__[0]=AZiJ-zmlAiE5ABAUDObiSwws_fLuxJGusBNrU3oai21E6tdFK2b6n3ayneBtz0ue9-e7NrPBf5AwZXCh0WpXfuTGdDbtLgAo6K_lPJDTvUniW7OIBtlZqcfcDyBzCAcEjKjdhDHInkMbf-FzK4VceaG9mpMfOtmHyeii_XVfYhmIu_z01tQ8M6n760U&__tn__=%2CO%2CP-R",
-      "likes": 2040,
-      "shares": 410,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-15T12:36:39.185958+00:00"
     }
   ]
 }
