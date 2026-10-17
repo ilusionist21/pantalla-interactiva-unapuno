@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-17T08:52:59.658303+00:00",
+    "last_sync": "2026-10-17T15:58:27.548196+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "FELIZ DÍA DEL INGENIERO QUÍMICO PERUANO",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "17 Oct 2026, 15:25 UTC",
+      "published_at": "2026-10-17T15:25:07.370000+00:00",
+      "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/855164071_1665101365144069_458472561373307562_n.png?stp=dst-jpg_tt6&cstp=mx1918x2048&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cwlQXHVcSa8Q7kNvwG_RjG3&_nc_oc=AdoJ_vl83d89xzcJiRCXkowgKT-x6Iu2_mFSIncEMWBC-Pp0EI1Sx28nluyMg950YLI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=uvlMl5g-yw94vBI2Ao7B_w&_nc_ss=78289&oh=00_AQMobf8lRbKW-D0Hs3IJbB3_2SJCArnkEdi6gBBkdbtDwg&oe=6AD971D5",
+      "thumbnail": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/855164071_1665101365144069_458472561373307562_n.png?stp=dst-jpg_tt6&cstp=mx1918x2048&ctp=p180x540&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cwlQXHVcSa8Q7kNvwG_RjG3&_nc_oc=AdoJ_vl83d89xzcJiRCXkowgKT-x6Iu2_mFSIncEMWBC-Pp0EI1Sx28nluyMg950YLI&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=uvlMl5g-yw94vBI2Ao7B_w&_nc_ss=78289&oh=00_AQMobf8lRbKW-D0Hs3IJbB3_2SJCArnkEdi6gBBkdbtDwg&oe=6AD971D5",
+      "description": "La…",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0QibJpgskPZmwy1JNUnZGxXxxUBu9ktLLH74ikEs71BCQMru1ZrehaPZhix35ckeFl?__cft__[0]=AZiZ6B_FHGMo-HgAFDs3jWHiCO1WINt8z-U4qCZkuCqZg0XlErMoWqAa0ljLHO3nwETJ-3v12xPjLVjdo4meGIKDkpXD_3KpySSa70_kM68K0_8BnZP04lmr5I0Ui37Y6CpyygObaEEbkwv3iuUa2q6dCTJ6Po7qqOb-IJsNx0lEOpHmyQkvzXDNHQw&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-17T15:58:27.548196+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "FELIZ DÍA DEL INGENIERO AGROINDUSTRIAL",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-17T08:52:59.658303+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "¡ESTAMOS EN VIVO!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-17T08:52:59.658303+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "INGENIERÍA QUÍMICA: CONVIRTIENDO LA MATERIA PRIMA DEL SUR EN DESARROLLO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-17T08:52:59.658303+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "NUTRICIÓN HUMANA, CIENCIA APLICADA A LA VIDA DE LAS FAMILIAS",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-16T15:35:15.614809+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "RECTOR DE LA UNA PUNO RECONOCIÓ A DOCENTES PASANTES DE LA UNIVERSIDAD NACIONAL DE LA RIOJA –...",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "institucional",
-      "category_label": "Actualidad Universitaria",
-      "badge": "UNA Puno",
-      "date": "16 Oct 2026, 00:40 UTC",
-      "published_at": "2026-10-16T00:40:29.126000+00:00",
-      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/849737587_1421885072766847_1949157375335374901_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7V-gdQjudh4Q7kNvwEE0JyR&_nc_oc=Adogqsd7lXp-25j2aFmuLmpxoi3jEu7X9Rq5jrONPr0qpsKaBsIVlYnm-UEZCx4zIg8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=a705GZoXITPQAubA6Z9mow&_nc_ss=78289&oh=00_AQOrD-ioEZBlPGbJfv7ErerJtVGS_TG4BK-mXevXpi4bgA&oe=6AD7F1D7",
-      "thumbnail": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/849737587_1421885072766847_1949157375335374901_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7V-gdQjudh4Q7kNvwEE0JyR&_nc_oc=Adogqsd7lXp-25j2aFmuLmpxoi3jEu7X9Rq5jrONPr0qpsKaBsIVlYnm-UEZCx4zIg8&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=a705GZoXITPQAubA6Z9mow&_nc_ss=78289&oh=00_AQOrD-ioEZBlPGbJfv7ErerJtVGS_TG4BK-mXevXpi4bgA&oe=6AD7F1D7",
-      "description": "Información oficial de la UNA Puno sobre RECTOR DE LA UNA PUNO RECONOCIÓ A DOCENTES PASANTES DE LA UNIVERSIDAD NACIONAL DE LA RIOJA – ARGENTINA.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02QCSxq4Pb3kDJPahqeByMqsGXXpC3daSiUxBmMuAZthFk8nbRH2geQME5HKmjDxmXl?__cft__[0]=AZhy114Y9LHpKDDfpWQFm9N7buaI7kIEX2YhTGNxaYYRp85NgZ0KHFHjDijDkdSzy-OVeeSe1boeYgHExklRmjBy63Nx9T0X6Ye2jN-FB9HUJNfgETsoJtvhrJqKfZ0HMJtKviL65m2x-Q2ZCevKjqoTZvci0PjcP10hVBBGZuubWgN2_NXJqR2pyw4&__tn__=%2CO%2CP-R",
-      "likes": 1400,
-      "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-16T11:40:29.191533+00:00"
     }
   ]
 }
