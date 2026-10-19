@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-18T23:36:06.403899+00:00",
+    "last_sync": "2026-10-19T23:36:02.558871+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "FONDO EDITORIAL DE LA UNA PUNO Y FONDO EDITORIAL DEL CONGRESO FIRMARÁN CONVENIO PARA PUBLICA...",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "19 Oct 2026, 21:35 UTC",
+      "published_at": "2026-10-19T21:35:07.666000+00:00",
+      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/855259735_1563958395769866_5399950588032918317_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mvQC1dcdHJQQ7kNvwHDPj1E&_nc_oc=AdpmaS2yVvm8W2jYTgY518FpBXaDfQ4cLaX8JAwYgw6G4ni1IUNgCowBB9bdWPwZ2NY&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1tlNP7grmSXQk3UmRMB4Q&_nc_ss=78289&oh=00_AQNt9R2Su41x12X9UdjTfO1Q6R5dARn2HsOyy_d9KxIWjQ&oe=6ADC89C7",
+      "thumbnail": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/855259735_1563958395769866_5399950588032918317_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mvQC1dcdHJQQ7kNvwHDPj1E&_nc_oc=AdpmaS2yVvm8W2jYTgY518FpBXaDfQ4cLaX8JAwYgw6G4ni1IUNgCowBB9bdWPwZ2NY&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=K1tlNP7grmSXQk3UmRMB4Q&_nc_ss=78289&oh=00_AQNt9R2Su41x12X9UdjTfO1Q6R5dARn2HsOyy_d9KxIWjQ&oe=6ADC89C7",
+      "description": "Información oficial de la UNA Puno sobre FONDO EDITORIAL DE LA UNA PUNO Y FONDO EDITORIAL DEL CONGRESO FIRMARÁN CONVENIO PARA PUBLICAR LIBROS, INVESTIGACIÓN Y DIFUSIÓN CULTURAL.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02x17pxVpKLRbvU5poGr1BxBDEuRXxaVETJvpVApX3y9VT4xdUKqL3Qqbh35PqCv8tl?__cft__[0]=AZgaiXTapIfp2Zo_xC_6fXibefEWWHldba7PRHt6OJ825TFCUOLvcEIhYS8IdMT4VCMkYBaeHmPnhsPVZHyeXaSc1sVOlCgVuDmzfBvH7V_jNaWA06aKrk-A75prC0eMxXluWESmTs7JRc4gFkW5_R5xekvOdn7Fw3a9gTQBHEMoioXc_YkPbaonM9g&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-19T23:36:02.558871+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "SE CONMEMORA EL 45.º ANIVERSARIO DE CREACIÓN DE LA ESCUELA PROFESIONAL DE NUTRICIÓN HUMANA",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-18T23:36:06.403899+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "FACULTAD DE INGENIERÍA QUÍMICA DE LA UNA PUNO CELEBRA 45 AÑOS CON AVANCES EN INVESTIGACIÓN Y...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-18T19:04:01.109582+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "FELIZ DÍA DEL INGENIERO QUÍMICO PERUANO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-18T19:04:01.109582+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "¡ESTAMOS EN VIVO!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "investigacion",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-18T19:04:01.109582+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "FELIZ DÍA DEL INGENIERO AGROINDUSTRIAL",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "cultura",
-      "category_label": "Cultura & Folklore",
-      "badge": "Candelaria 2026",
-      "date": "16 Oct 2026, 20:49 UTC",
-      "published_at": "2026-10-16T20:49:19.439000+00:00",
-      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/853854396_2373281136810957_7165343446745418935_n.png?stp=dst-jpg_tt6&cstp=mx1918x2048&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IVTy7bPHB9YQ7kNvwHbu5zY&_nc_oc=AdrJmqV4rbe5jjT97f6MMfCofMzNUySqcUGfgpexIouYNSVO7LXfSIS6w9FVtH7g7Bs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=eeSKJCg889py-SOqBaJPUQ&_nc_ss=78289&oh=00_AQOtHFcehOSl8Jk6yKT4J_mldoGiZdLwDozRAbyHTpxPRA&oe=6AD9C73F",
-      "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/853854396_2373281136810957_7165343446745418935_n.png?stp=dst-jpg_tt6&cstp=mx1918x2048&ctp=p180x540&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=IVTy7bPHB9YQ7kNvwHbu5zY&_nc_oc=AdrJmqV4rbe5jjT97f6MMfCofMzNUySqcUGfgpexIouYNSVO7LXfSIS6w9FVtH7g7Bs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=eeSKJCg889py-SOqBaJPUQ&_nc_ss=78289&oh=00_AQOtHFcehOSl8Jk6yKT4J_mldoGiZdLwDozRAbyHTpxPRA&oe=6AD9C73F",
-      "description": "Zusi Castro\n¡Feliz Día del Ingeniero Alimentario y del Ingeniero Agroindustrial!\nNuestra profesión cumple un papel fundamental en la seguridad alimentaria, la inocuidad, la innovación y el desarrollo agroindustrial. Sin embargo, aún tenemos el desafío de fortale",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02RS6EpUmwjgNtAgF22x4XkkijAA8XdWptu6yZirbJsrNfAkBX6ToRC2YF6QckdXvcl?__cft__[0]=AZhYPkXItIa1lHOYd9jrgouZO5WkwQcYIdMyowurKRI3uN4qQE3DMKLsM4Yp7meBj3PBDBjnQ6UVBQPJTLOWbA_8uurU0Meq5FbbKQ-uk-LaX-eFbbDtNlbWlQAUVKplEdkgcx4fpQrNWVLkfA5u06R6w29G5RCVVhiTLITvsv6IT3to6FTeYPXrf4Y&__tn__=%2CO%2CP-R",
-      "likes": 2040,
-      "shares": 410,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-17T20:49:19.528474+00:00"
     }
   ]
 }
