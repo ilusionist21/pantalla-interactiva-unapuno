@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-20T07:28:58.937835+00:00",
+    "last_sync": "2026-10-20T20:59:39.403819+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "RECTOR DE LA UNA PUNO Y OTROS RECTORES DIALOGAN CON EL MINEDU PARA LOGRAR EL INCREMENTO DE R...",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "20 Oct 2026, 18:58 UTC",
+      "published_at": "2026-10-20T18:58:43.495000+00:00",
+      "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/854780530_39349534334693139_7382305509842433267_n.png?stp=dst-jpg_tt6&cstp=mx1494x996&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YZb4dCTSnY4Q7kNvwEOS8ua&_nc_oc=Adq8kQ_4KPbm2oqTJaIk978txigCua67T1UTiI4vD3n5dGnB4YZV3GtqIxpJTXsqJvo&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1gih-u5OnOd4AGwaQxiAfQ&_nc_ss=78289&oh=00_AQMNBcg3mFmKgHsREMQpGGErkMYU0Dst6tDZs0o7-g0MLw&oe=6ADDC3F6",
+      "thumbnail": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/854780530_39349534334693139_7382305509842433267_n.png?stp=dst-jpg_tt6&cstp=mx1494x996&ctp=s590x590&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YZb4dCTSnY4Q7kNvwEOS8ua&_nc_oc=Adq8kQ_4KPbm2oqTJaIk978txigCua67T1UTiI4vD3n5dGnB4YZV3GtqIxpJTXsqJvo&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=1gih-u5OnOd4AGwaQxiAfQ&_nc_ss=78289&oh=00_AQMNBcg3mFmKgHsREMQpGGErkMYU0Dst6tDZs0o7-g0MLw&oe=6ADDC3F6",
+      "description": "Ronald Fredy Tipo Humalla\nRuben Siguairo excelente amigo, con urgencia gestionar el presupuesto.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02CEXh6ieDE6xVa1emgSbjMXMq8v5E4kaxmWM4Z1sMPCXTy3wbNkKkMjgQij4ZbckFl?__cft__[0]=AZgQ2sJudJ-kMmYslE2_L9YQKttexlrzbZZqSuNfctvHH0bIBhm9JDGVjiAb5eiwVxgTDpUMdzjKkOMiZc4AuiKKKwoyx5ST0okz6yeHuq5WNPXraytolMgcngC8UWlJufNlV2Y-Hy5ulnRSvPCUJcczSlOMaI0ywLY-ea-OHTAK9APTcjSsPzjLBFg&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-20T20:59:39.403819+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "UNA PUNO PARTICIPA DE LA CUARTA PROCESIÓN DEL SEÑOR DE LOS MILAGROS, ELEVANDO SUS PLEGARIAS ...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-20T07:28:58.937835+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "¡LA IA COMO MOTOR DE INNOVACIÓN Y DESARROLLO REGIONAL!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-20T02:05:05.821373+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "FONDO EDITORIAL DE LA UNA PUNO Y FONDO EDITORIAL DEL CONGRESO FIRMARÁN CONVENIO PARA PUBLICA...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-20T02:05:05.821373+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "SE CONMEMORA EL 45.º ANIVERSARIO DE CREACIÓN DE LA ESCUELA PROFESIONAL DE NUTRICIÓN HUMANA",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-18T23:36:06.403899+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "FACULTAD DE INGENIERÍA QUÍMICA DE LA UNA PUNO CELEBRA 45 AÑOS CON AVANCES EN INVESTIGACIÓN Y...",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "deportes",
-      "category_label": "Deporte Universitario",
-      "badge": "Logro Histórico",
-      "date": "18 Oct 2026, 03:04 UTC",
-      "published_at": "2026-10-18T03:04:01.019000+00:00",
-      "image": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/853575984_2089658935004478_4957067158299785290_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Uv-Afizy1QQQ7kNvwFxv2zw&_nc_oc=AdpkAebUSQ7Vy7KIeeH2KeFQGKCIf7XpD9XO8zB-E2UvAokT9FpFIdZqf6LvVPPXjy4&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=PYA5lMQvKHlnvp2t43EbMA&_nc_ss=78289&oh=00_AQOqc7Iy1QO400xWjx125eDqW8LIKul0w56qzKBci0YbaQ&oe=6ADAF7F3",
-      "thumbnail": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/853575984_2089658935004478_4957067158299785290_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Uv-Afizy1QQQ7kNvwFxv2zw&_nc_oc=AdpkAebUSQ7Vy7KIeeH2KeFQGKCIf7XpD9XO8zB-E2UvAokT9FpFIdZqf6LvVPPXjy4&_nc_zt=14&_nc_ht=scontent-atl3-1.xx&_nc_gid=PYA5lMQvKHlnvp2t43EbMA&_nc_ss=78289&oh=00_AQOqc7Iy1QO400xWjx125eDqW8LIKul0w56qzKBci0YbaQ&oe=6ADAF7F3",
-      "description": "Información oficial de la UNA Puno sobre FACULTAD DE INGENIERÍA QUÍMICA DE LA UNA PUNO CELEBRA 45 AÑOS CON AVANCES EN INVESTIGACIÓN Y CALIDAD ACADÉMICA….",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02cSeFWiMHkkwhisdDtBDUvryzY8o5aJ36un52ntm82svG6WkVAYWQoticveLrPXpQl?__cft__[0]=AZivGncbwGxKH84FhOhjvD_UuA-eg4idIAEjGdOrm5kfftZpkMYEJZOsPL-SZ8Oj1mwmPCyxxxEcVtvA-FLxLs2HYsj6LU8L8rvqWzcdeqqPRKWCRuBohjEHWvNAq7mFCMH6JvhjwMlQiCiqU0YrMeW34dRFEOeS2sTtaPoYpHW86H5AMZ54gZR3Ejs&__tn__=%2CO%2CP-R",
-      "likes": 1720,
-      "shares": 335,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-18T19:04:01.109582+00:00"
     }
   ]
 }
