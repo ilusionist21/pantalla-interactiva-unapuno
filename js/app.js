@@ -450,8 +450,6 @@ class AppleKioskApp {
 
     const card = document.querySelector('.cinema-card');
     if (card) {
-      card.addEventListener('mouseenter', () => { this.isPaused = true; });
-      card.addEventListener('mouseleave', () => { this.isPaused = false; });
       card.addEventListener('touchstart', () => { this.pauseTemporarily(); }, { passive: true });
     }
 
