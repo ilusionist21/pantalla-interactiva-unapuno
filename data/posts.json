@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-21T07:33:38.414591+00:00",
+    "last_sync": "2026-10-21T21:38:47.926313+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "UNA PUNO PRIORIZA LA SALUD MENTAL Y EL BIENESTAR EMOCIONAL DE LOS ESTUDIANTES UNIVERSITARIOS",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "21 Oct 2026, 20:37 UTC",
+      "published_at": "2026-10-21T20:37:52.420000+00:00",
+      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/857471460_28984373624535688_4179509567073318005_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RMX8hTjQqr4Q7kNvwGAJAsY&_nc_oc=AdqN8Pe5DsOTtEGG-iSR__i1rdhgaGw3Zo5627wXjG_b4kgOhMZF-2OYS_LV81VPfZs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=RZOlXXKopICFMVSCJBUpBg&_nc_ss=78289&oh=00_AQPIH78NrarAAzfx4k0cz4SCQQHNY4szryjBBMWfGnmMRQ&oe=6ADF1921",
+      "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/857471460_28984373624535688_4179509567073318005_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RMX8hTjQqr4Q7kNvwGAJAsY&_nc_oc=AdqN8Pe5DsOTtEGG-iSR__i1rdhgaGw3Zo5627wXjG_b4kgOhMZF-2OYS_LV81VPfZs&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=RZOlXXKopICFMVSCJBUpBg&_nc_ss=78289&oh=00_AQPIH78NrarAAzfx4k0cz4SCQQHNY4szryjBBMWfGnmMRQ&oe=6ADF1921",
+      "description": "Información oficial de la UNA Puno sobre UNA PUNO PRIORIZA LA SALUD MENTAL Y EL BIENESTAR EMOCIONAL DE LOS ESTUDIANTES UNIVERSITARIOS.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02f9MuaUxHKbP7UBn8be1RCwTgoJkCDvq69Lv2B5131ftGqQp1RVT4o4dNNQeSnFQAl?__cft__[0]=AZgjzEbWZux3AUs3s0vLZ2tHTAHclxfGtNJIrnDoVsMU8fW8qCvcresBibKryBQ56J_VtKXvLcGu2UtRo_5U4DJH5vdBMSxuG0Yv-bUgGEwEp8gBjNcLUiLOhPHYnsWPCR7a1OCHtJDKDij_uaUcJFqQ2A5YPvt9yR2I_nf2N6lu3W9pdUODKbsFQxI&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-21T21:38:47.926313+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "MINEDU SE COMPROMETE A HACER EFECTIVO EL INCREMENTO DE REMUNERACIONES A DOCENTES UNIVERSITAR...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-21T07:33:38.414591+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "RECTOR DE LA UNA PUNO Y OTROS RECTORES DIALOGAN CON EL MINEDU PARA LOGRAR EL INCREMENTO DE R...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-20T23:48:07.104832+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "ESTAMOS EN VIVO |",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-20T23:48:07.104832+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "UNA PUNO PARTICIPA DE LA CUARTA PROCESIÓN DEL SEÑOR DE LOS MILAGROS, ELEVANDO SUS PLEGARIAS ...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-20T07:28:58.937835+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "¡LA IA COMO MOTOR DE INNOVACIÓN Y DESARROLLO REGIONAL!",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "deportes",
-      "category_label": "Deporte Universitario",
-      "badge": "Logro Histórico",
-      "date": "20 Oct 2026, 00:05 UTC",
-      "published_at": "2026-10-20T00:05:05.725000+00:00",
-      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/858983350_986543157824636_8586971099994478589_n.png?stp=dst-jpg_tt6&cstp=mx1638x2048&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uRlqsn3S_gAQ7kNvwEJ1Z9G&_nc_oc=AdpPYdQnwTz0MlUJEJgtJBWTUxgCy_a6cZe5qwzt3PROrtpHlhQIJYdTPCmd7qVgOf0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SMHSWko7-mRLurjq09mESQ&_nc_ss=78289&oh=00_AQP5SYxDbhErnW4adQNt8OiPGwCr8kZJJrnH23zFGMo_uA&oe=6ADC8DCB",
-      "thumbnail": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/858983350_986543157824636_8586971099994478589_n.png?stp=dst-jpg_tt6&cstp=mx1638x2048&ctp=s640x640&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uRlqsn3S_gAQ7kNvwEJ1Z9G&_nc_oc=AdpPYdQnwTz0MlUJEJgtJBWTUxgCy_a6cZe5qwzt3PROrtpHlhQIJYdTPCmd7qVgOf0&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=SMHSWko7-mRLurjq09mESQ&_nc_ss=78289&oh=00_AQP5SYxDbhErnW4adQNt8OiPGwCr8kZJJrnH23zFGMo_uA&oe=6ADC8DCB",
-      "description": "Información oficial de la UNA Puno sobre ¡La IA como motor de innovación y desarrollo regional!.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid08KvHpApvT78kG9gA2TrF4mp3UQHNGXWQD2K54cwLivmXomJaFFpYVE73uSGXWKo5l?__cft__[0]=AZhKhpM4pQ7IMQgi3dyWqT4bHpNFDcB0RMRZ2b_6ORsw7X3aGzAu-POzrEdYqcXDolDc87Nke-H108M8t5GGbEq6mML1eU5NIIBDjS30YuqV5OzKMJxhQ4Y1PHb88unJfzQhCnpmqpAp5MhMR9QkEhmfqL2ZRJYPiQ6SoYHBsPQE26GnCstPn7_-xdw&__tn__=%2CO%2CP-R",
-      "likes": 1720,
-      "shares": 335,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-20T02:05:05.821373+00:00"
     }
   ]
 }
