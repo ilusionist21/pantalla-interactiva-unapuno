@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-20T23:48:07.104832+00:00",
+    "last_sync": "2026-10-21T07:33:38.414591+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "MINEDU SE COMPROMETE A HACER EFECTIVO EL INCREMENTO DE REMUNERACIONES A DOCENTES UNIVERSITAR...",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "21 Oct 2026, 02:32 UTC",
+      "published_at": "2026-10-21T02:32:43.427000+00:00",
+      "image": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/858569067_4619556454988911_7891170995181163740_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GQOF11w6dJgQ7kNvwF4NMS9&_nc_oc=AdrSIXYSeHEJDWf8mvUO2tqhZrZeJfFQl88nJrQOwrffVAKyhJgz6NJsJy9yOd2hL0M&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=tV4HkT0knRnAI59saenYTg&_nc_ss=78289&oh=00_AQP5Ebs6cMaMtzap_i7r7LizH_5q1i5cCrnpoBW58uz-kQ&oe=6ADE4F68",
+      "thumbnail": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/858569067_4619556454988911_7891170995181163740_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GQOF11w6dJgQ7kNvwF4NMS9&_nc_oc=AdrSIXYSeHEJDWf8mvUO2tqhZrZeJfFQl88nJrQOwrffVAKyhJgz6NJsJy9yOd2hL0M&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=tV4HkT0knRnAI59saenYTg&_nc_ss=78289&oh=00_AQP5Ebs6cMaMtzap_i7r7LizH_5q1i5cCrnpoBW58uz-kQ&oe=6ADE4F68",
+      "description": "Información oficial de la UNA Puno sobre MINEDU se compromete a hacer efectivo el incremento de remuneraciones a docentes universitarios en este mes de octubre.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0ciNXr4VQEKmrK2LSp7JUDw1cEagtLuGdMJpRZ6ZQcyqQvp7YFTR1xL8vnDqbqcMKl?__cft__[0]=AZjBVUT7UUzGLKOoxzBHSlpV9RdJFbemtrYzsneamtct_tRbSMg0dgPRK4Z_rIkepBy7Ok91VxU_hWufaRtZGIi1h3Unf4cuzNTE29UPi5qWfrSN7WKr7nZZ74xwSD3GgcWncaXc4F16d9uAC5h9vXAr_qRmta196g_ieD0jePPGtDdhxlb3OjFDaMk&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-21T07:33:38.414591+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "RECTOR DE LA UNA PUNO Y OTROS RECTORES DIALOGAN CON EL MINEDU PARA LOGRAR EL INCREMENTO DE R...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-20T23:48:07.104832+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "ESTAMOS EN VIVO |",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-20T23:48:07.104832+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "UNA PUNO PARTICIPA DE LA CUARTA PROCESIÓN DEL SEÑOR DE LOS MILAGROS, ELEVANDO SUS PLEGARIAS ...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-20T07:28:58.937835+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "¡LA IA COMO MOTOR DE INNOVACIÓN Y DESARROLLO REGIONAL!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -82,25 +101,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid08KvHpApvT78kG9gA2TrF4mp3UQHNGXWQD2K54cwLivmXomJaFFpYVE73uSGXWKo5l?__cft__[0]=AZhKhpM4pQ7IMQgi3dyWqT4bHpNFDcB0RMRZ2b_6ORsw7X3aGzAu-POzrEdYqcXDolDc87Nke-H108M8t5GGbEq6mML1eU5NIIBDjS30YuqV5OzKMJxhQ4Y1PHb88unJfzQhCnpmqpAp5MhMR9QkEhmfqL2ZRJYPiQ6SoYHBsPQE26GnCstPn7_-xdw&__tn__=%2CO%2CP-R",
       "likes": 1720,
       "shares": 335,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-20T02:05:05.821373+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "FONDO EDITORIAL DE LA UNA PUNO Y FONDO EDITORIAL DEL CONGRESO FIRMARÁN CONVENIO PARA PUBLICA...",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "cultura",
-      "category_label": "Cultura & Folklore",
-      "badge": "Candelaria 2026",
-      "date": "19 Oct 2026, 22:05 UTC",
-      "published_at": "2026-10-19T22:05:05.726000+00:00",
-      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/855259735_1563958395769866_5399950588032918317_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mvQC1dcdHJQQ7kNvwFpQIgz&_nc_oc=AdqR2-7dLKdcjX0l01Z-WULvLOVNCopoy5vdyD1VvvFm8KR_pbpBKEeg97kw_zPScD8&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=SMHSWko7-mRLurjq09mESQ&_nc_ss=78289&oh=00_AQPdWHnY1oQ-QgkEgdjd4PCKOto-U4hXeD-pqqM0sJE1zQ&oe=6ADC89C7",
-      "thumbnail": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/855259735_1563958395769866_5399950588032918317_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mvQC1dcdHJQQ7kNvwFpQIgz&_nc_oc=AdqR2-7dLKdcjX0l01Z-WULvLOVNCopoy5vdyD1VvvFm8KR_pbpBKEeg97kw_zPScD8&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&_nc_gid=SMHSWko7-mRLurjq09mESQ&_nc_ss=78289&oh=00_AQPdWHnY1oQ-QgkEgdjd4PCKOto-U4hXeD-pqqM0sJE1zQ&oe=6ADC89C7",
-      "description": "Información oficial de la UNA Puno sobre FONDO EDITORIAL DE LA UNA PUNO Y FONDO EDITORIAL DEL CONGRESO FIRMARÁN CONVENIO PARA PUBLICAR LIBROS, INVESTIGACIÓN Y DIFUSIÓN CULTURAL.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02x17pxVpKLRbvU5poGr1BxBDEuRXxaVETJvpVApX3y9VT4xdUKqL3Qqbh35PqCv8tl?__cft__[0]=AZhaVQ3eOLRv6fLLI_969d5x3uWpVcOvWHlUY6rkabAwYdeqwA4xWqGMlmM21a0ihdYXcoCjf0cOaOuXBBPIyDYMyfk9eeS9HDChYInvFrA4IxeEn5TCDY_W74sJkdwdsccar4qD0TtpZNdDYCklUoKz1hZAxR4PoFqEonYqY2s9qRpBJ2sAzUEFlfI&__tn__=%2CO%2CP-R",
-      "likes": 2040,
-      "shares": 410,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-20T02:05:05.821373+00:00"
