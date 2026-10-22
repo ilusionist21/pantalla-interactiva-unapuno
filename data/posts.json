@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-21T21:38:47.926313+00:00",
+    "last_sync": "2026-10-22T00:15:58.621534+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "#VAYANSEALAIA",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "22 Oct 2026, 00:07 UTC",
+      "published_at": "2026-10-22T00:07:02.682000+00:00",
+      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/858568765_1951183415853097_7753970416643692226_n.jpg?stp=dst-jpg_tt6&cstp=mx1280x720&_nc_cat=101&ccb=1-7&_nc_sid=df2c94&_nc_ohc=74ZRFSJoTBQQ7kNvwEH1-IM&_nc_oc=AdrRm5upRw2Xs-rAIg2GZNi3I-tnV841ICq2ejTs-jqkftCuZ4h0P7vS0gQRaHwNyo4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=O-Js-3N9Lo-hjQLWJuxbsQ&_nc_ss=78289&oh=00_AQMuhz2atqWFJ9AeSgqI7UHQ0VX83FIpj9hPOPTuJXJTkw&oe=6ADF295F",
+      "thumbnail": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/858568765_1951183415853097_7753970416643692226_n.jpg?stp=dst-jpg_tt6&cstp=mx1280x720&ctp=s960x960&_nc_cat=101&ccb=1-7&_nc_sid=df2c94&_nc_ohc=74ZRFSJoTBQQ7kNvwEH1-IM&_nc_oc=AdrRm5upRw2Xs-rAIg2GZNi3I-tnV841ICq2ejTs-jqkftCuZ4h0P7vS0gQRaHwNyo4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=O-Js-3N9Lo-hjQLWJuxbsQ&_nc_ss=78289&oh=00_AQMuhz2atqWFJ9AeSgqI7UHQ0VX83FIpj9hPOPTuJXJTkw&oe=6ADF295F",
+      "description": "DIRECTO",
+      "facebook_url": "https://www.facebook.com/unapunooficial/videos/2121470575136243/?__cft__[0]=AZiKZM0Z0ANEjF5K9gg9pBOXPMKumeDutPpnz5WuBUlm-kpmVP05o18N5-EVSmi1PbBuY9nII94RQQRHbNUdUghebfjnue8eGyPZVobyaCQe5YEoCvMnFgHhbde34_DLinIm7nTgG1vzpifPIF0vSTVBangD6MToqiP2psvvqvd-nE_o4xSPtRd56KPWv4AXn7g&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-22T00:15:58.621534+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "UNA PUNO PRIORIZA LA SALUD MENTAL Y EL BIENESTAR EMOCIONAL DE LOS ESTUDIANTES UNIVERSITARIOS",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-21T21:38:47.926313+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "MINEDU SE COMPROMETE A HACER EFECTIVO EL INCREMENTO DE REMUNERACIONES A DOCENTES UNIVERSITAR...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-21T07:33:38.414591+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "RECTOR DE LA UNA PUNO Y OTROS RECTORES DIALOGAN CON EL MINEDU PARA LOGRAR EL INCREMENTO DE R...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-20T23:48:07.104832+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "ESTAMOS EN VIVO |",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-20T23:48:07.104832+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "UNA PUNO PARTICIPA DE LA CUARTA PROCESIÓN DEL SEÑOR DE LOS MILAGROS, ELEVANDO SUS PLEGARIAS ...",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "institucional",
-      "category_label": "Actualidad Universitaria",
-      "badge": "UNA Puno",
-      "date": "20 Oct 2026, 00:28 UTC",
-      "published_at": "2026-10-20T00:28:02.854000+00:00",
-      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/855412464_1631047971998787_5676201296384508395_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XkO9MVf73DQQ7kNvwEUyo6H&_nc_oc=AdqfLVJtk2iPbn0EFIRt1sUpIcV3jLDT71NkVNW3y_Rg8r-lmzdJ1HqnQEkQIs1rOSk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oloCdwsLXmKGtFApecJ9Rg&_nc_ss=78289&oh=00_AQNQxN8Auj48XbUjRXKxhbKnAWX7wjJiz_U5G8xYa6Ymjw&oe=6ADCD109",
-      "thumbnail": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/855412464_1631047971998787_5676201296384508395_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XkO9MVf73DQQ7kNvwEUyo6H&_nc_oc=AdqfLVJtk2iPbn0EFIRt1sUpIcV3jLDT71NkVNW3y_Rg8r-lmzdJ1HqnQEkQIs1rOSk&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=oloCdwsLXmKGtFApecJ9Rg&_nc_ss=78289&oh=00_AQNQxN8Auj48XbUjRXKxhbKnAWX7wjJiz_U5G8xYa6Ymjw&oe=6ADCD109",
-      "description": "Información oficial de la UNA Puno sobre UNA PUNO PARTICIPA DE LA CUARTA PROCESIÓN DEL SEÑOR DE LOS MILAGROS, ELEVANDO SUS PLEGARIAS Y ESPERANZA.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02sRQkbQYecUKjEzj7Yd56LcnPoX1zrgcA9LxNWk7s2t9YMhtCavpX7vW1HmyNwwTml?__cft__[0]=AZgm9LQ3pjSoDbTxYQ8Gwudmv_ZIfSASO_OcX9O3tDqDhM1MMfMkKTl4fHh39008MuxXmA6_db0yeuXwGi4vSBQt9bGkhxS_yx_UHLlQF09drll7rmdXS_1Q5kc39hMfvh5Xh4N2z-qlL5j5t7PmUAt0YwaQqFGCWjxFFqd9AqRUKgArKv61CVO_dgI&__tn__=%2CO%2CP-R",
-      "likes": 1400,
-      "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-20T07:28:58.937835+00:00"
     }
   ]
 }
