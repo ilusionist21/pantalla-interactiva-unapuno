@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-22T15:13:46.888063+00:00",
+    "last_sync": "2026-10-23T00:53:36.580240+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "EN VIVO | SEMINARIO ANUAL 2026",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "22 Oct 2026, 19:52 UTC",
+      "published_at": "2026-10-22T19:52:40.842000+00:00",
+      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/864329840_1129137492866693_6927604991535169297_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&_nc_cat=106&ccb=1-7&_nc_sid=032300&_nc_ohc=4p7RosAN57cQ7kNvwFt5A2a&_nc_oc=Adr0gfvW83OyLUasWFZNvsRwNun1KPJcjF_tQQncM51u3lvIBGmFie15bbmYJbJhpXU&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=MiQV_x-pva3ucBo9nEMFxg&_nc_ss=78289&oh=00_AQMJaYQA5G_w2UmqOn2zFipbwMX2xIepuQHMUJniHnATJw&oe=6AE09551",
+      "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/864329840_1129137492866693_6927604991535169297_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=032300&_nc_ohc=4p7RosAN57cQ7kNvwFt5A2a&_nc_oc=Adr0gfvW83OyLUasWFZNvsRwNun1KPJcjF_tQQncM51u3lvIBGmFie15bbmYJbJhpXU&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=MiQV_x-pva3ucBo9nEMFxg&_nc_ss=78289&oh=00_AQMJaYQA5G_w2UmqOn2zFipbwMX2xIepuQHMUJniHnATJw&oe=6AE09551",
+      "description": "La Unidad de Posgrado de la Facultad de Ingeniería Económica de la Universidad Nacional del Altiplano – Puno presenta el Seminario A",
+      "facebook_url": "https://www.facebook.com/unapunooficial/videos/1002873542828339/?__cft__[0]=AZgoY_72AtG3PzAvhlc4WXdBmx5AIidKM6UdA4VaDNZNbWVMEs5ezypT9qFaj6rIP2W21fx-Qnllt-A6uBAho3Ia-HkZfP7SAwOhD8QD_C6NkDbM-iurdexirUZPDsP7wJPSAUVtPq76ZHyqscXCiO0rlZ-3yAFeNYXJsdYT-M4fVaFbFfF9HgNl2HgTEcmwdR8&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-23T00:53:36.580240+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "¡ORDEN DE PRESENTACIÓN!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-22T15:13:46.888063+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "#VAYANSEALAIA",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-22T10:05:20.988044+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "UNA PUNO PRIORIZA LA SALUD MENTAL Y EL BIENESTAR EMOCIONAL DE LOS ESTUDIANTES UNIVERSITARIOS…",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-22T10:05:20.988044+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "MINEDU SE COMPROMETE A HACER EFECTIVO EL INCREMENTO DE REMUNERACIONES A DOCENTES UNIVERSITAR...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-22T10:05:20.988044+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "RECTOR DE LA UNA PUNO Y OTROS RECTORES DIALOGAN CON EL MINEDU PARA LOGRAR EL INCREMENTO DE R...",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "institucional",
-      "category_label": "Actualidad Universitaria",
-      "badge": "UNA Puno",
-      "date": "20 Oct 2026, 19:47 UTC",
-      "published_at": "2026-10-20T19:47:10.829000+00:00",
-      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/854780530_39349534334693139_7382305509842433267_n.png?stp=dst-jpg_tt6&cstp=mx1494x996&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YZb4dCTSnY4Q7kNvwHIpMCg&_nc_oc=AdrCfv3O9M3cMwUXczinIYjTnVEgXUN2a5BUm3Vzp0fRkFNCGGF8LW5-Hpuq1tSYFH4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=4qoZS2zUwl9V4WGeuqMbWg&_nc_ss=78289&oh=00_AQPJ7zg2dDtyOLRDCe5BC-2ouLxPwYovVsNg5OUTM318eQ&oe=6ADDC3F6",
-      "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/854780530_39349534334693139_7382305509842433267_n.png?stp=dst-jpg_tt6&cstp=mx1494x996&ctp=s590x590&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=YZb4dCTSnY4Q7kNvwHIpMCg&_nc_oc=AdrCfv3O9M3cMwUXczinIYjTnVEgXUN2a5BUm3Vzp0fRkFNCGGF8LW5-Hpuq1tSYFH4&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=4qoZS2zUwl9V4WGeuqMbWg&_nc_ss=78289&oh=00_AQPJ7zg2dDtyOLRDCe5BC-2ouLxPwYovVsNg5OUTM318eQ&oe=6ADDC3F6",
-      "description": "Información oficial de la UNA Puno sobre RECTOR DE LA UNA PUNO Y OTROS RECTORES DIALOGAN CON EL MINEDU PARA LOGRAR EL INCREMENTO DE REMUNERACIONES DE LOS DOCENTES UNIVERSITARIOS.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02CEXh6ieDE6xVa1emgSbjMXMq8v5E4kaxmWM4Z1sMPCXTy3wbNkKkMjgQij4ZbckFl?__cft__[0]=AZhkE8zpZTJ_jkBU2Ar5UuFD9Vkj4v1zcwnTUkYUXIiSc6Gf3m_YjMPMFmnATAkwLGZ8dbkqU3lm9sgoyphDWp69WaqO0pdETjfJ5CsAQzsOasBSTepQETKa8PmFRi7qndWmKibcnVXwxO50Z207sI7kWsAxETJKMxV21XCTZ2mnwwhoLiZ_ZQHoCqY&__tn__=%2CO%2CP-R",
-      "likes": 1400,
-      "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-20T23:48:07.104832+00:00"
     }
   ]
 }
