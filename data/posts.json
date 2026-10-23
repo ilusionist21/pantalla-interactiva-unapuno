@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-23T10:33:40.322716+00:00",
+    "last_sync": "2026-10-23T15:27:02.807600+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "FIGIM: DEL MINERAL A LA PLANTA, DEL CAMPO AL LABORATORIO.",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "23 Oct 2026, 14:26 UTC",
+      "published_at": "2026-10-23T14:26:07.423000+00:00",
+      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/863369927_1132329752833877_4748669689058851496_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=bkR5ji3v9sAQ7kNvwF8hSBG&_nc_oc=AdqG1T5GyIJEsVazcjFwU9S6am0rVaXPX7FmdERDvomaA_0PIlcgYfg3p9feHxM4IrE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=hZYLHa097f1roBcYUQdycg&_nc_ss=78289&oh=00_AQN9FC0kVNBVnkAlVtwLDlzYnQLEch3jOqsCe3V3kkIWfw&oe=6AE16391",
+      "thumbnail": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/863369927_1132329752833877_4748669689058851496_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=bkR5ji3v9sAQ7kNvwF8hSBG&_nc_oc=AdqG1T5GyIJEsVazcjFwU9S6am0rVaXPX7FmdERDvomaA_0PIlcgYfg3p9feHxM4IrE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=hZYLHa097f1roBcYUQdycg&_nc_ss=78289&oh=00_AQN9FC0kVNBVnkAlVtwLDlzYnQLEch3jOqsCe3V3kkIWfw&oe=6AE16391",
+      "description": "Información oficial de la UNA Puno sobre FIGIM: del mineral a la planta, del campo al laboratorio.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02sdyJntYEaGUwfDRcmpsppsDsEtoMkiyPvSEEKtApmZS17jzwg5y2eGyRREpygq69l?__cft__[0]=AZjwKm9PuRtzBuBywpWCx2Go3WoO4xcK4f-2RjpJ9WNbyj48qwBDfX6DnNtEH9ptte-WThEd8neUzS84tM9mdlMqjB8BQih9H1AXCDuBNf3DvtNkheum24sdvnU7MgsTyREGSNB5Ob5GizyDstEMOCvIl4bKvYMV2vWYfJpUwIU0391w8dEliMg0YRY&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-23T15:27:02.807600+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "UNA PUNO COMPARTE SUS INVESTIGACIONES EN EL CONGRESO INTERNACIONAL DE EDUCACIÓN PRIMARIA REA...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-23T10:33:40.322716+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "EN VIVO | SEMINARIO ANUAL 2026",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-23T10:33:40.322716+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "¡ORDEN DE PRESENTACIÓN!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-22T15:13:46.888063+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "#VAYANSEALAIA",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -82,25 +101,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial/videos/2121470575136243/?__cft__[0]=AZgjsFQe5WmzXtnpS12qiwFBV5SfPW_2XEe0fIJvPOkKQD86fXz1-UQJZ-DizdblhcgaPJsov8AplH3SPTEk8HvHYxSGEizOMiGWT9vJBKiA6wa5rDTVwO9ke-6qQJAI59p-YvtXrKh6ETpCZgF8FQQxBES_RVsFK5IRhiOB3-TbhemTkbwigIskjf9MGOvU6NY&__tn__=%2CO%2CP-R",
       "likes": 1400,
       "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-22T10:05:20.988044+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "UNA PUNO PRIORIZA LA SALUD MENTAL Y EL BIENESTAR EMOCIONAL DE LOS ESTUDIANTES UNIVERSITARIOS…",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "deportes",
-      "category_label": "Deporte Universitario",
-      "badge": "Logro Histórico",
-      "date": "21 Oct 2026, 20:05 UTC",
-      "published_at": "2026-10-21T20:05:20.886000+00:00",
-      "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/857471460_28984373624535688_4179509567073318005_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vaIsxaLMSHQQ7kNvwF688Eb&_nc_oc=Adpl4NTETHwmxnSPXns0sk5y8WduPNTKAE7hRHWoIhb2A4_bw9kOkiWN_RDATx42BMM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=WiMDwfBE9GIBaqu94XBOHQ&_nc_ss=78289&oh=00_AQNA_wM8UqgmDla4AJ1iQkMq4XVb358Y0uftkqIFUtyYSw&oe=6ADFC1E1",
-      "thumbnail": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/857471460_28984373624535688_4179509567073318005_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vaIsxaLMSHQQ7kNvwF688Eb&_nc_oc=Adpl4NTETHwmxnSPXns0sk5y8WduPNTKAE7hRHWoIhb2A4_bw9kOkiWN_RDATx42BMM&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=WiMDwfBE9GIBaqu94XBOHQ&_nc_ss=78289&oh=00_AQNA_wM8UqgmDla4AJ1iQkMq4XVb358Y0uftkqIFUtyYSw&oe=6ADFC1E1",
-      "description": "Yeni Ccari Herrera\nOjalá se centren en la escuela profesional de educación inicial, es muy evidente que los estudiantes no tienen tiempo ni para dormir, por los arduos y excesivos materiales que deben de preparar y si hacen seguimientos muchos de ellos probablemente teng…",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0bbiifKKvUZR8PyAtezV4vcjm1sFbb1zjhvKBWNaZMTdNXM62JUkR9K3rnE4rjMr5l?__cft__[0]=AZiWPf9WTpHQSz7LKFRG1gy1ltoSFA6-wfmRhC9ZrN8EtyaLHB6Xt_gYwP0qEsu3SS3I20XbBnhEOuUNXtmLrkGR2Ieyt_z2PhraWpc6F1Um2eZjGlS6XXEiw1LXMW9KvR1rKbL4p3ic_yckJWlhrgKEvT_PKTA-gcHL7Dia-VYshHsNP1k4tZaFLlA&__tn__=%2CO%2CP-R",
-      "likes": 1720,
-      "shares": 335,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-22T10:05:20.988044+00:00"
