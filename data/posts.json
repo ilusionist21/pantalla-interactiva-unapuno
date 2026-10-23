@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-23T00:53:36.580240+00:00",
+    "last_sync": "2026-10-23T05:42:12.900338+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "UNA PUNO COMPARTE SUS INVESTIGACIONES EN EL CONGRESO INTERNACIONAL DE EDUCACIÓN PRIMARIA REA...",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "23 Oct 2026, 02:41 UTC",
+      "published_at": "2026-10-23T02:41:18.210000+00:00",
+      "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/857710840_1843158220460735_8391530624445162568_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yQEameZcc3kQ7kNvwFNlUIs&_nc_oc=Adqp0_n1Bq6T2bpSzOFhxc2XT1XjNoIMGgrzsKz_bldYa7lNXTTzNw2USn9sZfTWWts&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=MfbqyMt3oo2NhFHkhapqZQ&_nc_ss=78289&oh=00_AQM8fXaA4Qk2vzAXHY_KpYlOOZoSsjXY8jlMc4rPCI2QWA&oe=6AE0C132",
+      "thumbnail": "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/857710840_1843158220460735_8391530624445162568_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yQEameZcc3kQ7kNvwFNlUIs&_nc_oc=Adqp0_n1Bq6T2bpSzOFhxc2XT1XjNoIMGgrzsKz_bldYa7lNXTTzNw2USn9sZfTWWts&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=MfbqyMt3oo2NhFHkhapqZQ&_nc_ss=78289&oh=00_AQM8fXaA4Qk2vzAXHY_KpYlOOZoSsjXY8jlMc4rPCI2QWA&oe=6AE0C132",
+      "description": "Información oficial de la UNA Puno sobre UNA Puno comparte sus investigaciones en el Congreso Internacional de Educación Primaria realizado en Huancayo.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid03Gh5HiHMJ9fF42K4ZHZP3q6VJcELcHvPvQkm6ZS1VqpXgzPgEhK28bTWHT2GAE34l?__cft__[0]=AZjA2j6f33FOlmk-dJSqEM71U_tECLFVUjMmpNC5xPDqMtZlTAQXl6Q_GcaaYVIdd_bMc0fCg8L6NpRjTcMBaXBMLRiopW4c6qhrQJpiD06IUe1B0HKHm9flpzk9LZo2rgq9At1ltrDdzZoGfLjMk1w_5CuUp-np6wGcwkAb6uALgGFowkStn2LqL1E&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-23T05:42:12.900338+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "EN VIVO | SEMINARIO ANUAL 2026",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-23T00:53:36.580240+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "¡ORDEN DE PRESENTACIÓN!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-22T15:13:46.888063+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "#VAYANSEALAIA",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-22T10:05:20.988044+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "UNA PUNO PRIORIZA LA SALUD MENTAL Y EL BIENESTAR EMOCIONAL DE LOS ESTUDIANTES UNIVERSITARIOS…",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -82,25 +101,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0bbiifKKvUZR8PyAtezV4vcjm1sFbb1zjhvKBWNaZMTdNXM62JUkR9K3rnE4rjMr5l?__cft__[0]=AZiWPf9WTpHQSz7LKFRG1gy1ltoSFA6-wfmRhC9ZrN8EtyaLHB6Xt_gYwP0qEsu3SS3I20XbBnhEOuUNXtmLrkGR2Ieyt_z2PhraWpc6F1Um2eZjGlS6XXEiw1LXMW9KvR1rKbL4p3ic_yckJWlhrgKEvT_PKTA-gcHL7Dia-VYshHsNP1k4tZaFLlA&__tn__=%2CO%2CP-R",
       "likes": 1720,
       "shares": 335,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-22T10:05:20.988044+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "MINEDU SE COMPROMETE A HACER EFECTIVO EL INCREMENTO DE REMUNERACIONES A DOCENTES UNIVERSITAR...",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "cultura",
-      "category_label": "Cultura & Folklore",
-      "badge": "Candelaria 2026",
-      "date": "21 Oct 2026, 10:05 UTC",
-      "published_at": "2026-10-21T10:05:20.887000+00:00",
-      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/858569067_4619556454988911_7891170995181163740_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GQOF11w6dJgQ7kNvwFnXsvp&_nc_oc=AdoRhZGTRy-9yoqLrdgSzmyQLZJhgJR41QEcBOFtUWpu2r3owIOJTkOcQkeoj7cGYmU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=WiMDwfBE9GIBaqu94XBOHQ&_nc_ss=78289&oh=00_AQPRzq5ahYW46GzT93bqE8xblM0LQv0PHX0NWpwA8BksMA&oe=6ADFA0E8",
-      "thumbnail": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/858569067_4619556454988911_7891170995181163740_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GQOF11w6dJgQ7kNvwFnXsvp&_nc_oc=AdoRhZGTRy-9yoqLrdgSzmyQLZJhgJR41QEcBOFtUWpu2r3owIOJTkOcQkeoj7cGYmU&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=WiMDwfBE9GIBaqu94XBOHQ&_nc_ss=78289&oh=00_AQPRzq5ahYW46GzT93bqE8xblM0LQv0PHX0NWpwA8BksMA&oe=6ADFA0E8",
-      "description": "Información oficial de la UNA Puno sobre MINEDU se compromete a hacer efectivo el incremento de remuneraciones a docentes universitarios en este mes de octubre….",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02gZpF2jRE5dR8X3kWk5dAy83W57k7h67cqhm9QLtSZuVAnFK7vsvMKSD61yrkxAshl?__cft__[0]=AZgVYaL97I2amWNKxSms2vczC9MhfRmNk0SbSXN07oPjpLJ-317vGQDu-LEC5O2dv8Kmw4Ru0Bl24PydgT2Rd1Hr0q1FBL43YFZ_i1vIJytT2c8DBMEHTAWmQI1UN_3jb7x8xisOqGH4r-5t3w0oGW9Y44hpKY8hf3n8g0MolFEX1MbFyjKLvIa8qa8&__tn__=%2CO%2CP-R",
-      "likes": 2040,
-      "shares": 410,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-22T10:05:20.988044+00:00"
