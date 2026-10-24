@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-23T19:30:05.110522+00:00",
+    "last_sync": "2026-10-24T01:04:00.515843+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "45 AÑOS FORMANDO PROFESIONALES COMPETITIVOS PARA EL DESARROLLO MINERO DEL PAÍS DESDE FIGIM D...",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "24 Oct 2026, 00:03 UTC",
+      "published_at": "2026-10-24T00:03:05.749000+00:00",
+      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/857130287_2241960256381886_3693293771929371967_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BnfAhcOmXVAQ7kNvwGXREil&_nc_oc=Adpl1M9PS9HuelxWQ1TpU_PBtXQmL-3kNB8-pW7AiTmZ-Lp-jvdv_vaSCs_4sVBKLwo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=gkeJ_gmw-T2M0v0k6Or30w&_nc_ss=78289&oh=00_AQO8uobgDz1QViFwCtcgDRQz1sl2rvnzKV-b3axqf4ppdg&oe=6AE1BA92",
+      "thumbnail": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/857130287_2241960256381886_3693293771929371967_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BnfAhcOmXVAQ7kNvwGXREil&_nc_oc=Adpl1M9PS9HuelxWQ1TpU_PBtXQmL-3kNB8-pW7AiTmZ-Lp-jvdv_vaSCs_4sVBKLwo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=gkeJ_gmw-T2M0v0k6Or30w&_nc_ss=78289&oh=00_AQO8uobgDz1QViFwCtcgDRQz1sl2rvnzKV-b3axqf4ppdg&oe=6AE1BA92",
+      "description": "Información oficial de la UNA Puno sobre 45 AÑOS FORMANDO PROFESIONALES COMPETITIVOS PARA EL DESARROLLO MINERO DEL PAÍS DESDE FIGIM DE LA UNA PUNO.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0eXemB8yShRHh3zQqMRi3QbhFjTcNH8iKZvpu4CGNL8wHSzrJY1gvhF1QhUCbNvWNl?__cft__[0]=AZi_8-olgK_9Mb_qUc7_YHSdbyRkTqbRDot8qLY5dAAlG9XjMja2f1xbA4UG4gROlZWJQ4jKxutvNiFNBkCtfKGNR_FoEv8Gca6nQ2CQ3B2cEJXckoiA7URmBETWUf4k4EmZvhNNaH7Oa-XLHtH5T5g6pC_31ZuZo7cfPTlJy5q2YyN42GnQkacs95w&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-24T01:04:00.515843+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "INTELIGENCIA ARTIFICIAL PARA IMPULSAR LA COMPETITIVIDAD REGIONAL: ESPECIALISTAS ANÁLIZAN EN ...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-23T19:30:05.110522+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "ESTAMOS EN VIVO | CEREMONIA CENTRAL POR EL 45° ANIVERSARIO DE LA FACULTAD DE INGENIERÍA GEOL...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-23T19:30:05.110522+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "FIGIM: DEL MINERAL A LA PLANTA, DEL CAMPO AL LABORATORIO.",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-23T19:30:05.110522+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "¡FELIZ ANIVERSARIO FACULTAD DE INGENIERÍA GEOLÓGICA Y METALÚRGICA!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "investigacion",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-23T19:30:05.110522+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "UNA PUNO COMPARTE SUS INVESTIGACIONES EN EL CONGRESO INTERNACIONAL DE EDUCACIÓN PRIMARIA REA...",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "institucional",
-      "category_label": "Actualidad Universitaria",
-      "badge": "UNA Puno",
-      "date": "23 Oct 2026, 02:33 UTC",
-      "published_at": "2026-10-23T02:33:01.919000+00:00",
-      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/857710840_1843158220460735_8391530624445162568_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yQEameZcc3kQ7kNvwEN5RPi&_nc_oc=Ado-Yd71kPUBfdTjWQbDJZK39-RIB34N8Hgkt4AB07V6i63CfnV8iulv08J91Y7wR6Q&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=vHubZzOak3Ycs8FcRRzFwA&_nc_ss=78289&oh=00_AQNGCImPyUpH81GXbwgKOeh4Pw7HXogErW4pta6qsGg4NA&oe=6AE0F972",
-      "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/857710840_1843158220460735_8391530624445162568_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yQEameZcc3kQ7kNvwEN5RPi&_nc_oc=Ado-Yd71kPUBfdTjWQbDJZK39-RIB34N8Hgkt4AB07V6i63CfnV8iulv08J91Y7wR6Q&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=vHubZzOak3Ycs8FcRRzFwA&_nc_ss=78289&oh=00_AQNGCImPyUpH81GXbwgKOeh4Pw7HXogErW4pta6qsGg4NA&oe=6AE0F972",
-      "description": "Información oficial de la UNA Puno sobre UNA Puno comparte sus investigaciones en el Congreso Internacional de Educación Primaria realizado en Huancayo.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid026eBFujdyKrsK11g2e1F1DDkkcM4Ejxw4N9oNuh6Ehn95PhdyG9Sukp7RuAoPLBkGl?__cft__[0]=AZjm7hOB4fLGGONq5lU-c8049aAuLkaCZFaIJaJ_H0Z1UtIBH533asq1tAKR30nf_8SJwt4ubv-uDprETnEkNi8h6kWt6eVK2c5NnwmklwF7Tb7LqkJ5HJ4xJ401Pn8LEY1DSTs1KCjqfZsS7GGGxEo2jdIOqmqqVf80xQMtIqOqOWslm6ZjtodbIh4&__tn__=%2CO%2CP-R",
-      "likes": 1400,
-      "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-23T10:33:40.322716+00:00"
     }
   ]
 }
