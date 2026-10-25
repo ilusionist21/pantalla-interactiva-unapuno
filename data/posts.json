@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-24T23:50:02.582950+00:00",
+    "last_sync": "2026-10-25T16:48:32.105587+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "UNA PUNO HONRA A LOS TRABAJADORES DE CONSTRUCCIÓN CIVIL CON DEPORTE Y ESPÍRITU DE EQUIPO",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "25 Oct 2026, 15:55 UTC",
+      "published_at": "2026-10-25T15:55:37.408000+00:00",
+      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/863541297_1726369585123538_4661110427714378346_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TIqkAwW7cVUQ7kNvwGJ7mhh&_nc_oc=AdqNn532BPFY9_ItRVSQ_anOtSK9FwifzwUPym6k73DWzKttsyAVzhbFFnnkRPzcql0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nkPY_HX_VidM1qtzvChNFQ&_nc_ss=78289&oh=00_AQOg1qWHekYQWHIcuJh28Ur7M9vFi0nVDO1fWODd2tla9w&oe=6AE418F7",
+      "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/863541297_1726369585123538_4661110427714378346_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=TIqkAwW7cVUQ7kNvwGJ7mhh&_nc_oc=AdqNn532BPFY9_ItRVSQ_anOtSK9FwifzwUPym6k73DWzKttsyAVzhbFFnnkRPzcql0&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=nkPY_HX_VidM1qtzvChNFQ&_nc_ss=78289&oh=00_AQOg1qWHekYQWHIcuJh28Ur7M9vFi0nVDO1fWODd2tla9w&oe=6AE418F7",
+      "description": "Información oficial de la UNA Puno sobre UNA Puno honra a los trabajadores de Construcción Civil con deporte y espíritu de equipo.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0JWe5T3faszNM5KiHzBkUebVMVMA7iFo77yF4YoA1YAJUs68HSFdoR24r27PyHwfQl?__cft__[0]=AZjgN0M5YScY5WtEWZC3EImUsKbF9zGtoGVniJITDExQmGCRDPFmloiZfOxqul0PglKso5h8fpVu2Yq9lYFjXg209X5xHLsMDxzwgSgkmvM5Wd8vEYstwA80jMBTRB0nfu1LgAFoSVOZF408RmcTEA6sCpJb-d3dCQVG_AY1I9ubkU86_q8tQU87cyA&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-25T16:48:32.105587+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "UNA PUNO ABRE SUS PUERTAS A EXPO TITIKAKA MINERO 2026 Y PROMUEVE EL DIÁLOGO SOBRE MINERÍA RE...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-24T23:50:02.582950+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "#ENVIVO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-24T05:45:41.214455+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "FIGIM DE LA UNA PUNO: 45 AÑOS FORMANDO PROFESIONALES COMPETITIVOS PARA EL DESARROLLO MINERO ...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-24T05:45:41.214455+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "INTELIGENCIA ARTIFICIAL PARA IMPULSAR LA COMPETITIVIDAD REGIONAL: ESPECIALISTAS ANÁLIZAN EN ...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -82,25 +101,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02qGFu5KpRu52VgfRDgfeZPzzBQKu6NunhNfDzdK6ZEohdVDJtBqVd7Kk6QG4EEtNGl?__cft__[0]=AZj2i_i-T5HQPlCbXveTNWOxjoKG1s12XF97BR1dSdAOuIOpjLjhSkgo2PWJ0LadUKt7fg2O3CUFWbynkFWPuzLrVSfeY69wR_puPqEDS8xEC5baA4OFRGzb1j1Mrarp7FyVV0UJiczm2Gh-MLJwcFUdohuMaf6IWhU0tPF1VTUZdWXXpV4-1e5xO90&__tn__=%2CO%2CP-R",
       "likes": 1400,
       "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-23T19:30:05.110522+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "ESTAMOS EN VIVO | CEREMONIA CENTRAL POR EL 45° ANIVERSARIO DE LA FACULTAD DE INGENIERÍA GEOL...",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "deportes",
-      "category_label": "Deporte Universitario",
-      "badge": "Logro Histórico",
-      "date": "23 Oct 2026, 16:30 UTC",
-      "published_at": "2026-10-23T16:30:05.024000+00:00",
-      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/864383637_3125846181104303_4444003298353312485_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&_nc_cat=107&ccb=1-7&_nc_sid=032300&_nc_ohc=KPlX2WOSO-EQ7kNvwH33EcC&_nc_oc=AdrqbZT9kKjUzARlVqc81HK323bixDNex8a5rnswKgTB1RrhHi3sm2N9jl0EFG1N0Js&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=odV3XMOO8ddWYMnAuRlkBg&_nc_ss=78289&oh=00_AQN2pSDZmAIwUHGCy7-RDDwechyPA0v7n2aE-lbv2SsHOQ&oe=6AE18E10",
-      "thumbnail": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/864383637_3125846181104303_4444003298353312485_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=032300&_nc_ohc=KPlX2WOSO-EQ7kNvwH33EcC&_nc_oc=AdrqbZT9kKjUzARlVqc81HK323bixDNex8a5rnswKgTB1RrhHi3sm2N9jl0EFG1N0Js&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=odV3XMOO8ddWYMnAuRlkBg&_nc_ss=78289&oh=00_AQN2pSDZmAIwUHGCy7-RDDwechyPA0v7n2aE-lbv2SsHOQ&oe=6AE18E10",
-      "description": "Información oficial de la UNA Puno sobre Estamos en vivo | Ceremonia central por el 45° Aniversario de la Facultad de Ingeniería Geológica y Metalúrgica.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/videos/28636223692740166/?__cft__[0]=AZjLFicsbHxeOY2ej3JOoyU482DlSyo8KC7RCqPSTUNk1m2u8gXAvPYhBEZhZR7V-mi8J-UMt_Y0cswF1RYnKbT5VZxp3Nco3ZtdU80m3SEoRjkxhGkh2qAOL3aDvi4Lv32HV2C0cTb-fZxJ2TsrfeGlnl7A_lQ1JX7ieN2MkH1bbz53djUCeWcn7KbRWESkLXsH&__tn__=%2CO%2CP-R",
-      "likes": 1720,
-      "shares": 335,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-23T19:30:05.110522+00:00"
