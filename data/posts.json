@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-28T00:25:18.161247+00:00",
+    "last_sync": "2026-10-28T18:32:50.156898+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "GEOLÓGICA DE LA UNA PUNO PRESENTA RECURSOS MINERALES Y LÍNEAS DE INVESTIGACIÓN EN EXPO TITIK...",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "28 Oct 2026, 17:31 UTC",
+      "published_at": "2026-10-28T17:31:54.601000+00:00",
+      "image": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/870100372_1652433326426257_3258194081561159462_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SoNQirdpTwgQ7kNvwGeZN4G&_nc_oc=Adq2ZNAMtOf58mlLH2QBLGCzLkjve3JqvM0eKpXMCbb_7arxyna4IpncgSoqqfGaOtM&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=Ip6ORQS8E8mecE3gUa49qw&_nc_ss=78289&oh=00_AQSBfelCefI1wYjh3ZQBdlnFB8jW952ehJ7-pdsTpFByzA&oe=6AE8258C",
+      "thumbnail": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/870100372_1652433326426257_3258194081561159462_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SoNQirdpTwgQ7kNvwGeZN4G&_nc_oc=Adq2ZNAMtOf58mlLH2QBLGCzLkjve3JqvM0eKpXMCbb_7arxyna4IpncgSoqqfGaOtM&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=Ip6ORQS8E8mecE3gUa49qw&_nc_ss=78289&oh=00_AQSBfelCefI1wYjh3ZQBdlnFB8jW952ehJ7-pdsTpFByzA&oe=6AE8258C",
+      "description": "Información oficial de la UNA Puno sobre GEOLÓGICA DE LA UNA PUNO PRESENTA RECURSOS MINERALES Y LÍNEAS DE INVESTIGACIÓN EN EXPO TITIKAKA MINERO 2026.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid032jTbnRPPUW2KuUCopPEorCW4zgx7z8iPfYyfed9VLNMcLhHNkFFL5z2zY9T44Rbkl?__cft__[0]=AZjqjdK1JYpHAm2vQDUfgg8_Qrlnbi1jncqSSC5pHDc6MmeGEzUrXwJOdUoeB5J97tNCOTLs5yWV17bE3wc-2wMTaPztic_8CrF9YMWe_ehz1pS4yJu6aUdehewgmKC0Kd6wfsPs3HJq0zsVOfr3DTMq9PteK7XxgbjrDKvrre3RcL5VWjuFE-qu8dw&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-28T18:32:50.156898+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "UNA PUNO AVANZA EN LA IMPLEMENTACIÓN DE LA METODOLOGÍA BIM PARA MEJORAR LA GESTIÓN DE INVERS...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-28T00:25:18.161247+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "METALÚRGICA PRESENTA HERRAMIENTAS DIGITALES PARA OPTIMIZAR PROCESOS METALÚRGICOS EN EXPO TIT...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-27T20:58:21.329618+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "¡CONVOCATORIA ABIERTA!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-27T20:58:21.329618+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "UNA PUNO HONRA A LOS TRABAJADORES DE CONSTRUCCIÓN CIVIL CON DEPORTE Y ESPÍRITU DE EQUIPO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-26T04:41:00.836233+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "¡FELIZ ANIVERSARIO, MELGAR - AYAVIRI!",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "deportes",
-      "category_label": "Deporte Universitario",
-      "badge": "Logro Histórico",
-      "date": "25 Oct 2026, 13:21 UTC",
-      "published_at": "2026-10-25T13:21:20.290000+00:00",
-      "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/867179097_1129718049518161_1334621392131653698_n.png?stp=dst-jpg_tt6&cstp=mx1768x2048&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MhlUh_kKUPQQ7kNvwGboH4S&_nc_oc=Adpie_v-41JGsBtE0cjjIvCnXREf3Ic7pEjzZl9tE-TNIy2oYNQuuV8Sza4BJ1GufG8&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=N0cnoiTJ7zf9ZyyJuhUyOQ&_nc_ss=78289&oh=00_AQOTui5iyILqayhPCkxj40OpUw9QC5T_ntYTvEQZUxh0Zg&oe=6AE434E4",
-      "thumbnail": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/867179097_1129718049518161_1334621392131653698_n.png?stp=dst-jpg_tt6&cstp=mx1768x2048&ctp=s590x590&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MhlUh_kKUPQQ7kNvwGboH4S&_nc_oc=Adpie_v-41JGsBtE0cjjIvCnXREf3Ic7pEjzZl9tE-TNIy2oYNQuuV8Sza4BJ1GufG8&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=N0cnoiTJ7zf9ZyyJuhUyOQ&_nc_ss=78289&oh=00_AQOTui5iyILqayhPCkxj40OpUw9QC5T_ntYTvEQZUxh0Zg&oe=6AE434E4",
-      "description": "“Capital ganadera del Perú”\nAbat Huayta Quispe\nFeliz CXXV Aniversario provincia de Melgar Ayaviri, \"Capital Ganadera del Perú\", \"Tierra del Kankacho\", \"Tierra de las Wallatas\", \"Tierra de la Verde Moya\", \"Tierra de Artistas y Poetas\" , Tierra de la Roja Colina\"",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0FbaksKLTmBPk2NSCzpFWrA9TPEW7UwgkYSaVxDVeYU1myXFrxfuMBGSvui3S88DMl?__cft__[0]=AZiXiDJj6moWAShqKvcT0-eUjXuXtVDCg6WTifP1yBbicA4GNVcpEj2WfBfpkf1cdiEieTeA4VSQ_5IZn8L6a5wbXamENzOu7kjHSNDFEpIgDD0QRqQ9ngwJXvng2rHaaxIcka1KBfpDRIMIIW2gp30kNOdMd33Wrr__Ef94IwKX4HsV7t5sTmcGQRU&__tn__=%2CO%2CP-R",
-      "likes": 1720,
-      "shares": 335,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-25T19:21:20.383086+00:00"
     }
   ]
 }
