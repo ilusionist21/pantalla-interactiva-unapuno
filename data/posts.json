@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-27T20:58:21.329618+00:00",
+    "last_sync": "2026-10-28T00:25:18.161247+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "UNA PUNO AVANZA EN LA IMPLEMENTACIÓN DE LA METODOLOGÍA BIM PARA MEJORAR LA GESTIÓN DE INVERS...",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "27 Oct 2026, 23:56 UTC",
+      "published_at": "2026-10-27T23:56:22.908000+00:00",
+      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/867013821_2549012012233049_1257325075931540352_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oIjpukMjJjkQ7kNvwGQB78a&_nc_oc=Adp30b1eIT9MmhBq2Xd5kQFQ8qBaR29ehNuYV2kLIHp6PeWzBZilDtCaAEA8SfCDBZQ&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=NmpLIdtKsDnBMwzvKs5dsQ&_nc_ss=78289&oh=00_AQRrvReKBYQei6cXi8z3hP7L_heo-QrFUVQGldWEIwhd_Q&oe=6AE7210A",
+      "thumbnail": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/867013821_2549012012233049_1257325075931540352_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oIjpukMjJjkQ7kNvwGQB78a&_nc_oc=Adp30b1eIT9MmhBq2Xd5kQFQ8qBaR29ehNuYV2kLIHp6PeWzBZilDtCaAEA8SfCDBZQ&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=NmpLIdtKsDnBMwzvKs5dsQ&_nc_ss=78289&oh=00_AQRrvReKBYQei6cXi8z3hP7L_heo-QrFUVQGldWEIwhd_Q&oe=6AE7210A",
+      "description": "Información oficial de la UNA Puno sobre UNA PUNO AVANZA EN LA IMPLEMENTACIÓN DE LA METODOLOGÍA BIM PARA MEJORAR LA GESTIÓN DE INVERSIONES.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0dskvWzH9kYzJAj5ezBWUR2XSVXFJJdosJ7UuHtcDt3mcJJYn1PgiAA5BDmsAQx9Ll?__cft__[0]=AZhRxcCVaxUHO10uHDs_rwCX87XabKe3b5rHlO5iRqDVI7ev1ADf15ikNjseNCu-od-t2R9Y0YEdjnlDgTkM40VCQzLx2X0pjDONnYCfTFBktExPxu6DSn6U9TrOqVBERJxx702EUx9YuT5t0K-DX0lw9l6LeAAxtaRpFCUb2rzNRN2dvB9bKs8P5bc&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-28T00:25:18.161247+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "METALÚRGICA PRESENTA HERRAMIENTAS DIGITALES PARA OPTIMIZAR PROCESOS METALÚRGICOS EN EXPO TIT...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-27T20:58:21.329618+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "¡CONVOCATORIA ABIERTA!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-27T20:58:21.329618+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "UNA PUNO HONRA A LOS TRABAJADORES DE CONSTRUCCIÓN CIVIL CON DEPORTE Y ESPÍRITU DE EQUIPO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-10-26T04:41:00.836233+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "¡FELIZ ANIVERSARIO, MELGAR - AYAVIRI!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -82,25 +101,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0FbaksKLTmBPk2NSCzpFWrA9TPEW7UwgkYSaVxDVeYU1myXFrxfuMBGSvui3S88DMl?__cft__[0]=AZiXiDJj6moWAShqKvcT0-eUjXuXtVDCg6WTifP1yBbicA4GNVcpEj2WfBfpkf1cdiEieTeA4VSQ_5IZn8L6a5wbXamENzOu7kjHSNDFEpIgDD0QRqQ9ngwJXvng2rHaaxIcka1KBfpDRIMIIW2gp30kNOdMd33Wrr__Ef94IwKX4HsV7t5sTmcGQRU&__tn__=%2CO%2CP-R",
       "likes": 1720,
       "shares": 335,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-25T19:21:20.383086+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "UNA PUNO ABRE SUS PUERTAS A EXPO TITIKAKA MINERO 2026 Y PROMUEVE EL DIÁLOGO SOBRE MINERÍA RE...",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "cultura",
-      "category_label": "Cultura & Folklore",
-      "badge": "Candelaria 2026",
-      "date": "24 Oct 2026, 22:21 UTC",
-      "published_at": "2026-10-24T22:21:20.290000+00:00",
-      "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/857232150_1667966538010621_8524561222513184981_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QsLJG3JnogcQ7kNvwHQAaDa&_nc_oc=AdrJw2cf2vfN4MInz_xdW-Y52v8t7I8IwxpMHeyQk6YeC9CVyFv22WLd_OP0GkFd5zU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=N0cnoiTJ7zf9ZyyJuhUyOQ&_nc_ss=78289&oh=00_AQN1uj7hByRv3mGsdpOVaXAQasiWdigu1Phb9gGmXZttWw&oe=6AE42CAB",
-      "thumbnail": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/857232150_1667966538010621_8524561222513184981_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QsLJG3JnogcQ7kNvwHQAaDa&_nc_oc=AdrJw2cf2vfN4MInz_xdW-Y52v8t7I8IwxpMHeyQk6YeC9CVyFv22WLd_OP0GkFd5zU&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=N0cnoiTJ7zf9ZyyJuhUyOQ&_nc_ss=78289&oh=00_AQN1uj7hByRv3mGsdpOVaXAQasiWdigu1Phb9gGmXZttWw&oe=6AE42CAB",
-      "description": "Información oficial de la UNA Puno sobre UNA PUNO ABRE SUS PUERTAS A EXPO TITIKAKA MINERO 2026 Y PROMUEVE EL DIÁLOGO SOBRE MINERÍA RESPONSABLE.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid05Xds1emXmjpG4fyczRNx8nsS6ePgAaKxMyVB1x4KCCyfSsK8QFUM2fEkYsqbTYTTl?__cft__[0]=AZiOxd_18OM7eme2JE1A4ifZ9Iup0kcAsA933rYN86sVgnpVMyYe0rvqbdSo6ZXkeeYtZuTf7sNs4-iybF-20vwH96ffsCtvOVpjwYbu8pYTychsI2PxcfSrcZXTNAXVaZ4YmpKeW0L8l0a9aQLjTTMuE8TiS3hXtV-seJodEVR1FTOEPnSlIYhIL64&__tn__=%2CO%2CP-R",
-      "likes": 2040,
-      "shares": 410,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-25T19:21:20.383086+00:00"
