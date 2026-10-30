@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-10-30T05:45:35.170589+00:00",
+    "last_sync": "2026-10-30T17:15:45.693067+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "#SALUDOINSTITUCIONAL",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "30 Oct 2026, 16:52 UTC",
+      "published_at": "2026-10-30T16:52:07.283000+00:00",
+      "image": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.99422-6/865119556_1110871421538418_3925899463580580001_n.png?stp=dst-jpg_tt6&cstp=mx1693x2048&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3jO5wpFxX_YQ7kNvwHJl7VX&_nc_oc=AdoEqkdZeAFWUQ30zWVKlUXxr-B2KEpFdxUzupIRm-NH9_YaEDBA_Tw0SFOzAXjDTt0&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=y6FiuMMVRQ0a8AJ61esGcQ&_nc_ss=78289&oh=00_AQQMrxRG8FTJsbFnVjY7lgj1MVHT5JXm7EplTvDhBk9F0Q&oe=6AEAA9D4",
+      "thumbnail": "https://scontent-lhr6-1.xx.fbcdn.net/v/t39.99422-6/865119556_1110871421538418_3925899463580580001_n.png?stp=dst-jpg_tt6&cstp=mx1693x2048&ctp=p526x296&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=3jO5wpFxX_YQ7kNvwHJl7VX&_nc_oc=AdoEqkdZeAFWUQ30zWVKlUXxr-B2KEpFdxUzupIRm-NH9_YaEDBA_Tw0SFOzAXjDTt0&_nc_zt=14&_nc_ht=scontent-lhr6-1.xx&_nc_gid=y6FiuMMVRQ0a8AJ61esGcQ&_nc_ss=78289&oh=00_AQQMrxRG8FTJsbFnVjY7lgj1MVHT5JXm7EplTvDhBk9F0Q&oe=6AEAA9D4",
+      "description": "Información oficial de la UNA Puno sobre #SaludoInstitucional.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02YzaPjxGgaBC6CDr9yvGFyzvr13oWuQ9e94FZVqFRjBYTAek4P94SJm8fqDhW9QWAl?__cft__[0]=AZjsLJqEGbvpzN4oJFTxdQhlSsMf7H0tbi8LtYnFdg0l1HsMcyM2GH9uZRXuOnvE-CCdQSJRzs7fF0ILwyzknnxQS9--DZm15CFzoehPoVrZCIhiXeYiW-WI8Z85JrYzFWOJW5Rzffk_PXv9g2IqjlZnq7i96NAvKyNTr37eCwXRuzx2s5m--WQcy7Y&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-10-30T17:15:45.693067+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "RECTOR, DANTE SALAS RECIBE AL ALCALDE DE AZÁNGARO Y COORDINAN MEJORAS PARA LA SEDE DE LA UNA...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-10-30T05:45:35.170589+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "NUTRICIÓN HUMANA DE LA UNA PUNO OBTIENE LA ACREDITACIÓN POR 6 AÑOS",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-10-30T00:07:30.865469+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "SEMILLEROS DE INVESTIGACIÓN DE TRABAJO SOCIAL Y EDUCACIÓN SECUNDARIA RECIBEN RECONOCIMIENTO ...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -63,25 +82,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02eykmgEaDs1m5JTeBzFG2DTMsZ3XWiVAygSw29e1B2f9q3Qt6qES7ni2cvni9Ns4el?__cft__[0]=AZi6flsSUsQqWYHTBlsw-PhdKyVWy0J6eklUg30WSiA2AqWARrNot_wOUKQFpgGmCIviPRWr6GESsvmaGTG04y532liCiLmdjXgYxAucMYw0NxdNyIsZzq5ADlX3zSnspqAOXT51DAiSMvsMe73y8GjYtVWCquZ_O5dg9_69gv4-YIJyfkb00ak_-Xg&__tn__=%2CO%2CP-R",
       "likes": 2040,
       "shares": 410,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-10-30T00:07:30.865469+00:00"
-    },
-    {
-      "id": "fb-official-04",
-      "title": "#SALUDOINSTITUCIONAL",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "investigacion",
-      "category_label": "Investigación Científica",
-      "badge": "Campus & Ciencia",
-      "date": "29 Oct 2026, 14:07 UTC",
-      "published_at": "2026-10-29T14:07:30.775000+00:00",
-      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/864951582_1477088177666205_9116957938774204864_n.png?stp=dst-jpg_tt6&cstp=mx1943x2048&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Tj4RgG4nXakQ7kNvwGBZdaM&_nc_oc=Adqxd9vq_sg7LwWOghSuPRls5FmsuG_eZrI71dziyRlDWh0bP_vS7dG36ZnE5PUEwps&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=uyBI3RQ75h8gTYXPB1VzvA&_nc_ss=78289&oh=00_AQTlwCNqtP3CwZb3RPIN9ai7uOMmtqFKtUsncrX1OGUjrg&oe=6AE9B646",
-      "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/864951582_1477088177666205_9116957938774204864_n.png?stp=dst-jpg_tt6&cstp=mx1943x2048&ctp=p180x540&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Tj4RgG4nXakQ7kNvwGBZdaM&_nc_oc=Adqxd9vq_sg7LwWOghSuPRls5FmsuG_eZrI71dziyRlDWh0bP_vS7dG36ZnE5PUEwps&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=uyBI3RQ75h8gTYXPB1VzvA&_nc_ss=78289&oh=00_AQTlwCNqtP3CwZb3RPIN9ai7uOMmtqFKtUsncrX1OGUjrg&oe=6AE9B646",
-      "description": "Información oficial de la UNA Puno sobre #SaludoInstitucional.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0CibwArBfKgEfKLiyb9okozFjyMtyJBzxiYVPi8zCDAgFFAdrmTJpdYubh1gLT8icl?__cft__[0]=AZhw_s6BSY8saCBU5JpTs_qDXaBXoy-1vTF0F4xmeVaDvC9aqB2cHBsmxMWy9ZhF32tAz0isPP09idh3XoOolmLOAKag4UsFqoEYUF0CG7vFEwKpBOSca2rQ-EuAacc_hr66wLhGZgTamJ2qwoyFYIBpaGCWnU4EQr9DgRLD9y-vAjFtBp4ccnVyGFE&__tn__=%2CO%2CP-R",
-      "likes": 2360,
-      "shares": 485,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-10-30T00:07:30.865469+00:00"
