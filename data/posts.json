@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-02T18:23:05.679780+00:00",
+    "last_sync": "2026-11-03T21:37:28.249400+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "TECHADO DEL SEGUNDO NIVEL DEL COMEDOR UNIVERSITARIO DE LA UNA PUNO…",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "02 Nov 2026, 21:37 UTC",
+      "published_at": "2026-11-02T21:37:07.821000+00:00",
+      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/887213725_1774810227621544_1473659265575765637_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BD2bDVarGcMQ7kNvwHJFzvK&_nc_oc=Adr3-WzadFSMbcgU-YzRgQRADCK_i-cBHxjH57Hnn6u9VlFWX29P5jpCWs610Uzmou8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Gq_elSMr2Md3KqyIG0A5cA&_nc_ss=78289&oh=00_AQTbsbnwTyfCwxqi1rHEz2o6a6jt2m83bBtSydwO2FI4bw&oe=6AF02423",
+      "thumbnail": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/887213725_1774810227621544_1473659265575765637_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BD2bDVarGcMQ7kNvwHJFzvK&_nc_oc=Adr3-WzadFSMbcgU-YzRgQRADCK_i-cBHxjH57Hnn6u9VlFWX29P5jpCWs610Uzmou8&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=Gq_elSMr2Md3KqyIG0A5cA&_nc_ss=78289&oh=00_AQTbsbnwTyfCwxqi1rHEz2o6a6jt2m83bBtSydwO2FI4bw&oe=6AF02423",
+      "description": "Información oficial de la UNA Puno sobre TECHADO DEL SEGUNDO NIVEL DEL COMEDOR UNIVERSITARIO DE LA UNA PUNO….",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0QYLSQp19bPV2VFashzetK9rhTg1BQtYtWRUDcPQaMeSD4AiS4d6ckCXKYkxU2SaVl?__cft__[0]=AZjO9r5Th_zIFRW61KoUgJHFwZwt_EB0DS6Ts59frgC1QiOtspfb-Zy8lTNWsq3B73v7c-wvuYvzsc1B1uR55sOjo4TlgjIitIIsOJ1AJ7RR3k2NZWD-G9lgeYLHQydsrFEesTRM2nkmhPcNRhCp11LZ4fyIRlCfAy1-OBSY_Dl51LiM-3kZoOIMYXI&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-03T21:37:28.249400+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "TECHADO DEL SEGUNDO NIVEL DEL COMERDOR UNIVERSITARIO DE LA UNA PUNO…",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-02T18:23:05.679780+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "CURSO DE ESPECIALIZACIÓN",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-02T18:23:05.679780+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "UNA PUNO PARTICIPÓ EN LA FERIA INFORMATIVA ANTICORRUPCIÓN “TODOS EN ACCIÓN POR UN PERÚ SIN C...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-02T18:23:05.679780+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "ESTUDIANTINA GEOLÓGICA: LA MÚSICA TAMBIÉN DEJA HUELLAS",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -82,25 +101,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0TN3LN957YJEUpcPRCrv1h59o9H8gdaL7tHq8cYYwHmv52mUReiL21zSpoxc3tJ5Rl?__cft__[0]=AZh0yIkaxQ95uBQO8vxB-GZDTCE7mQEBZnF7UK8ckAhFEhgQ1MPqU-vXq4tdg5JOYmSl68L8hYhihBhvcFhu5WnCBhhKQUYfyRr9LcRYiVYPwgKVojh6et7Dt1WlQh2BnuDRNAAZQLhF205JDFYifl1oh_DLZapj82_AGzHNTljwDfBVPDezeYFAt3w&__tn__=%2CO%2CP-R",
       "likes": 1400,
       "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-01T21:59:20.710220+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "ESTUDIANTINA DE LA ESCUELA PROFESIONAL DE ARTE: DONDE LAS PALABRAS FALLAN, LA MÚSICA HABLA",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "deportes",
-      "category_label": "Deporte Universitario",
-      "badge": "Logro Histórico",
-      "date": "31 Oct 2026, 21:59 UTC",
-      "published_at": "2026-10-31T21:59:20.642000+00:00",
-      "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.99422-6/863183900_1898271451538287_7607403940314195458_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-d7rN6bO8IwQ7kNvwEFqu3B&_nc_oc=AdpRzuk4WMF84mYBPIfLU0w-AweVAsokroYZHt_IZxdwKVge_nSQeNh_DVVaybCAYZ0&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=3h6WuplXlxKyecEp-U1vug&_nc_ss=78289&oh=00_AQQmdCBD8fhUTvZWWUzgCp7Wy9Y1nB5nR5EuAYtoSqmUyw&oe=6AEDA1CB",
-      "thumbnail": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.99422-6/863183900_1898271451538287_7607403940314195458_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-d7rN6bO8IwQ7kNvwEFqu3B&_nc_oc=AdpRzuk4WMF84mYBPIfLU0w-AweVAsokroYZHt_IZxdwKVge_nSQeNh_DVVaybCAYZ0&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=3h6WuplXlxKyecEp-U1vug&_nc_ss=78289&oh=00_AQQmdCBD8fhUTvZWWUzgCp7Wy9Y1nB5nR5EuAYtoSqmUyw&oe=6AEDA1CB",
-      "description": "Bases Rodantes Para Instrumentos Musicales\nMusica por siempre",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02wQqK9rho6sitAxWybCfbMsFJStMdoEivNeivfg1H639erurFEge2zhfAgcQhMBZFl?__cft__[0]=AZjgj_8e9mUrVZHs5UrwJa9c5l4uePPYEJAci0sVdAZtemzTSPnDaKJlEzxat9Mkjb34AtGBKJmK25aj3illEp1IKG2SEcKmbHhbQhexHVbpYI4YWVs5TjnEfk4lGIugVJRhsqkENrLjexCmp9WOtKbHYJEBunLtvhRgySSQslISq55oEaiW-COSujc&__tn__=%2CO%2CP-R",
-      "likes": 1720,
-      "shares": 335,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-01T21:59:20.710220+00:00"
