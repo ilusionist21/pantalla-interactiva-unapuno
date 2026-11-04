@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-03T21:37:28.249400+00:00",
+    "last_sync": "2026-11-04T16:14:09.723274+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "¡FELIZ 358º ANIVERSARIO, PUNO!",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "04 Nov 2026, 14:13 UTC",
+      "published_at": "2026-11-04T14:13:14.617000+00:00",
+      "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/886770440_1561705195726607_7332115785363229273_n.png?stp=dst-jpg_tt6&cstp=mx1080x1300&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Lik6m_kIsD0Q7kNvwHM2KUn&_nc_oc=AdpMytRY5zdnjdLgJ1JPNM6jZIKK1aRGqYbzIKvP0RaZxkXULiMvX7ml8DYTcYmtw3c&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=n3ZNVwZnwZ2EgZ0-BEkEnQ&_nc_ss=78289&oh=00_AQSiTfq1qjaY9lUyibrJ08ZlR4TevcdwqRcE6ZVxwiQf0w&oe=6AF13E1B",
+      "thumbnail": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/886770440_1561705195726607_7332115785363229273_n.png?stp=dst-jpg_tt6&cstp=mx1080x1300&ctp=p526x296&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Lik6m_kIsD0Q7kNvwHM2KUn&_nc_oc=AdpMytRY5zdnjdLgJ1JPNM6jZIKK1aRGqYbzIKvP0RaZxkXULiMvX7ml8DYTcYmtw3c&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=n3ZNVwZnwZ2EgZ0-BEkEnQ&_nc_ss=78289&oh=00_AQSiTfq1qjaY9lUyibrJ08ZlR4TevcdwqRcE6ZVxwiQf0w&oe=6AF13E1B",
+      "description": "“Cuna del Imperio de los Incas, valeroso pueblo de quechuas y aymaras.”",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0vAYDWctTUJANLgMRZvAq3DYu7Zt46Gw7X3dBdbZh1tb7oyRHthCH4Yc2MuHmMthwl?__cft__[0]=AZj_Qlot47uXwjTYlNYIVSbQUbQ8Bc1PaVtt2m7tZNUuxnIo7x9uJybG-OiVFIXiHkMVyqVSnRxymnOHibq0QEbF1s4_zlUfEVzbtKqenhoVe7c1yTBYglJ5MUx7L-S8B2O-_Jl8kmmzE3haka5QB703qKgyZzDoKqJd_xCAGEmObJoioqCUNjFhs04&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-04T16:14:09.723274+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "TECHADO DEL SEGUNDO NIVEL DEL COMEDOR UNIVERSITARIO DE LA UNA PUNO…",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-03T21:37:28.249400+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "TECHADO DEL SEGUNDO NIVEL DEL COMERDOR UNIVERSITARIO DE LA UNA PUNO…",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-02T18:23:05.679780+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "CURSO DE ESPECIALIZACIÓN",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-02T18:23:05.679780+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "UNA PUNO PARTICIPÓ EN LA FERIA INFORMATIVA ANTICORRUPCIÓN “TODOS EN ACCIÓN POR UN PERÚ SIN C...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-02T18:23:05.679780+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "ESTUDIANTINA GEOLÓGICA: LA MÚSICA TAMBIÉN DEJA HUELLAS",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "institucional",
-      "category_label": "Actualidad Universitaria",
-      "badge": "UNA Puno",
-      "date": "31 Oct 2026, 21:59 UTC",
-      "published_at": "2026-10-31T21:59:20.642000+00:00",
-      "image": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/844795212_1005979995876757_1447920858067389326_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=u6y5I1HgbQwQ7kNvwG0ORIt&_nc_oc=AdoSiCQ8dKt-DcR6IoRh2hAnAW7ARR365eH1w8Rd_zWsgIUjvpTF7_n-lKdiHIA7Bug&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=3h6WuplXlxKyecEp-U1vug&_nc_ss=78289&oh=00_AQQuG4fv8o-19SAeveqnynrw3oqIHBva8Fw5JA3bNwamGQ&oe=6AED734E",
-      "thumbnail": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/844795212_1005979995876757_1447920858067389326_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_ohc=u6y5I1HgbQwQ7kNvwG0ORIt&_nc_oc=AdoSiCQ8dKt-DcR6IoRh2hAnAW7ARR365eH1w8Rd_zWsgIUjvpTF7_n-lKdiHIA7Bug&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=3h6WuplXlxKyecEp-U1vug&_nc_ss=78289&oh=00_AQQuG4fv8o-19SAeveqnynrw3oqIHBva8Fw5JA3bNwamGQ&oe=6AED734E",
-      "description": "Información oficial de la UNA Puno sobre ESTUDIANTINA GEOLÓGICA: LA MÚSICA TAMBIÉN DEJA HUELLAS.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0TN3LN957YJEUpcPRCrv1h59o9H8gdaL7tHq8cYYwHmv52mUReiL21zSpoxc3tJ5Rl?__cft__[0]=AZh0yIkaxQ95uBQO8vxB-GZDTCE7mQEBZnF7UK8ckAhFEhgQ1MPqU-vXq4tdg5JOYmSl68L8hYhihBhvcFhu5WnCBhhKQUYfyRr9LcRYiVYPwgKVojh6et7Dt1WlQh2BnuDRNAAZQLhF205JDFYifl1oh_DLZapj82_AGzHNTljwDfBVPDezeYFAt3w&__tn__=%2CO%2CP-R",
-      "likes": 1400,
-      "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-01T21:59:20.710220+00:00"
     }
   ]
 }
