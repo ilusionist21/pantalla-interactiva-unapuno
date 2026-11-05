@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-05T09:29:16.183997+00:00",
+    "last_sync": "2026-11-05T17:37:36.227712+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "#ENVIVO",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "05 Nov 2026, 17:19 UTC",
+      "published_at": "2026-11-05T17:19:57.079000+00:00",
+      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/892964168_4638150023117944_1853529211133251834_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&_nc_cat=105&ccb=1-7&_nc_sid=df2c94&_nc_ohc=zN_eltcUhNwQ7kNvwHDtEhS&_nc_oc=AdpbnrMrur1g05doF8MU-hl83aieQW1aLWB-sAB2kqnIbYNlPrKNwk-pvZRr3-WjpmM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=r8yef512vKIn3irwRdSAIA&_nc_ss=78289&oh=00_AQRl0bK0oeecEy3FajHcg0RMP4RXE2td9kZsaIdmFXFEEA&oe=6AF2A526",
+      "thumbnail": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/892964168_4638150023117944_1853529211133251834_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=df2c94&_nc_ohc=zN_eltcUhNwQ7kNvwHDtEhS&_nc_oc=AdpbnrMrur1g05doF8MU-hl83aieQW1aLWB-sAB2kqnIbYNlPrKNwk-pvZRr3-WjpmM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=r8yef512vKIn3irwRdSAIA&_nc_ss=78289&oh=00_AQRl0bK0oeecEy3FajHcg0RMP4RXE2td9kZsaIdmFXFEEA&oe=6AF2A526",
+      "description": "ESCENIFICACIÓN DE MANCO CAPAC Y MAMA OCLLO\nDIRECTO\n261\nLui Louis",
+      "facebook_url": "https://www.facebook.com/unapunooficial/videos/1581709357058838/?__cft__[0]=AZjxErVb_ZsNeX0eKNV9St9I_xwcPoBn74fxInoF5sLUG_czDMxnpYsjK5nify6ABh3I835eSUKmxSdoCt4nYa9JXOJd7CgMvEJ2BGRQkTUjCccNzOORWoalPL_SEbnBKpQV0Buqj_O6RB8JJnhan_QYB8qTxC6v_VjYwu3AS4X529P9j0gpiaIGo2qh-gtfqiw&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-05T17:37:36.227712+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "AUTORIDADES DE LA UNA PUNO PARTICIPARON EN LAS ACTIVIDADES POR LOS 358 AÑOS DE LA CIUDAD DE ...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-05T09:29:16.183997+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "EN VIVO | ¡FELIZ 358.º ANIVERSARIO, PUNO!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -44,25 +63,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial/videos/2143465679890629/?__cft__[0]=AZgQ3AAMmnCVW3B0Y44dZRxlT6z5SpBNIc60eANuFpDdD5Z6r85p7h4pY4lE_AUJgaFQyI3D1mIOnQmDJPOBCeqLIegQrnVWu5Sh4NeqxQ4a0XkRpupy1rdPDgoCCeaPzb_VU-5F839xgDpbJFpySO09K1P6Kyn1RgXJQ7rXPIlFeDyYa7ZmwTOsU2_CaMGtwPI&__tn__=%2CO%2CP-R",
       "likes": 1720,
       "shares": 335,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-05T02:07:45.898447+00:00"
-    },
-    {
-      "id": "fb-official-03",
-      "title": "#ENVIVO",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "cultura",
-      "category_label": "Cultura & Folklore",
-      "badge": "Candelaria 2026",
-      "date": "04 Nov 2026, 21:07 UTC",
-      "published_at": "2026-11-04T21:07:45.792000+00:00",
-      "image": "https://scontent-dfw5-1.xx.fbcdn.net/v/t15.5256-10/886558717_1033737639737526_4184854290413876705_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&_nc_cat=111&ccb=1-7&_nc_sid=032300&_nc_ohc=6fB0l6VhAs0Q7kNvwFyujwT&_nc_oc=AdoPYLMnF7Jbe0J15UDZNvUefBm5sdkH7zViLWUXI5YRkkzSfnecENU9dnUvQeaLRdA&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=jhlh1J7AZSmSzGqt2r0COQ&_nc_ss=78289&oh=00_AQTX3-SUHE0pb_9BnvS5hGLvZhQ85vMel3rcS48n5-KgDQ&oe=6AF1AFD3",
-      "thumbnail": "https://scontent-dfw5-1.xx.fbcdn.net/v/t15.5256-10/886558717_1033737639737526_4184854290413876705_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=032300&_nc_ohc=6fB0l6VhAs0Q7kNvwFyujwT&_nc_oc=AdoPYLMnF7Jbe0J15UDZNvUefBm5sdkH7zViLWUXI5YRkkzSfnecENU9dnUvQeaLRdA&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=jhlh1J7AZSmSzGqt2r0COQ&_nc_ss=78289&oh=00_AQTX3-SUHE0pb_9BnvS5hGLvZhQ85vMel3rcS48n5-KgDQ&oe=6AF1AFD3",
-      "description": "Información oficial de la UNA Puno sobre #EnVivo.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/videos/1647847660133553/?__cft__[0]=AZgAezznzZ8CSI1DpvSolwibxw3HN4s-K78pgB7dbnezAqvLD8Kr34L5DZT7GNsZPGnK9iB2czFZeawi8NImZifPohx54WTD5IasVgNVVcW6r8lYkpYB5RiBSgB95UqqlH21TFWzS7sWj6P8fEi_zv0R9A0z-iqSdKp29E9DZAJHii3MpT3k1UwwrCjLBi-8agM&__tn__=%2CO%2CP-R",
-      "likes": 2040,
-      "shares": 410,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-05T02:07:45.898447+00:00"
