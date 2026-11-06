@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-06T02:59:57.968326+00:00",
+    "last_sync": "2026-11-06T17:43:01.945950+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "ESTAMOS EN VIVO",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "06 Nov 2026, 13:42 UTC",
+      "published_at": "2026-11-06T13:42:22.702000+00:00",
+      "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/890946603_1478972197710427_8531711455948963618_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&_nc_cat=110&ccb=1-7&_nc_sid=032300&_nc_ohc=sEEBdPvxlrkQ7kNvwHZC6kW&_nc_oc=AdrarnDbCdGp_I65zp74-yXT7QINDJPTSsbSZQu_FvuoSLIFETrDs8xxm7jHs-DBEpY&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=Vn8pMFuidcNwiMh1hZT1lw&_nc_ss=78289&oh=00_AQSft8HFeXtWtJv12biSvc9YMOm37ZCS_p0EodkOEjARwA&oe=6AF3E960",
+      "thumbnail": "https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/890946603_1478972197710427_8531711455948963618_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=110&ccb=1-7&_nc_sid=032300&_nc_ohc=sEEBdPvxlrkQ7kNvwHZC6kW&_nc_oc=AdrarnDbCdGp_I65zp74-yXT7QINDJPTSsbSZQu_FvuoSLIFETrDs8xxm7jHs-DBEpY&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=Vn8pMFuidcNwiMh1hZT1lw&_nc_ss=78289&oh=00_AQSft8HFeXtWtJv12biSvc9YMOm37ZCS_p0EodkOEjARwA&oe=6AF3E960",
+      "description": "| Ceremonia de entrega de grados y títulos.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/videos/1013504685127260/?__cft__[0]=AZgpjjg-QgBJH-qwxH0HM26TBJAaxS_H_Hgp8QgIbGGH4e4Fib8kf4XDw5p3RHxip0v-eycn-LuR9OsLKFLQokU2wAiJ4ZzqtDB9E2GexjzubQb4X8R4LlgSrmyQb6WJh9YJBOh_xNDmQAF_PaYKiajTVXepIy2KWJzTvKiYplqSnOIwJ_mFI7t_lr9OMxh1Lkc&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-06T17:43:01.945950+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "ESTADIO MONUMENTAL DE LA UNA PUNO FUE EL ESCENARIO DE LA REPRESENTACIÓN DE MANCO CÁPAC Y MAM...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-06T02:59:57.968326+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "#SALUDOINSTITUCIONAL",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-06T02:59:57.968326+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "#ENVIVO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-05T17:37:36.227712+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "AUTORIDADES DE LA UNA PUNO PARTICIPARON EN LAS ACTIVIDADES POR LOS 358 AÑOS DE LA CIUDAD DE ...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-05T09:29:16.183997+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "EN VIVO | ¡FELIZ 358.º ANIVERSARIO, PUNO!",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "deportes",
-      "category_label": "Deporte Universitario",
-      "badge": "Logro Histórico",
-      "date": "04 Nov 2026, 21:07 UTC",
-      "published_at": "2026-11-04T21:07:45.793000+00:00",
-      "image": "https://scontent-dfw6-1.xx.fbcdn.net/v/t15.5256-10/887467567_1435420624759239_3361420273325247197_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&_nc_cat=103&ccb=1-7&_nc_sid=032300&_nc_ohc=tMgTvNhCdFEQ7kNvwGXrNWs&_nc_oc=Adphu6Zmnhq8cRyY8KWqY40hqGaqonAcZrBT8476p3aWZxqdjzwcJK1FHjAtiwISKk0&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=jhlh1J7AZSmSzGqt2r0COQ&_nc_ss=78289&oh=00_AQQHxBKG2hath-S2moyoYdIB_S4pMLe6KLu0krp6wbWKzw&oe=6AF1AFA7",
-      "thumbnail": "https://scontent-dfw6-1.xx.fbcdn.net/v/t15.5256-10/887467567_1435420624759239_3361420273325247197_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=032300&_nc_ohc=tMgTvNhCdFEQ7kNvwGXrNWs&_nc_oc=Adphu6Zmnhq8cRyY8KWqY40hqGaqonAcZrBT8476p3aWZxqdjzwcJK1FHjAtiwISKk0&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=jhlh1J7AZSmSzGqt2r0COQ&_nc_ss=78289&oh=00_AQQHxBKG2hath-S2moyoYdIB_S4pMLe6KLu0krp6wbWKzw&oe=6AF1AFA7",
-      "description": "La Estudiantina Universitaria de la UNA Puno rinde homenaje a nuestra tierra, su música, cultura y tradición.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/videos/2143465679890629/?__cft__[0]=AZgQ3AAMmnCVW3B0Y44dZRxlT6z5SpBNIc60eANuFpDdD5Z6r85p7h4pY4lE_AUJgaFQyI3D1mIOnQmDJPOBCeqLIegQrnVWu5Sh4NeqxQ4a0XkRpupy1rdPDgoCCeaPzb_VU-5F839xgDpbJFpySO09K1P6Kyn1RgXJQ7rXPIlFeDyYa7ZmwTOsU2_CaMGtwPI&__tn__=%2CO%2CP-R",
-      "likes": 1720,
-      "shares": 335,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-05T02:07:45.898447+00:00"
     }
   ]
 }
