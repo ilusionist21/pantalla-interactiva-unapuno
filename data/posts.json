@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-07T08:54:09.764568+00:00",
+    "last_sync": "2026-11-07T15:24:43.350917+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "UNA PUNO Y UNDAC DE CERRO DE PASCO FORTALECEN INTERCAMBIO ACADÉMICO",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "07 Nov 2026, 14:58 UTC",
+      "published_at": "2026-11-07T14:58:49.043000+00:00",
+      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/893975471_1403072994939352_1865854786966501390_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_DmWSm9My9EQ7kNvwFzebx_&_nc_oc=AdpIR8qC0cFN4aX0QkmVg0EK1zJrfco5x1SpVs4sXRwHQFBTlCx2lim1SvenJjbrQlg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=kO3z8NjwqwpSop8D-OyJrQ&_nc_ss=78289&oh=00_AQRkqJiE17w1pp9NEAOxLsYZinw2_H9lA66VpE0J_HYcNA&oe=6AF4FDA6",
+      "thumbnail": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/893975471_1403072994939352_1865854786966501390_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_DmWSm9My9EQ7kNvwFzebx_&_nc_oc=AdpIR8qC0cFN4aX0QkmVg0EK1zJrfco5x1SpVs4sXRwHQFBTlCx2lim1SvenJjbrQlg&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=kO3z8NjwqwpSop8D-OyJrQ&_nc_ss=78289&oh=00_AQRkqJiE17w1pp9NEAOxLsYZinw2_H9lA66VpE0J_HYcNA&oe=6AF4FDA6",
+      "description": "Información oficial de la UNA Puno sobre UNA PUNO Y UNDAC DE CERRO DE PASCO FORTALECEN INTERCAMBIO ACADÉMICO.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0mXGQBKDKcSi8tG6LPUUeDhsFLnpH9A9voUrsyRq4FRRzpVW5sBAbmRTQyuLtSafNl?__cft__[0]=AZjRBmalc6xPQTJ0PQr1W7kAEHKUzMO-RSbOErkjTPB_wJ7wpABW3dPLjbBwqSKVtLwWlgEUd9rIQlW--9xjMyhn_ajukuKcTjQsehw8_0Xw3DoTZj5wPx6-yjsSi9ke0pYa9ID1EvtfYhj1_CG_pL3st-CyLb1y9x8IACacQ-sdOP21qnf0kBGcaMc&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-07T15:24:43.350917+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "RECTOR DE LA UNA PUNO RECIBE A LA ESTUDIANTINA MUNICIPAL DE LA ESCUELA DE ARTE MACUSANI “FRA...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-07T08:54:09.764568+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "ESTAMOS EN VIVO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-06T22:26:29.906969+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "ESTADIO MONUMENTAL DE LA UNA PUNO FUE EL ESCENARIO DE LA REPRESENTACIÓN DE MANCO CÁPAC Y MAM...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-06T22:26:29.906969+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "#SALUDOINSTITUCIONAL",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-06T02:59:57.968326+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "#ENVIVO",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "institucional",
-      "category_label": "Actualidad Universitaria",
-      "badge": "UNA Puno",
-      "date": "05 Nov 2026, 17:19 UTC",
-      "published_at": "2026-11-05T17:19:57.079000+00:00",
-      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/892964168_4638150023117944_1853529211133251834_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&_nc_cat=105&ccb=1-7&_nc_sid=df2c94&_nc_ohc=zN_eltcUhNwQ7kNvwHDtEhS&_nc_oc=AdpbnrMrur1g05doF8MU-hl83aieQW1aLWB-sAB2kqnIbYNlPrKNwk-pvZRr3-WjpmM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=r8yef512vKIn3irwRdSAIA&_nc_ss=78289&oh=00_AQRl0bK0oeecEy3FajHcg0RMP4RXE2td9kZsaIdmFXFEEA&oe=6AF2A526",
-      "thumbnail": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/892964168_4638150023117944_1853529211133251834_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=105&ccb=1-7&_nc_sid=df2c94&_nc_ohc=zN_eltcUhNwQ7kNvwHDtEhS&_nc_oc=AdpbnrMrur1g05doF8MU-hl83aieQW1aLWB-sAB2kqnIbYNlPrKNwk-pvZRr3-WjpmM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=r8yef512vKIn3irwRdSAIA&_nc_ss=78289&oh=00_AQRl0bK0oeecEy3FajHcg0RMP4RXE2td9kZsaIdmFXFEEA&oe=6AF2A526",
-      "description": "ESCENIFICACIÓN DE MANCO CAPAC Y MAMA OCLLO\nDIRECTO\n261\nLui Louis",
-      "facebook_url": "https://www.facebook.com/unapunooficial/videos/1581709357058838/?__cft__[0]=AZjxErVb_ZsNeX0eKNV9St9I_xwcPoBn74fxInoF5sLUG_czDMxnpYsjK5nify6ABh3I835eSUKmxSdoCt4nYa9JXOJd7CgMvEJ2BGRQkTUjCccNzOORWoalPL_SEbnBKpQV0Buqj_O6RB8JJnhan_QYB8qTxC6v_VjYwu3AS4X529P9j0gpiaIGo2qh-gtfqiw&__tn__=%2CO%2CP-R",
-      "likes": 1400,
-      "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-05T17:37:36.227712+00:00"
     }
   ]
 }
