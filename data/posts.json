@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-09T04:57:41.232741+00:00",
+    "last_sync": "2026-11-09T13:45:34.221227+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "XIV CONGRESO INTERNACIONAL LINGÜÍSTICO-LITERARIO. XXII CONGRESO NACIONAL \"GRUPO ORKOPATA\" DE...",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "09 Nov 2026, 13:37 UTC",
+      "published_at": "2026-11-09T13:37:55.389000+00:00",
+      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/893119608_961720076697791_6258758593794603396_n.jpg?stp=dst-jpg_tt6&cstp=mx1280x720&_nc_cat=106&ccb=1-7&_nc_sid=df2c94&_nc_ohc=smketd0LDDQQ7kNvwGJOFgJ&_nc_oc=Adqh-vqsdtk6f3chkveA4gzsupEfVi-Q73TeW3wktZ3j0u-ETjsu5Sdase4elQNWGkc&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=9O81slUc4heqOwx4K69jRw&_nc_ss=78289&oh=00_AQRvCTNO2aG99__mXkKt5w4pXwC6OhBh1JpIsIR4fgDWnw&oe=6AF78CE6",
+      "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/893119608_961720076697791_6258758593794603396_n.jpg?stp=dst-jpg_tt6&cstp=mx1280x720&ctp=s960x960&_nc_cat=106&ccb=1-7&_nc_sid=df2c94&_nc_ohc=smketd0LDDQQ7kNvwGJOFgJ&_nc_oc=Adqh-vqsdtk6f3chkveA4gzsupEfVi-Q73TeW3wktZ3j0u-ETjsu5Sdase4elQNWGkc&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=9O81slUc4heqOwx4K69jRw&_nc_ss=78289&oh=00_AQRvCTNO2aG99__mXkKt5w4pXwC6OhBh1JpIsIR4fgDWnw&oe=6AF78CE6",
+      "description": "DIRECTO",
+      "facebook_url": "https://www.facebook.com/unapunooficial/videos/940073842518698/?__cft__[0]=AZiu7RYiF435LovynFHS2SU2fVklUCUKsUkYGV44G5ycAZf82Wv0SxJPvzOPcZUQ_GQkhpXg2z_V-d4E7p_3NTL3E1M5zWIGWPq9BAWHD5J3qiJkWMY0-MiJgQVy5d0R1o_26YXPC1P0lshbl8HwRzZ4dfOxTKKpv0q05lH-4yrmR4JlZFwAImAGgLgriZn5bw&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-09T13:45:34.221227+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "UNA PUNO Y UNDAC DE CERRO DE PASCO FORTALECEN INTERCAMBIO ACADÉMICO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-09T04:57:41.232741+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "UNA PUNO INSTALA 462 PANTALLAS INTERACTIVAS EN AULAS Y LABORATORIOS",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-09T04:57:41.232741+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "RECTOR DE LA UNA PUNO RECIBE A LA ESTUDIANTINA MUNICIPAL DE LA ESCUELA DE ARTE MACUSANI “FRA...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-09T04:57:41.232741+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "ÁLBUM ENTREGA DE GRADOS Y TÍTULOS PROFESIONALES 06-11-2026",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "investigacion",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-09T04:57:41.232741+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "ESTAMOS EN VIVO",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "institucional",
-      "category_label": "Actualidad Universitaria",
-      "badge": "UNA Puno",
-      "date": "06 Nov 2026, 14:25 UTC",
-      "published_at": "2026-11-06T14:25:35.336000+00:00",
-      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/890946603_1478972197710427_8531711455948963618_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&_nc_cat=110&ccb=1-7&_nc_sid=032300&_nc_ohc=sEEBdPvxlrkQ7kNvwGvyEDE&_nc_oc=Adqm8dvBoA3gJUwQOS-hKqjbWlTkhIZyXUiP9ZKMoH66EadtJRYoTnSFnGBb12ZFQMI&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=Ss4znG7mABVdISamtUievg&_nc_ss=78289&oh=00_AQS-83hH6mk0J2oYZQdv5dpyOMY2Wumq1WUrAcWUVyR7Wg&oe=6AF421A0",
-      "thumbnail": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/890946603_1478972197710427_8531711455948963618_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=110&ccb=1-7&_nc_sid=032300&_nc_ohc=sEEBdPvxlrkQ7kNvwGvyEDE&_nc_oc=Adqm8dvBoA3gJUwQOS-hKqjbWlTkhIZyXUiP9ZKMoH66EadtJRYoTnSFnGBb12ZFQMI&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=Ss4znG7mABVdISamtUievg&_nc_ss=78289&oh=00_AQS-83hH6mk0J2oYZQdv5dpyOMY2Wumq1WUrAcWUVyR7Wg&oe=6AF421A0",
-      "description": "| Ceremonia de entrega de grados y títulos.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/videos/1013504685127260/?__cft__[0]=AZinLECh7mg-vNEaKevCw0piAMy8_xx--5ZtaemhOnR0KODHo1QrJz_44sqS2tnkhc5-rbsph9HTXBhMpHh4pRc6wAdOduvqivJPj13SnmgGQVqUkf2DF5d0t1jb1Rk5OAKffz7okKjGB4rEkDs_Tuu4WvhW3ygBHxJSLkhiLUqyCKIb4fKo3S7utq6LH5_wjgI&__tn__=%2CO%2CP-R",
-      "likes": 1400,
-      "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-06T22:26:29.906969+00:00"
     }
   ]
 }
