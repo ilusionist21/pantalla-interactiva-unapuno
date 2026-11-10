@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-09T13:45:34.221227+00:00",
+    "last_sync": "2026-11-10T13:01:03.483195+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "COMUNICADO",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "10 Nov 2026, 06:00 UTC",
+      "published_at": "2026-11-10T06:00:24.642000+00:00",
+      "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.99422-6/897643923_1645296090480342_4521966785060717770_n.png?stp=dst-jpg_tt6&cstp=mx2048x2043&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hOzgGIx7pH0Q7kNvwFGBNdQ&_nc_oc=Ado3UpOl9W1_RjoygQJmzKeYDDWflqTecrTsXzcSW9BuhMx9WWwu6ZQ7rX9VF4vkR4Y&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=BSRvaz5aQkn9sCCHmXJz_A&_nc_ss=78289&oh=00_AQTmW3gtsEdKVmhZk9NxGv-RnTmehqAYqJDL2cfBC-heGA&oe=6AF8D65E",
+      "thumbnail": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.99422-6/897643923_1645296090480342_4521966785060717770_n.png?stp=dst-jpg_tt6&cstp=mx2048x2043&ctp=p526x296&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hOzgGIx7pH0Q7kNvwFGBNdQ&_nc_oc=Ado3UpOl9W1_RjoygQJmzKeYDDWflqTecrTsXzcSW9BuhMx9WWwu6ZQ7rX9VF4vkR4Y&_nc_zt=14&_nc_ht=scontent-lga3-1.xx&_nc_gid=BSRvaz5aQkn9sCCHmXJz_A&_nc_ss=78289&oh=00_AQTmW3gtsEdKVmhZk9NxGv-RnTmehqAYqJDL2cfBC-heGA&oe=6AF8D65E",
+      "description": "Información oficial de la UNA Puno sobre COMUNICADO.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0YWQbyR3W5cXjwqegKjr4pyBqboS6teAQHMQJ9ajmXxfLYQhQsCM4SXsdjhqxegatl?__cft__[0]=AZgfoH3RyklmNnh8BWBPOapRpE4lRmznbGT4dKpakLlJlIiFdYRvmhY_QKr0Hi05tcKnAZxh19VOm79jLXKRhERw6GodiJX_Ni_PwdLG3O8GnRjd5NIcfLG9Vllv2EwHxPyzfbUCBB1_Cx-gtB7RnfvdikNdmtPGDKDQBKXJg7ZOV9Idy0Qg1bSYB-c&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-10T13:01:03.483195+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "XIV CONGRESO INTERNACIONAL LINGÜÍSTICO-LITERARIO. XXII CONGRESO NACIONAL \"GRUPO ORKOPATA\" DE...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-09T13:45:34.221227+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "UNA PUNO Y UNDAC DE CERRO DE PASCO FORTALECEN INTERCAMBIO ACADÉMICO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-09T04:57:41.232741+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "UNA PUNO INSTALA 462 PANTALLAS INTERACTIVAS EN AULAS Y LABORATORIOS",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-09T04:57:41.232741+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "RECTOR DE LA UNA PUNO RECIBE A LA ESTUDIANTINA MUNICIPAL DE LA ESCUELA DE ARTE MACUSANI “FRA...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -82,25 +101,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02Tvb7KfUoA1ZkyiQw3C6yUfVE2WkgTMABEjTRBvX69hMYRMYkgrocDUBVtUTJhLyUl?__cft__[0]=AZjtcVd5MVLcwLFbF6yVUgoGL6Fr1EU0Q9BTs41KhcQ_-kpFOqh2rphSCzY1VQQkJtp90C05vJ3Wxi8PRojW1FzNUStYg2g1mM9ERmavtkdpxAw9psRk6NZk5ggxdC1VzlhsYEul7Hgp8nxkBjzwSGo1oU9faXMUBbXvM-7fIaaTrs5SSy190BF1AOM&__tn__=%2CO%2CP-R",
       "likes": 2040,
       "shares": 410,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-09T04:57:41.232741+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "ÁLBUM ENTREGA DE GRADOS Y TÍTULOS PROFESIONALES 06-11-2026",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "investigacion",
-      "category_label": "Investigación Científica",
-      "badge": "Campus & Ciencia",
-      "date": "07 Nov 2026, 04:57 UTC",
-      "published_at": "2026-11-07T04:57:41.139000+00:00",
-      "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/892332994_981223168380351_6548883799712403266_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Dc5MgCTwPf0Q7kNvwEp6_lj&_nc_oc=Adp4oXF3GtbYZh6rTYjAtxOm3dJJcsF_33HuFCpt9LEEfogqsDlL8cawf9KSa_l-MUQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=tTZH93K-X9OGmxrRYGUb2A&_nc_ss=78289&oh=00_AQQBTNWz9sH1SNvzqh3Xu5KEiH0BI_xcLGvcyYreJwIbog&oe=6AF7353E",
-      "thumbnail": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/892332994_981223168380351_6548883799712403266_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=108&ccb=1-7&_nc_sid=f727a1&_nc_ohc=Dc5MgCTwPf0Q7kNvwEp6_lj&_nc_oc=Adp4oXF3GtbYZh6rTYjAtxOm3dJJcsF_33HuFCpt9LEEfogqsDlL8cawf9KSa_l-MUQ&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=tTZH93K-X9OGmxrRYGUb2A&_nc_ss=78289&oh=00_AQQBTNWz9sH1SNvzqh3Xu5KEiH0BI_xcLGvcyYreJwIbog&oe=6AF7353E",
-      "description": "Jorge Alberto\nEl decidir estudiar y lograr la profesión es un paso trascendental que implica sacrificio y constancia. Felicitaciones a cada uno de quienes el día de hoy recibieron su título.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0tKBrpopbvGtgebueqiZmXMX92CesP1Y8u7kynQFrJu2oTE5tHWKUfrctGsw71T8cl?__cft__[0]=AZiK2mrGC20vWqgqPMc4qYBLTkX_tYJFuNbVNXvuedVVzYNSmfajFlbZZgJRwNHgyZzNtom9AFhlAsFCf4QZBKwaRdqf7lJesRfTa5VKM3ZPXl-KqOyi_2Gb3_W1PTOv3kUGbVzHEgih_eVqGGqh4CyAt7z1GvCvRksqPvGV4ltdJ7Zm3OR0wn4p7UQ&__tn__=%2CO%2CP-R",
-      "likes": 2360,
-      "shares": 485,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-09T04:57:41.232741+00:00"
