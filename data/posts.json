@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-11T07:18:28.915743+00:00",
+    "last_sync": "2026-11-11T15:28:43.817315+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "#SALUDOINSTITUCIONAL",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "11 Nov 2026, 14:28 UTC",
+      "published_at": "2026-11-11T14:28:05.463000+00:00",
+      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/902077923_2177906769466527_7485152696664195647_n.png?stp=dst-jpg_tt6&cstp=mx1693x2048&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sf8sd7Es3lwQ7kNvwGbYJ13&_nc_oc=AdojMUwAgjqsBidT_aZagHteuaF9sS0Wl0tplTltKegdN5LUsXnOJ68BzXNvlHEYDms&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=pa_vEF1VQFHP5dNqcairtQ&_nc_ss=78289&oh=00_AQQVh5YRddPwFNmmrjRmsylH5tlPRaaiVAhPcUXBnxBd-w&oe=6AFA6925",
+      "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/902077923_2177906769466527_7485152696664195647_n.png?stp=dst-jpg_tt6&cstp=mx1693x2048&ctp=p526x296&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=sf8sd7Es3lwQ7kNvwGbYJ13&_nc_oc=AdojMUwAgjqsBidT_aZagHteuaF9sS0Wl0tplTltKegdN5LUsXnOJ68BzXNvlHEYDms&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=pa_vEF1VQFHP5dNqcairtQ&_nc_ss=78289&oh=00_AQQVh5YRddPwFNmmrjRmsylH5tlPRaaiVAhPcUXBnxBd-w&oe=6AFA6925",
+      "description": "Información oficial de la UNA Puno sobre #SaludoInstitucional.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid034W1pdixUVCu1pqq18RRp4jiLG83781v8qMCWnU6VpTpbM2nUQ5jVwFQj7PGxhv6bl?__cft__[0]=AZjiKhBPXDnrUOBpd9ANd8tCTBzJDDUC9zjUVjFvbIVnT-varK-Hyx_l-xHIrb5q0YszAfI3JZOPgupT-MHPpQauJ3a9T0wMOa6OWi5AQNkSMC5ul1Kj9Q1P-Z9sS_U308fj3a6HGHigHIWc_C1w6c2N78AFjHf8FYWkvIQavBMU2b99e2jgnGsK_6E&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-11T15:28:43.817315+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "UNA PUNO MEJORA LAS CONDICIONES DEL CENTRO EXPERIMENTAL DE CHUQUIBAMBILLA TRAS CINCO AÑOS DE...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-11T07:18:28.915743+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "CIEES DE MÉXICO INICIÓ LA EVALUACIÓN EXTERNA DE CUATRO PROGRAMAS ACADÉMICOS DE LA UNA PUNO C...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-11T07:18:28.915743+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "COMUNICADO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-10T13:01:03.483195+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "XIV CONGRESO INTERNACIONAL LINGÜÍSTICO-LITERARIO. XXII CONGRESO NACIONAL \"GRUPO ORKOPATA\" DE...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-09T13:45:34.221227+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "UNA PUNO Y UNDAC DE CERRO DE PASCO FORTALECEN INTERCAMBIO ACADÉMICO",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "institucional",
-      "category_label": "Actualidad Universitaria",
-      "badge": "UNA Puno",
-      "date": "08 Nov 2026, 04:57 UTC",
-      "published_at": "2026-11-08T04:57:41.139000+00:00",
-      "image": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/893975471_1403072994939352_1865854786966501390_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=US3cMPWKW4gQ7kNvwGURSBt&_nc_oc=AdqjOLzowAhfINW5opdyEMiwADgVOhlbmaJwCUeuQO_BXHZVAMOSkB8hryPw_PGirBo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=tTZH93K-X9OGmxrRYGUb2A&_nc_ss=78289&oh=00_AQTGQEyk4DKbQnYsTuo-l6r8zoVKi8MM88iHj3BOLqFsYw&oe=6AF73026",
-      "thumbnail": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/893975471_1403072994939352_1865854786966501390_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=US3cMPWKW4gQ7kNvwGURSBt&_nc_oc=AdqjOLzowAhfINW5opdyEMiwADgVOhlbmaJwCUeuQO_BXHZVAMOSkB8hryPw_PGirBo&_nc_zt=14&_nc_ht=scontent-iad3-2.xx&_nc_gid=tTZH93K-X9OGmxrRYGUb2A&_nc_ss=78289&oh=00_AQTGQEyk4DKbQnYsTuo-l6r8zoVKi8MM88iHj3BOLqFsYw&oe=6AF73026",
-      "description": "Información oficial de la UNA Puno sobre UNA PUNO Y UNDAC DE CERRO DE PASCO FORTALECEN INTERCAMBIO ACADÉMICO.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0mq4vSpWncnVJCcjg9Pj8irSRRTNs9zmfeiCGb47LR8c94Grxx7FdgET3eLaA7i91l?__cft__[0]=AZhUzoNBfHuAv50opzU9pfBc_l8cA7QQIZ40NZ6moI3RpJcd2mwy70yOespatNUmkdnB5eTKpAuZbjeXq2aiHB_r2ugkVI8Rq4E4hDd06M7hgW4QTaGr1lZD5YFph8-4wmjX2kgOO9_PFMj7LyXA1DwrWFtThcd2Z5JQIikSZ8OlMss7Zkf2bQeSEAQ&__tn__=%2CO%2CP-R",
-      "likes": 1400,
-      "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-09T04:57:41.232741+00:00"
     }
   ]
 }
