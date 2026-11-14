@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-14T01:03:30.577224+00:00",
+    "last_sync": "2026-11-14T19:27:12.691348+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "UNA PUNO SE SUMA A LA CREACIÓN DEL GEOPARQUE QUELCCAYA",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "14 Nov 2026, 15:26 UTC",
+      "published_at": "2026-11-14T15:26:35.248000+00:00",
+      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/905665147_2196444501226385_4058816193468447311_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nnEp1pfdtiwQ7kNvwHtRCG3&_nc_oc=Ado6JHCrn6U1Atnw32hVhhsRy_tJntf_pnWl_Aw-pGRIB28lHqklMriId3vLvp4xoXA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=SCGKOer_NCgPOKYaOLYAZQ&_nc_ss=78289&oh=00_AQTpBwvOrXlAvr4D-BEmC9yCP8-UguzDMyMbbPVvUO9-OA&oe=6AFE770A",
+      "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/905665147_2196444501226385_4058816193468447311_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=nnEp1pfdtiwQ7kNvwHtRCG3&_nc_oc=Ado6JHCrn6U1Atnw32hVhhsRy_tJntf_pnWl_Aw-pGRIB28lHqklMriId3vLvp4xoXA&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=SCGKOer_NCgPOKYaOLYAZQ&_nc_ss=78289&oh=00_AQTpBwvOrXlAvr4D-BEmC9yCP8-UguzDMyMbbPVvUO9-OA&oe=6AFE770A",
+      "description": "Información oficial de la UNA Puno sobre UNA Puno se suma a la creación del geoparque Quelccaya.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0231xfdRKjZWuwiuiFs3hMv6xvHWiybn2hJr1RpqxzaijaBJa3NrS1x5L86CUnVKw6l?__cft__[0]=AZh_wUdafEq7LIggthc52RMjPP5D8BPMPPAe_84raqIoOLgeUxZr0gKdiLoaDeE8yzkSvcmOCE-yZktYN3WEWlr9PEZBdJkcU5mLWc2lxtodlx0V9-RvgXFJcTMlLlhlXrued-Wo7kebzCOJsJtp41gNNqgzxsU0Svel6k13A6_3lntLsxLzisAu8e0&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-14T19:27:12.691348+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "TRES AÑOS FORMANDO LÍDERES: FACULTAD DE ADMINISTRACIÓN DE LA UNA PUNO CELEBRA ANIVERSARIO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-14T01:03:30.577224+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "¡ESTAMOS EN VIVO!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-13T20:37:14.229334+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "LA UNA PUNO MODERNIZARÁ INGENIERÍA METALÚRGICA CON NUEVA INFRAESTRUCTURA PARA LABORATORIOS Y...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-12T23:55:55.107596+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "BANDA SINFÓNICA Y CORO DE LA UNA PUNO INTERPRETÓ HIMNO PARA LA VISITA DEL PAPA LEÓN XIV",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-12T18:50:20.136999+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "BIENVENIDO AL PERÚ, PAPA LEÓN XIV.",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "institucional",
-      "category_label": "Actualidad Universitaria",
-      "badge": "UNA Puno",
-      "date": "12 Nov 2026, 02:24 UTC",
-      "published_at": "2026-11-12T02:24:21.175000+00:00",
-      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/904450046_996114149599676_4576262706994735906_n.png?stp=dst-jpg_tt6&cstp=mx1638x2048&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Xo0bqYGbL0kQ7kNvwFHHwKS&_nc_oc=Adrw5VyiJz87_-leoVlFlBl7o7SQsecBZDgTTHnFSS9WSy0QF0DpqOJWSODHFUa6l1c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zbCUmAz67TJ964q_P0kScw&_nc_ss=78289&oh=00_AQRcYXhVBQl2usxQTrCWWFAernoJiOU1IwgFu-QtUqYzKw&oe=6AFB1AB6",
-      "thumbnail": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/904450046_996114149599676_4576262706994735906_n.png?stp=dst-jpg_tt6&cstp=mx1638x2048&ctp=s640x640&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Xo0bqYGbL0kQ7kNvwFHHwKS&_nc_oc=Adrw5VyiJz87_-leoVlFlBl7o7SQsecBZDgTTHnFSS9WSy0QF0DpqOJWSODHFUa6l1c&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=zbCUmAz67TJ964q_P0kScw&_nc_ss=78289&oh=00_AQRcYXhVBQl2usxQTrCWWFAernoJiOU1IwgFu-QtUqYzKw&oe=6AFB1AB6",
-      "description": "La comunidad universitaria de la Universidad Nacional del Altiplano se une con júbilo a este acontecimiento histórico.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid022bH3NgCGPjhu3oEAUo9QSrCWd5vBtvfr5PzAYvDZMSnC7747DwFK1fdJKQ9c1vzml?__cft__[0]=AZgyS5SkUVbY2U1loxCj0f0HMBXGbm_DGV4WweSnaJuDKHrF6XY8M2XOB1lKaDTrL8qqne9sA6c2OsHF2nPHmoBG304evbfEwYlz6_YwoYFg0aM18ePK1J0Vvf6z70-jAtJom4H-K0tCBIvVWSpu0O3pXvCh250affWAAaBhoLnfZMnNPGyOE6hD61g&__tn__=%2CO%2CP-R",
-      "likes": 1400,
-      "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-12T03:07:16.204516+00:00"
     }
   ]
 }
