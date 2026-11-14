@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-13T20:37:14.229334+00:00",
+    "last_sync": "2026-11-14T01:03:30.577224+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "TRES AÑOS FORMANDO LÍDERES: FACULTAD DE ADMINISTRACIÓN DE LA UNA PUNO CELEBRA ANIVERSARIO",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "14 Nov 2026, 00:08 UTC",
+      "published_at": "2026-11-14T00:08:51.187000+00:00",
+      "image": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.99422-6/904237079_1870982263956804_4235494370133102452_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yZ_t2D6AYmwQ7kNvwES7_Zd&_nc_oc=Adq643bzAl6U-klI0bCEJQu18AN5Umgt_f1xI9M4CErSJcL3iBgi0Bm1IUpkdlvTZzg&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=6g9PGXyX89D4ZQmV_aDCUA&_nc_ss=78289&oh=00_AQRRw8tUk4FvtkSDCHfMdKEGP5_N9FovC20v6aEN6YkSgQ&oe=6AFD82FE",
+      "thumbnail": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.99422-6/904237079_1870982263956804_4235494370133102452_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yZ_t2D6AYmwQ7kNvwES7_Zd&_nc_oc=Adq643bzAl6U-klI0bCEJQu18AN5Umgt_f1xI9M4CErSJcL3iBgi0Bm1IUpkdlvTZzg&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=6g9PGXyX89D4ZQmV_aDCUA&_nc_ss=78289&oh=00_AQRRw8tUk4FvtkSDCHfMdKEGP5_N9FovC20v6aEN6YkSgQ&oe=6AFD82FE",
+      "description": "Información oficial de la UNA Puno sobre Tres años formando líderes: Facultad de Administración de la UNA Puno celebra aniversario.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02gLPrZd8sEjEp7M8PMFsR9mUDbTD74b9bYCJ9DTp4rM1N6YeTQjxBr4CdTNwuMqNMl?__cft__[0]=AZg5peoyTHO1QwRvyPUlAFFuZpCA5eEF1Pi3VGQ_7hL2waMMmIG9UK6RfLd4ochiwY1YZpGfPiUR4q2ne1hWFt53zZOpJeZZ5vl05ZqvVKv0ujkm8x7uKF2T38Y5s797aFUE3cs-YUH6ootXOhPEuXiaqCPWn5Qe-CF0NbfLPenI2KwOJwNGB3Ou25k&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-14T01:03:30.577224+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "¡ESTAMOS EN VIVO!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-13T20:37:14.229334+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "LA UNA PUNO MODERNIZARÁ INGENIERÍA METALÚRGICA CON NUEVA INFRAESTRUCTURA PARA LABORATORIOS Y...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-12T23:55:55.107596+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "BANDA SINFÓNICA Y CORO DE LA UNA PUNO INTERPRETÓ HIMNO PARA LA VISITA DEL PAPA LEÓN XIV",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-12T18:50:20.136999+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "BIENVENIDO AL PERÚ, PAPA LEÓN XIV.",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-12T03:07:16.204516+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "#SALUDOINSTITUCIONAL",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "institucional",
-      "category_label": "Actualidad Universitaria",
-      "badge": "UNA Puno",
-      "date": "11 Nov 2026, 20:13 UTC",
-      "published_at": "2026-11-11T20:13:37.863000+00:00",
-      "image": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.99422-6/896257151_1116878991243824_7984463126439226868_n.png?stp=dst-jpg_tt6&cstp=mx1975x2048&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kvBEf8_ZVg8Q7kNvwHX0s5v&_nc_oc=Adr9vEEQoCGT2ryc9RFpeZ6COB-ZLgPq-Lvv6iOmmaN4H5R7PgrUQnMYhjrUVP4a_RU&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=NqmCzCoSFjUKXS9xncXURw&_nc_ss=78289&oh=00_AQQ1GbUkRam5KD19lrlLVHtzeTJOgiIupCzdccy3U5_5kA&oe=6AFAB9A4",
-      "thumbnail": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.99422-6/896257151_1116878991243824_7984463126439226868_n.png?stp=dst-jpg_tt6&cstp=mx1975x2048&ctp=p180x540&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kvBEf8_ZVg8Q7kNvwHX0s5v&_nc_oc=Adr9vEEQoCGT2ryc9RFpeZ6COB-ZLgPq-Lvv6iOmmaN4H5R7PgrUQnMYhjrUVP4a_RU&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=NqmCzCoSFjUKXS9xncXURw&_nc_ss=78289&oh=00_AQQ1GbUkRam5KD19lrlLVHtzeTJOgiIupCzdccy3U5_5kA&oe=6AFAB9A4",
-      "description": "La Universidad Nacional del Altiplano de Puno expresa su más cordial y fraterno saludo a las nuevas autoridades de la Universidad Nacional de Ing",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0SZCHoFc7BVnLq3b46Wb2A3wcgL1jhfWMfMQHRjVJdKGGtARvH96vWiyyZtek5Frdl?__cft__[0]=AZiKyAcb28QIMWnQC71H_DEZXHmD-WaRnGFwnx5af4PDND5jMQYKYjKopq5v-_SmoQZRHgBkwpTDsvrTxC3x95tpYdOjrH7EI8S0N8KAdbv70UFpGQY4zRx00XBiinkltoV2QWu_3z2qvADqJYXNy00N1pWd1UbgeAd_lF7Fpy4dhh0caxW8t6afxOQ&__tn__=%2CO%2CP-R",
-      "likes": 1400,
-      "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-11T22:14:16.791289+00:00"
     }
   ]
 }
