@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-14T19:27:12.691348+00:00",
+    "last_sync": "2026-11-15T17:02:24.499546+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "UNA PUNO Y SIN FRONTERAS UNEN FUERZAS PARA QUE LAS INVESTIGACIONES TRANSFORMEN LA REALIDAD D...",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "15 Nov 2026, 15:01 UTC",
+      "published_at": "2026-11-15T15:01:45.465000+00:00",
+      "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/908532812_1142842284898914_5576177595152803052_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=FTUZiTHIC4gQ7kNvwFHmybl&_nc_oc=Adofpl7FTbqmY0OE1_pQcwjefIKuOb-_1qyE1So8aWxnAdEB-wGaI_Uk_wj0vNx3R6U&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=tDvm9VoLgp95oGHMFa6NIQ&_nc_ss=78289&oh=00_AQTe975VclBVrVZQH2veCon9OoOxxiAULnrxvnK2q5k-HQ&oe=6AFFC48B",
+      "thumbnail": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/908532812_1142842284898914_5576177595152803052_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=FTUZiTHIC4gQ7kNvwFHmybl&_nc_oc=Adofpl7FTbqmY0OE1_pQcwjefIKuOb-_1qyE1So8aWxnAdEB-wGaI_Uk_wj0vNx3R6U&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=tDvm9VoLgp95oGHMFa6NIQ&_nc_ss=78289&oh=00_AQTe975VclBVrVZQH2veCon9OoOxxiAULnrxvnK2q5k-HQ&oe=6AFFC48B",
+      "description": "Información oficial de la UNA Puno sobre UNA Puno y Sin Fronteras unen fuerzas para que las investigaciones transformen la realidad del pueblo.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid036mWJhurdSguULhrpbydpdJSFDqbhzyyMnPttwVbir8A46GTuSZegspVkK8z4Jk7Nl?__cft__[0]=AZgjj-wsl-7DG4m897zuThpD0v7ndSY12xYW9IGoAJcOBwkJIntvgWYD4LvRl52RMzuxyhCGebwrQdaVKw4e7XwfK7K7EmJf2o9jUZg7CvJ-xaYVCmJT8C49FOKPgsQVxEwYC6Y0LzJufttf3qwtMrylPVAWpvWFZ0Qc8_i2tbmB1tQFJlQtdREBjnY&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-15T17:02:24.499546+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "UNA PUNO SE SUMA A LA CREACIÓN DEL GEOPARQUE QUELCCAYA",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-14T19:27:12.691348+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "TRES AÑOS FORMANDO LÍDERES: FACULTAD DE ADMINISTRACIÓN DE LA UNA PUNO CELEBRA ANIVERSARIO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-14T01:03:30.577224+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "¡ESTAMOS EN VIVO!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-13T20:37:14.229334+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "LA UNA PUNO MODERNIZARÁ INGENIERÍA METALÚRGICA CON NUEVA INFRAESTRUCTURA PARA LABORATORIOS Y...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-12T23:55:55.107596+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "BANDA SINFÓNICA Y CORO DE LA UNA PUNO INTERPRETÓ HIMNO PARA LA VISITA DEL PAPA LEÓN XIV",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "institucional",
-      "category_label": "Actualidad Universitaria",
-      "badge": "UNA Puno",
-      "date": "12 Nov 2026, 18:06 UTC",
-      "published_at": "2026-11-12T18:06:25.457000+00:00",
-      "image": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.99422-6/904472287_1672238054250782_6034377872727628164_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QVLOOofIfdgQ7kNvwHsaEU0&_nc_oc=AdqyADRiBFjd2ekd_Kx2DbI0T0kzskzyXgvKBipvOpMY75WMeLv16uthdF5VIlmlocw&_nc_zt=14&_nc_ht=scontent-lhr11-1.xx&_nc_gid=CwGQ-JhKNqd9GQZZtPt0QA&_nc_ss=78289&oh=00_AQT0pcMntdR5H_kn-5hGZkLVIBzybajxLY19CSNBV2sMkQ&oe=6AFBF6EE",
-      "thumbnail": "https://scontent-lhr11-1.xx.fbcdn.net/v/t39.99422-6/904472287_1672238054250782_6034377872727628164_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QVLOOofIfdgQ7kNvwHsaEU0&_nc_oc=AdqyADRiBFjd2ekd_Kx2DbI0T0kzskzyXgvKBipvOpMY75WMeLv16uthdF5VIlmlocw&_nc_zt=14&_nc_ht=scontent-lhr11-1.xx&_nc_gid=CwGQ-JhKNqd9GQZZtPt0QA&_nc_ss=78289&oh=00_AQT0pcMntdR5H_kn-5hGZkLVIBzybajxLY19CSNBV2sMkQ&oe=6AFBF6EE",
-      "description": "Información oficial de la UNA Puno sobre Banda sinfónica y coro de la UNA Puno interpretó himno para la visita del papa León XIV.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02GTHM1xCAtaCo65sJBWjt5wBVD7ZCX7PuKvhUMztbqJq5GyL7qwD8idyT6DCGgh6ql?__cft__[0]=AZhfdXRAJ-7xp-eEyV8oeqllozhf1y7evsCJgzrWI_M4fwEjtNPY6md8mBgJ6_j1OWPJDOMlJC-TNXCb_aWd6ih-5QFAhLaoy2mzE1pc0m8zBwJwSZbj-AqH0BGuchQZkU-cAJwLM_kO4moUxB9ieU8hMhNvGI1IaCKz0FMT9mnITNEmrco5ys5CG50&__tn__=%2CO%2CP-R",
-      "likes": 1400,
-      "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-12T18:50:20.136999+00:00"
     }
   ]
 }
