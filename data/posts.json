@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-16T18:50:41.754438+00:00",
+    "last_sync": "2026-11-17T19:28:15.477765+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "II CONGRESO PERUANO DE EXTENSIÓN AGROPECUARIA",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "17 Nov 2026, 17:27 UTC",
+      "published_at": "2026-11-17T17:27:20.524000+00:00",
+      "image": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/910743549_1492481856096275_3280106805024644840_n.png?stp=dst-jpg_tt6&cstp=mx1638x2048&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6TNGEabBhOEQ7kNvwHjI67O&_nc_oc=AdqEhXIfTvrP3y2HcthBwNHtpPgboOCKnddvz8o9QXUWJBLAuub7zzULsmo0Z7N_Olw&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=WUnE9ZSL9LaAWCdvmDswPw&_nc_ss=78289&oh=00_AQQMFin-OCn9X_qu7PQ6hIy5RVLmVlFggvInZ34-vU2pNA&oe=6B028BFE",
+      "thumbnail": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/910743549_1492481856096275_3280106805024644840_n.png?stp=dst-jpg_tt6&cstp=mx1638x2048&ctp=s640x640&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6TNGEabBhOEQ7kNvwHjI67O&_nc_oc=AdqEhXIfTvrP3y2HcthBwNHtpPgboOCKnddvz8o9QXUWJBLAuub7zzULsmo0Z7N_Olw&_nc_zt=14&_nc_ht=scontent-dfw5-2.xx&_nc_gid=WUnE9ZSL9LaAWCdvmDswPw&_nc_ss=78289&oh=00_AQQMFin-OCn9X_qu7PQ6hIy5RVLmVlFggvInZ34-vU2pNA&oe=6B028BFE",
+      "description": "\"motor innovador del desarrollo agrario\"",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02TzR5WLw1tKf3cjK9id3i5M2buL9rijwAYApT419kLwzJCRAwPddEYdv1SXez258Ll?__cft__[0]=AZiBi2tJ8WPT41pIpQpPw8h_NF71y1DEJKV83rMXa7KXrBvlXh3ixQvYLgTpJRjDHtMS5AUkOOHVz-zWHAnpo0YiE7MObW9o-McLowqTV-lGzjznQ6LiEc6d2DFLzX5T-DXwrKxkseB75Vo8AbM7MaPlM3vf7cQEzsvwvLPXdyyo7Edxi6UDUqQFHV8&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-17T19:28:15.477765+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "UNA PUNO Y SIN FRONTERAS UNEN FUERZAS PARA QUE LAS INVESTIGACIONES TRANSFORMEN LA REALIDAD D...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-16T18:50:41.754438+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "UNA PUNO SE SUMA A LA CREACIÓN DEL GEOPARQUE QUELCCAYA",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-16T18:50:41.754438+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "TRES AÑOS FORMANDO LÍDERES: FACULTAD DE ADMINISTRACIÓN DE LA UNA PUNO CELEBRA ANIVERSARIO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-14T01:03:30.577224+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "¡ESTAMOS EN VIVO!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-13T20:37:14.229334+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "LA UNA PUNO MODERNIZARÁ INGENIERÍA METALÚRGICA CON NUEVA INFRAESTRUCTURA PARA LABORATORIOS Y...",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "institucional",
-      "category_label": "Actualidad Universitaria",
-      "badge": "UNA Puno",
-      "date": "12 Nov 2026, 23:30 UTC",
-      "published_at": "2026-11-12T23:30:58.662000+00:00",
-      "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/906653404_2619547391893626_5272251686031936495_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cvD4GLLlxgAQ7kNvwHiENH6&_nc_oc=AdoBxE6ulUraOwDLEZOpRDroacoEstFXhq-32nMbFoMKq15suve7dGbOEzg_My3PquA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=MaSFh-uB0a95-61MUFDzyw&_nc_ss=78289&oh=00_AQTSZFgwFFVUSrZwrtjUtwPGvZQM66aVSOYIzEvJ2WrTYA&oe=6AFC2AA2",
-      "thumbnail": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/906653404_2619547391893626_5272251686031936495_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cvD4GLLlxgAQ7kNvwHiENH6&_nc_oc=AdoBxE6ulUraOwDLEZOpRDroacoEstFXhq-32nMbFoMKq15suve7dGbOEzg_My3PquA&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=MaSFh-uB0a95-61MUFDzyw&_nc_ss=78289&oh=00_AQTSZFgwFFVUSrZwrtjUtwPGvZQM66aVSOYIzEvJ2WrTYA&oe=6AFC2AA2",
-      "description": "Información oficial de la UNA Puno sobre La UNA Puno modernizará Ingeniería Metalúrgica con nueva infraestructura para laboratorios y espacios académicos.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02ivtN4uAJXv9NFGULMNUoJx8XtnLiHmCHw3fjs4Kjb3V8sUv18CSvxCHkCkxKpc7ul?__cft__[0]=AZg_9L-qDQMxNwwtqZ_3GaUvg9jZNbuXFVtoji0kDUL8GKf4LRkp97XpdkfBIdP1B029_fOJY672kDquYF3q66yxzODTqG2WHDTrBJrIAZDgcO_2wkTdwukSVYMtrmjaVLNZP9om41CKAzdj5BR409gn-1InAIe3zPJ2iD44GKatO2m_FZrRN9_BVgc&__tn__=%2CO%2CP-R",
-      "likes": 1400,
-      "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-12T23:55:55.107596+00:00"
     }
   ]
 }
