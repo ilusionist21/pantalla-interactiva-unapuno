@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-18T01:51:18.621027+00:00",
+    "last_sync": "2026-11-18T18:19:32.332577+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "¡SE VIENE EL IV FESTIVAL DE NUTRICIENCIA!",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "18 Nov 2026, 17:18 UTC",
+      "published_at": "2026-11-18T17:18:36.261000+00:00",
+      "image": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.99422-6/912821409_993288866659987_1886815280867092581_n.png?stp=dst-jpg_tt6&cstp=mx1638x2048&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hwzECdecKhIQ7kNvwHKtCe0&_nc_oc=AdoSVzgaOfKesxBVn9Y21dj3NR0yikozoELckKSIWiw_AbCpfr6VkJHFIaKZwfDmSwo&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=KS4JhGaULRpcyneMRAY10A&_nc_ss=78289&oh=00_AQRVwijyK0eiO0Aw-yWtph6LAGUO-2_wW12Gj6mNGy1iUA&oe=6B03BCE9",
+      "thumbnail": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.99422-6/912821409_993288866659987_1886815280867092581_n.png?stp=dst-jpg_tt6&cstp=mx1638x2048&ctp=s640x640&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hwzECdecKhIQ7kNvwHKtCe0&_nc_oc=AdoSVzgaOfKesxBVn9Y21dj3NR0yikozoELckKSIWiw_AbCpfr6VkJHFIaKZwfDmSwo&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=KS4JhGaULRpcyneMRAY10A&_nc_ss=78289&oh=00_AQRVwijyK0eiO0Aw-yWtph6LAGUO-2_wW12Gj6mNGy1iUA&oe=6B03BCE9",
+      "description": "Información oficial de la UNA Puno sobre ¡Se viene el IV Festival de NutriCiencia!.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid01TyTQat1Nf2gQKYyHfmq8LY7Vdhx1uYimBBDWssRnhoxSfD95xEks8XqZkSjA2TQl?__cft__[0]=AZj6OUvA5oaon4S9WSCVCSN0Kn6lTu4Tc6nDCEBShi7TZ3G-NcySnyR6TfIPWCWP72SeWkhxjnjV-FUdb5E99TJYDsZdSBLPKjQ3UWWzfrORPyZ8OZ5f1jhjd1N7g7yiuASexEEiwCXcrl9b9ooKKOcivPFPDWjMvcp1h9XI_-PuWsJFbV2v0NohYlA&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-18T18:19:32.332577+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "II CONGRESO INTERNACIONAL DEL IDIOMA INGLÉS: “SUPERANDO BARRERAS”",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-18T01:51:18.621027+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "II CONGRESO PERUANO DE EXTENSIÓN AGROPECUARIA",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-17T19:28:15.477765+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "UNA PUNO Y SIN FRONTERAS UNEN FUERZAS PARA QUE LAS INVESTIGACIONES TRANSFORMEN LA REALIDAD D...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-16T18:50:41.754438+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "UNA PUNO SE SUMA A LA CREACIÓN DEL GEOPARQUE QUELCCAYA",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-16T18:50:41.754438+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "TRES AÑOS FORMANDO LÍDERES: FACULTAD DE ADMINISTRACIÓN DE LA UNA PUNO CELEBRA ANIVERSARIO",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "institucional",
-      "category_label": "Actualidad Universitaria",
-      "badge": "UNA Puno",
-      "date": "14 Nov 2026, 00:08 UTC",
-      "published_at": "2026-11-14T00:08:51.187000+00:00",
-      "image": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.99422-6/904237079_1870982263956804_4235494370133102452_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yZ_t2D6AYmwQ7kNvwES7_Zd&_nc_oc=Adq643bzAl6U-klI0bCEJQu18AN5Umgt_f1xI9M4CErSJcL3iBgi0Bm1IUpkdlvTZzg&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=6g9PGXyX89D4ZQmV_aDCUA&_nc_ss=78289&oh=00_AQRRw8tUk4FvtkSDCHfMdKEGP5_N9FovC20v6aEN6YkSgQ&oe=6AFD82FE",
-      "thumbnail": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.99422-6/904237079_1870982263956804_4235494370133102452_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yZ_t2D6AYmwQ7kNvwES7_Zd&_nc_oc=Adq643bzAl6U-klI0bCEJQu18AN5Umgt_f1xI9M4CErSJcL3iBgi0Bm1IUpkdlvTZzg&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=6g9PGXyX89D4ZQmV_aDCUA&_nc_ss=78289&oh=00_AQRRw8tUk4FvtkSDCHfMdKEGP5_N9FovC20v6aEN6YkSgQ&oe=6AFD82FE",
-      "description": "Información oficial de la UNA Puno sobre Tres años formando líderes: Facultad de Administración de la UNA Puno celebra aniversario.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02gLPrZd8sEjEp7M8PMFsR9mUDbTD74b9bYCJ9DTp4rM1N6YeTQjxBr4CdTNwuMqNMl?__cft__[0]=AZg5peoyTHO1QwRvyPUlAFFuZpCA5eEF1Pi3VGQ_7hL2waMMmIG9UK6RfLd4ochiwY1YZpGfPiUR4q2ne1hWFt53zZOpJeZZ5vl05ZqvVKv0ujkm8x7uKF2T38Y5s797aFUE3cs-YUH6ootXOhPEuXiaqCPWn5Qe-CF0NbfLPenI2KwOJwNGB3Ou25k&__tn__=%2CO%2CP-R",
-      "likes": 1400,
-      "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-14T01:03:30.577224+00:00"
     }
   ]
 }
