@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-19T23:31:45.028090+00:00",
+    "last_sync": "2026-11-20T21:06:19.116043+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "RECTOR DE LA UNA PUNO SUSTENTÓ EJECUCIÓN PRESUPUESTAL 2026 ANTE EL MINEDU",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "20 Nov 2026, 21:03 UTC",
+      "published_at": "2026-11-20T21:03:39.737000+00:00",
+      "image": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/912403454_1055407650595835_2446313337700689820_n.png?stp=dst-jpg_tt6&cstp=mx1840x2048&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vQxxSdjQRo8Q7kNvwGiR_wk&_nc_oc=AdpUUVKQ8NbbDTGaRBc8UQ7_EKayVQt3tTLsmxSdo5CL0NTB7YELyP49Ck0-V-HqOls&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=eE3mXv8deO16rlTf5FPAlA&_nc_ss=78289&oh=00_AQRQ0ad2ML5jgByvFBYpFG9XXW7lzeT_42WI5qssX3HEXw&oe=6B06702D",
+      "thumbnail": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/912403454_1055407650595835_2446313337700689820_n.png?stp=dst-jpg_tt6&cstp=mx1840x2048&ctp=s565x565&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=vQxxSdjQRo8Q7kNvwGiR_wk&_nc_oc=AdpUUVKQ8NbbDTGaRBc8UQ7_EKayVQt3tTLsmxSdo5CL0NTB7YELyP49Ck0-V-HqOls&_nc_zt=14&_nc_ht=scontent-sea5-1.xx&_nc_gid=eE3mXv8deO16rlTf5FPAlA&_nc_ss=78289&oh=00_AQRQ0ad2ML5jgByvFBYpFG9XXW7lzeT_42WI5qssX3HEXw&oe=6B06702D",
+      "description": "Información oficial de la UNA Puno sobre Rector de la UNA Puno sustentó ejecución presupuestal 2026 ante el MINEDU.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0XBkKuCY2HC1LVr8yEQzSFaKMwzYqwxZqzYi1tz8BCKHKuMGYK3WEAJxKYtYbJWQVl?__cft__[0]=AZgwOB9G2v2Y4OTnF_p4pS2gxtK84wqjRmP93mZqiEi6zjQD--Vh9z2AhRoNgPWonZERUMy4KEn5tBh1shrq3u5H_xeLeoQLZP8PRWc0kFQYE87LgXhf7EMIVeunbwopCzMnHjC1e6NudcS5Rx4hItDlVzCSrcs-9gQBelXZQ3Mu2KhocIXozAa-Mmw&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-20T21:06:19.116043+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "#ENVIVO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-19T23:31:45.028090+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "ESTAMOS EN VIVO |",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-19T17:02:24.814917+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "INGENIEROS DE CAMPO, PLANTA Y LABORATORIO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-19T17:02:24.814917+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "¡FELIZ ANIVERSARIO INGENIERÍA AGROINDUSTRIAL!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "investigacion",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-19T17:02:24.814917+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "¡SE VIENE EL IV FESTIVAL DE NUTRICIENCIA!",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "institucional",
-      "category_label": "Actualidad Universitaria",
-      "badge": "UNA Puno",
-      "date": "18 Nov 2026, 17:18 UTC",
-      "published_at": "2026-11-18T17:18:36.261000+00:00",
-      "image": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.99422-6/912821409_993288866659987_1886815280867092581_n.png?stp=dst-jpg_tt6&cstp=mx1638x2048&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hwzECdecKhIQ7kNvwHKtCe0&_nc_oc=AdoSVzgaOfKesxBVn9Y21dj3NR0yikozoELckKSIWiw_AbCpfr6VkJHFIaKZwfDmSwo&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=KS4JhGaULRpcyneMRAY10A&_nc_ss=78289&oh=00_AQRVwijyK0eiO0Aw-yWtph6LAGUO-2_wW12Gj6mNGy1iUA&oe=6B03BCE9",
-      "thumbnail": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.99422-6/912821409_993288866659987_1886815280867092581_n.png?stp=dst-jpg_tt6&cstp=mx1638x2048&ctp=s640x640&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hwzECdecKhIQ7kNvwHKtCe0&_nc_oc=AdoSVzgaOfKesxBVn9Y21dj3NR0yikozoELckKSIWiw_AbCpfr6VkJHFIaKZwfDmSwo&_nc_zt=14&_nc_ht=scontent-sea5-2.xx&_nc_gid=KS4JhGaULRpcyneMRAY10A&_nc_ss=78289&oh=00_AQRVwijyK0eiO0Aw-yWtph6LAGUO-2_wW12Gj6mNGy1iUA&oe=6B03BCE9",
-      "description": "Información oficial de la UNA Puno sobre ¡Se viene el IV Festival de NutriCiencia!.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid01TyTQat1Nf2gQKYyHfmq8LY7Vdhx1uYimBBDWssRnhoxSfD95xEks8XqZkSjA2TQl?__cft__[0]=AZj6OUvA5oaon4S9WSCVCSN0Kn6lTu4Tc6nDCEBShi7TZ3G-NcySnyR6TfIPWCWP72SeWkhxjnjV-FUdb5E99TJYDsZdSBLPKjQ3UWWzfrORPyZ8OZ5f1jhjd1N7g7yiuASexEEiwCXcrl9b9ooKKOcivPFPDWjMvcp1h9XI_-PuWsJFbV2v0NohYlA&__tn__=%2CO%2CP-R",
-      "likes": 1400,
-      "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-18T18:19:32.332577+00:00"
     }
   ]
 }
