@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-21T09:52:04.171276+00:00",
+    "last_sync": "2026-11-21T22:10:40.435071+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "UNA PUNO E IRD DE FRANCIA FORTALECEN INVESTIGACIÓN CIENTÍFICA EN PROBLEMÁTICA MINERA Y AGUA",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "21 Nov 2026, 22:03 UTC",
+      "published_at": "2026-11-21T22:03:02.197000+00:00",
+      "image": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.99422-6/917362560_1462309508754559_8159644138232363248_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UCZCjXiyD9kQ7kNvwE0czWL&_nc_oc=AdoGHP36bQHQjGqqGxq3j27Lc-Oi5ibDxxalKPD72YNdfdRKLTFM2Qun5rFCzbMLvGg&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=ZjX-Oor6RlHRtS94DKiHQw&_nc_ss=78289&oh=00_AQSIouE4J0UYvjBn9APLJN3900R-vffB9aZjt5OhO6RdAQ&oe=6B07DDB2",
+      "thumbnail": "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.99422-6/917362560_1462309508754559_8159644138232363248_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=UCZCjXiyD9kQ7kNvwE0czWL&_nc_oc=AdoGHP36bQHQjGqqGxq3j27Lc-Oi5ibDxxalKPD72YNdfdRKLTFM2Qun5rFCzbMLvGg&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=ZjX-Oor6RlHRtS94DKiHQw&_nc_ss=78289&oh=00_AQSIouE4J0UYvjBn9APLJN3900R-vffB9aZjt5OhO6RdAQ&oe=6B07DDB2",
+      "description": "Información oficial de la UNA Puno sobre UNA Puno e IRD de Francia fortalecen investigación científica en problemática minera y agua.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02m8EJD85PT54aMvnmiBvt64cRkrqwB7DXdHCaSTwNJxKuAkjCVm2L1u4yjk7Px9J4l?__cft__[0]=AZhx7luuKi8qR3RaKb0blN9yNLtVd4Up6PglsDyLdiQAIKjGKruHN8xVnfbEfo3UQgT1B6YzvFzBxD5qXldWc5oI5ug-wuQG-P5JTZ11o6DHVEOFQZKslkC4Qsf1CXG5cQsz0-hTymNLWItpuf3-NeOQdiuFEgZmulpnnRBZGdtweWlNpYZRuCtHMDg&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-21T22:10:40.435071+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "UNA PUNO PROMUEVE EL BIENESTAR FÍSICO Y EMOCIONAL DE ESTUDIANTES EN EL PRIMER AEROFEST UNIVE...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-21T09:52:04.171276+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "COMUNICADO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-21T09:52:04.171276+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "RECTOR DE LA UNA PUNO SUSTENTÓ EJECUCIÓN PRESUPUESTAL 2026 ANTE EL MINEDU",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-21T09:52:04.171276+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "IV CONGRESO INTERNACIONAL DE INVESTIGACIÓN CIENTÍFICA 2026",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "investigacion",
@@ -85,25 +104,6 @@
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-21T09:52:04.171276+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "#ENVIVO",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "institucional",
-      "category_label": "Actualidad Universitaria",
-      "badge": "UNA Puno",
-      "date": "19 Nov 2026, 23:21 UTC",
-      "published_at": "2026-11-19T23:21:49.360000+00:00",
-      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/902508011_1133111226308566_2588432543665459494_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=df2c94&_nc_ohc=TDhN_6_IASoQ7kNvwHQHSbb&_nc_oc=Adr2mJuqir_AUiHk9RDCas-yzsn9jIfOpcl2VYRqYb2iQfxiKVV79gKu4pGkKp6O_4Y&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=ERBmScePRcE05Q7W62qDdA&_nc_ss=78289&oh=00_AQR26c0cq0qwoY-ZsQzbWK6HA7XikRZRzOgPy528p7ptUw&oe=6B0553DD",
-      "thumbnail": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/902508011_1133111226308566_2588432543665459494_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=df2c94&_nc_ohc=TDhN_6_IASoQ7kNvwHQHSbb&_nc_oc=Adr2mJuqir_AUiHk9RDCas-yzsn9jIfOpcl2VYRqYb2iQfxiKVV79gKu4pGkKp6O_4Y&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=ERBmScePRcE05Q7W62qDdA&_nc_ss=78289&oh=00_AQR26c0cq0qwoY-ZsQzbWK6HA7XikRZRzOgPy528p7ptUw&oe=6B0553DD",
-      "description": "DIRECTO",
-      "facebook_url": "https://www.facebook.com/unapunooficial/videos/2140060036694543/?__cft__[0]=AZiK1Isn8Gv9EE_DIhOxksogUz2kRlEricG7mveGixNQnOGXJ_wTwK3Xry9MqIkAFkYiYFvBkBibWIVnyHUnCBNRud7zuuRMJo2mBIswz06nuW5HS3FPC2DnFnchVB-HCQXLnR70lQ-1vzV6ZBuAqIt7xvkTClLD0Fk8X3cFv2sHpFWqbMjypAJA4RX-vkj3K0c&__tn__=%2CO%2CP-R",
-      "likes": 1400,
-      "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-19T23:31:45.028090+00:00"
     }
   ]
 }
