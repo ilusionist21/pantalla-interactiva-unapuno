@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-20T21:06:19.116043+00:00",
+    "last_sync": "2026-11-21T02:11:17.781713+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "UNA PUNO PROMUEVE EL BIENESTAR FÍSICO Y EMOCIONAL DE ESTUDIANTES EN EL PRIMER AEROFEST UNIVE...",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "21 Nov 2026, 00:10 UTC",
+      "published_at": "2026-11-21T00:10:22.679000+00:00",
+      "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/921753125_1671225718123701_358049183013137897_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8F959CEVWgoQ7kNvwGYlFx9&_nc_oc=AdqvgOqZyeQepejgt7QcIsVp8A4QCdczkX2TYL9KCxGnCtH5WNXUcsYJOYY2QqnkJ0g&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hpNPDp5gwcyNV3CbihRGng&_nc_ss=78289&oh=00_AQTD1sfID61-A9hycwBWH9WWq1i_m9PwHHjA2e7BmkrHww&oe=6B06B4A7",
+      "thumbnail": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/921753125_1671225718123701_358049183013137897_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8F959CEVWgoQ7kNvwGYlFx9&_nc_oc=AdqvgOqZyeQepejgt7QcIsVp8A4QCdczkX2TYL9KCxGnCtH5WNXUcsYJOYY2QqnkJ0g&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=hpNPDp5gwcyNV3CbihRGng&_nc_ss=78289&oh=00_AQTD1sfID61-A9hycwBWH9WWq1i_m9PwHHjA2e7BmkrHww&oe=6B06B4A7",
+      "description": "Información oficial de la UNA Puno sobre UNA Puno promueve el bienestar físico y emocional de estudiantes en el primer AeroFest universitario.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02mkNtUyFguEHG64STPG7f4DjUJyDGqopAH7TaDDcadURzEE2kyBQ1JgLXihaqbPfKl?__cft__[0]=AZjwM2J-RixtmHJYRt2NKvAeaMjrwCk-Hw_uxMEqZvpwbHpaasTa-dV4224IPTcl3w40w9y1lwsrD7sKFLlPOnPcqULmIGRooj0J4y9WnYivCnPqDqQt4wlyTxVqaU_cOe-JgwNi6e6S3cKKHZtH6AHZZRdiSTA6Nh1aM-oRgCVWHrHxbD_vU2MLfuw&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-21T02:11:17.781713+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "RECTOR DE LA UNA PUNO SUSTENTÓ EJECUCIÓN PRESUPUESTAL 2026 ANTE EL MINEDU",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-20T21:06:19.116043+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "#ENVIVO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-19T23:31:45.028090+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "ESTAMOS EN VIVO |",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-19T17:02:24.814917+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "INGENIEROS DE CAMPO, PLANTA Y LABORATORIO",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -82,25 +101,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0P4wdCGEWEryMgGm1QG7DEN8Ua44r5YhvfGBCqLQQRHmCmQrAreWTtSSUMA4aS6yhl?__cft__[0]=AZizBrtV_YoY_BaEpIafjdZX1PFeiVUr4EdCKNgZGppDhS7Erjg39wOWvgVQgt06n9nU4VeAUQ6OPpK9_b-rnP9QLheyhYXXumsEYWe7ar1VEDvei-5emrd2wDyymVEMWwVRLUrnD79uwcDCepf5lSRlcv3_0wUbIYfpS69cWmZgDygkY-akNwd1m4o&__tn__=%2CO%2CP-R",
       "likes": 2040,
       "shares": 410,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-19T17:02:24.814917+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "¡FELIZ ANIVERSARIO INGENIERÍA AGROINDUSTRIAL!",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "investigacion",
-      "category_label": "Investigación Científica",
-      "badge": "Campus & Ciencia",
-      "date": "19 Nov 2026, 11:02 UTC",
-      "published_at": "2026-11-19T11:02:24.727000+00:00",
-      "image": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/913462728_1788911665698811_5911220677838462584_n.png?stp=dst-jpg_tt6&cstp=mx1794x2048&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=evKT3GehinYQ7kNvwGdeo4L&_nc_oc=AdrIvEXx3c_Jpe6ufrb3wMjpHY3v1sBt4NEnujyUKHbf12BhdnIMzvm4_EJw1h7BsHE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=T0hL4j30bKNIMPtyIX1zng&_nc_ss=78289&oh=00_AQQcZoJ2ea3NTQ7kHrk_0Pp_BqloLh2LA3Wb7f6WganRpQ&oe=6B05139C",
-      "thumbnail": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/913462728_1788911665698811_5911220677838462584_n.png?stp=dst-jpg_tt6&cstp=mx1794x2048&ctp=s590x590&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=evKT3GehinYQ7kNvwGdeo4L&_nc_oc=AdrIvEXx3c_Jpe6ufrb3wMjpHY3v1sBt4NEnujyUKHbf12BhdnIMzvm4_EJw1h7BsHE&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=T0hL4j30bKNIMPtyIX1zng&_nc_ss=78289&oh=00_AQQcZoJ2ea3NTQ7kHrk_0Pp_BqloLh2LA3Wb7f6WganRpQ&oe=6B05139C",
-      "description": "Información oficial de la UNA Puno sobre ¡Feliz aniversario Ingeniería Agroindustrial!.",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02Xu8u5Z3LrqJ6pAGiAQtAm6TRyUi7ZsXg7mqXLk1bytHwQQA5FrLZUUq2WapzGTrpl?__cft__[0]=AZgcrZk1gTfBs_HHiJZc8aIv5RYlHWIG8JQ-zxQc7GLgBs9G3Fe-vYtAODI-MCJ4Dgt0_h9fC00q15YyY0woIc6YT7dbhi_dlV9GXGTaBtz9uw41xn3BzLUSug_8mkylcBiztD3cdUfuAY8LaJ5rhaEEE5PTw7mk6hJHur2fD_Xonb2U05DN4_3D2Ko&__tn__=%2CO%2CP-R",
-      "likes": 2360,
-      "shares": 485,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-19T17:02:24.814917+00:00"
