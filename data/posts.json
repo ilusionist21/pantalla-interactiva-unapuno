@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-22T17:40:03.162456+00:00",
+    "last_sync": "2026-11-23T13:17:15.530547+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "¡HOY NOS UNIMOS EN UNA SOLA VOZ!",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "23 Nov 2026, 13:17 UTC",
+      "published_at": "2026-11-23T13:17:15.530547+00:00",
+      "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/928607572_1668503244966311_4057907491890313051_n.png?stp=dst-jpg_tt6&cstp=mx1828x2048&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_bc8pDTAXZ0Q7kNvwGzJt15&_nc_oc=AdpLXmL_zc_tD2WybuzltxhSifpD839-2D5GeLvqNS_xtypfAefSOCe4iynqEyZca3k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=JycKVhaCaJ17q3H1oEancQ&_nc_ss=78289&oh=00_AQRUE0JaSR3PANJeAO4ubvif9aA7BzWZ6EUZEsTcvCNDXQ&oe=6B0A0822",
+      "thumbnail": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/928607572_1668503244966311_4057907491890313051_n.png?stp=dst-jpg_tt6&cstp=mx1828x2048&ctp=s565x565&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_bc8pDTAXZ0Q7kNvwGzJt15&_nc_oc=AdpLXmL_zc_tD2WybuzltxhSifpD839-2D5GeLvqNS_xtypfAefSOCe4iynqEyZca3k&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=JycKVhaCaJ17q3H1oEancQ&_nc_ss=78289&oh=00_AQRUE0JaSR3PANJeAO4ubvif9aA7BzWZ6EUZEsTcvCNDXQ&oe=6B0A0822",
+      "description": "Información oficial de la UNA Puno sobre ¡HOY NOS UNIMOS EN UNA SOLA VOZ!.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02Diw83he8i4YTxJ5Gvzcebf7XLxRTbQ6ApnuAdkAWPVv51cSVH6D1RsCvGHQqeCqMl?__cft__[0]=AZjU4MZwTJU70RLeLlWhXb_HP6cf_tXpOc2P8PIdyX4uc4Nel7AAdLABucF03pnA_rlRWDEwgyyC8nerZ3AnYmhEzZZeajP4HR3SM_NLYEzdtYeGoBvlCQwoeO9vWy-q6d0MmvHurVMic_EYoBQF8mJVfU1UfCiOM5oMp2c9MxYYmpyTJYQJnzSgBRY&__tn__=%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-23T13:17:15.530547+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "UNA PUNO IMPULSA NUEVAS RUTAS DE MOVILIDAD ESTUDIANTIL EN EL XXII ENCUENTRO DE LA RPU",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-22T17:40:03.162456+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "UNA PUNO Y JEE PUNO RENUEVAN CONVENIO POR LA EDUCACIÓN Y LA DEMOCRACIA",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-22T09:55:51.368387+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "UNA PUNO E IRD DE FRANCIA FORTALECEN INVESTIGACIÓN CIENTÍFICA EN PROBLEMÁTICA MINERA Y AGUA",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-21T22:10:40.435071+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "UNA PUNO PROMUEVE EL BIENESTAR FÍSICO Y EMOCIONAL DE ESTUDIANTES EN EL PRIMER AEROFEST UNIVE...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -82,25 +101,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02mkNtUyFguEHG64STPG7f4DjUJyDGqopAH7TaDDcadURzEE2kyBQ1JgLXihaqbPfKl?__cft__[0]=AZi92nXnu1ylvQADjJSQwsJePRSWNNLQeVb6XQIAq420uLxZWNI-42kZCgYyf3VjjmMKIvZd7Gq9rZQTYgRvw9iNhYvli7mq2sYkcIwdWo0V_WP8xroUL0uAZjxL0eFJGnxi1wXZ0WUW2C6vv05hkCMihPan7bUoIRzcl8SzqMl9bboN1EhbrA9Jla4&__tn__=%2CO%2CP-R",
       "likes": 1400,
       "shares": 260,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-21T09:52:04.171276+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "COMUNICADO",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "deportes",
-      "category_label": "Deporte Universitario",
-      "badge": "Logro Histórico",
-      "date": "20 Nov 2026, 22:52 UTC",
-      "published_at": "2026-11-20T22:52:04.091000+00:00",
-      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/913432912_1490092863080795_5549775375096734647_n.png?stp=dst-jpg_tt6&cstp=mx1690x2048&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=e-BRu9yCnaoQ7kNvwHRuTcC&_nc_oc=Adr90YPCFsLS5sci7MrBCOyqR-IbAxyRa-wyGcB-KfIWLdbd5ByfL6uGQ-MwK4-UXgw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=xme-nFZMOXA_OFEzU26u6A&_nc_ss=78289&oh=00_AQRVBNYLytbjDjypg_a2aiEXhMVMZAnzGyqVjxdly2xNLQ&oe=6B075272",
-      "thumbnail": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/913432912_1490092863080795_5549775375096734647_n.png?stp=dst-jpg_tt6&cstp=mx1690x2048&ctp=p526x296&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=e-BRu9yCnaoQ7kNvwHRuTcC&_nc_oc=Adr90YPCFsLS5sci7MrBCOyqR-IbAxyRa-wyGcB-KfIWLdbd5ByfL6uGQ-MwK4-UXgw&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=xme-nFZMOXA_OFEzU26u6A&_nc_ss=78289&oh=00_AQRVBNYLytbjDjypg_a2aiEXhMVMZAnzGyqVjxdly2xNLQ&oe=6B075272",
-      "description": "Ren Roma\nLo que no mata engorda",
-      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0EFQM1mC7e1t1derw6gURt4387BJKzJxrXv6wqbGvMiNereSWCnBU3PsMQ2PTTiKMl?__cft__[0]=AZj9wjxeq3cwndgtLkhdZKPm8uO4fWLTNux6fR4VcTpT8ByHwP6XPOH3sFPk6-LpdaadF1AmEyjAOuCnS8cMLCY_tOSod7d3i-_H7Teh9_C8fYS--LPnx5YTea2Btq8G4u2eCX2XNeVgx2tjWeyhXrizpatnv6rxLJGUWCn37wpd7Q-q4iJf6leZvLc&__tn__=%2CO%2CP-R",
-      "likes": 1720,
-      "shares": 335,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-21T09:52:04.171276+00:00"
