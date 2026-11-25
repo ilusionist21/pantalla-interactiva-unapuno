@@ -5,13 +5,32 @@
     "location": "Puno, Perú (3,827 m.s.n.m.)",
     "facebook_page": "https://www.facebook.com/unapunooficial",
     "facebook_handle": "@unapunooficial",
-    "last_sync": "2026-11-24T01:02:31.105534+00:00",
+    "last_sync": "2026-11-25T04:03:35.194087+00:00",
     "sync_status": "OK - 5 URLs directas de Facebook",
     "auto_refresh_minutes": 15
   },
   "posts": [
     {
       "id": "fb-official-01",
+      "title": "UNA PUNO Y DIRECCIÓN DE TRABAJO FORTALECEN COOPERACIÓN INTERINSTITUCIONAL",
+      "subtitle": "Publicado en facebook.com/unapunooficial",
+      "category": "institucional",
+      "category_label": "Actualidad Universitaria",
+      "badge": "UNA Puno",
+      "date": "25 Nov 2026, 01:02 UTC",
+      "published_at": "2026-11-25T01:02:56.760000+00:00",
+      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/930588851_1461518812823950_8310769512710481706_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HtpXrPQJT84Q7kNvwFdpkQp&_nc_oc=Adp2TUMSLjSnRrJVJxsr4OeIxS42vnrbtItt3eT3bbyL_g-IJZMuPhOOYLpqfntT_xE&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=giQc7gFua68OI0HEWzy42A&_nc_ss=78389&oh=00_AQTVQqO78bg955tM44Z0HtnGmQ7lg_Ezz3DjImxUgBMl_g&oe=6B0C1D94",
+      "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/930588851_1461518812823950_8310769512710481706_n.png?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=s590x590&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HtpXrPQJT84Q7kNvwFdpkQp&_nc_oc=Adp2TUMSLjSnRrJVJxsr4OeIxS42vnrbtItt3eT3bbyL_g-IJZMuPhOOYLpqfntT_xE&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=giQc7gFua68OI0HEWzy42A&_nc_ss=78389&oh=00_AQTVQqO78bg955tM44Z0HtnGmQ7lg_Ezz3DjImxUgBMl_g&oe=6B0C1D94",
+      "description": "Información oficial de la UNA Puno sobre UNA Puno y Dirección de Trabajo fortalecen cooperación interinstitucional.",
+      "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid0uWSFfZcbLeAD5z5X7jxmDhak4ZFiSWB281R87wFK1nbcmfy5ipwUXB99ijm89d1Yl?__cft__[0]=AZguYLVSJicmGfogW6fceL5lb8n6AgJZz15MmVO34q0x7pk-KVL2SqW49Wa2M3_hJoq9oxDzE3lbHxHVtrsf-Jep-qsosns3uN9tTBp6cc4XM8tWqZ_8pngv9TL1nzb1OpvzdgCA9Fadm49BWSwfssIuMXbadrz12uA8akpgHPAC2qKoldhG6xQpNGI&__tn__=%2CO%2CP-R",
+      "likes": 1400,
+      "shares": 260,
+      "featured": true,
+      "is_real_facebook": true,
+      "extracted_at": "2026-11-25T04:03:35.194087+00:00"
+    },
+    {
+      "id": "fb-official-02",
       "title": "EN LA UNIVERSIDAD TAMBIÉN CONSTRUIMOS ESPACIOS LIBRES DE VIOLENCIA.",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "institucional",
@@ -30,7 +49,7 @@
       "extracted_at": "2026-11-24T01:02:31.105534+00:00"
     },
     {
-      "id": "fb-official-02",
+      "id": "fb-official-03",
       "title": "“NO VAMOS A TOLERAR NINGÚN TIPO DE VIOLENCIA EN PERJUICIO DE LAS MUJERES”: DR. DANTE SALAS, ...",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "deportes",
@@ -49,7 +68,7 @@
       "extracted_at": "2026-11-24T01:02:31.105534+00:00"
     },
     {
-      "id": "fb-official-03",
+      "id": "fb-official-04",
       "title": "¡PREPÁRATE PARA EL V CONGRESO INTERNACIONAL PLANIFICA PERÚ 2050!",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "cultura",
@@ -68,7 +87,7 @@
       "extracted_at": "2026-11-24T01:02:31.105534+00:00"
     },
     {
-      "id": "fb-official-04",
+      "id": "fb-official-05",
       "title": "CONCURSO REGIONAL DE BIOLOGÍA DE ALTO IMPACTO – ATV 2026",
       "subtitle": "Publicado en facebook.com/unapunooficial",
       "category": "investigacion",
@@ -82,25 +101,6 @@
       "facebook_url": "https://www.facebook.com/unapunooficial/posts/pfbid02dNPrk3F11kAaPL1ic1T4A3iwa8YWoWnSRAFcCD19L12xQ44Qe5yARC6Q7W12npVrl?__cft__[0]=AZgQlOIJSLGurKVfNz2wMZJ3a0EFM4Cp1-aPbbRavgFwnPrGSUsEuPdHIK_WoBdC0HeKN2Ar-mR1beFPpT9XQ6eNK0qIkHYAsZAObfWiGo8Sb8XyhWOHnbJYhd5HFhXQgy8GdxtKEvjq4_DSQkPH9yQG270dcIPbauyvroZO3qt29XFAp1On-CrdSgQ&__tn__=%2CO%2CP-R",
       "likes": 2360,
       "shares": 485,
-      "featured": true,
-      "is_real_facebook": true,
-      "extracted_at": "2026-11-24T01:02:31.105534+00:00"
-    },
-    {
-      "id": "fb-official-05",
-      "title": "¡ESTAMOS EN VIVO!",
-      "subtitle": "Publicado en facebook.com/unapunooficial",
-      "category": "comunicados",
-      "category_label": "Comunicado Oficial",
-      "badge": "Oficial",
-      "date": "23 Nov 2026, 17:02 UTC",
-      "published_at": "2026-11-23T17:02:31.008000+00:00",
-      "image": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/890493471_1431352582064323_8501534193974752816_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=032300&_nc_ohc=hV64JbwXvo0Q7kNvwEglvU1&_nc_oc=Adqf4PWcDFmKJ0SVJCEiKqwGmZ-kCJgKl5L2k2qqfyyVSvEYDkXLKBH8DgmYEGleQeI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=ZDy8bz5X4nYbPJKdXrUXdQ&_nc_ss=78289&oh=00_AQTqcakzzLN42VMFHeHvFiegT9ZzegrEkgoJZhU-CKNAGQ&oe=6B0ACD0F",
-      "thumbnail": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/890493471_1431352582064323_8501534193974752816_n.jpg?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s960x960&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=032300&_nc_ohc=hV64JbwXvo0Q7kNvwEglvU1&_nc_oc=Adqf4PWcDFmKJ0SVJCEiKqwGmZ-kCJgKl5L2k2qqfyyVSvEYDkXLKBH8DgmYEGleQeI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=ZDy8bz5X4nYbPJKdXrUXdQ&_nc_ss=78289&oh=00_AQTqcakzzLN42VMFHeHvFiegT9ZzegrEkgoJZhU-CKNAGQ&oe=6B0ACD0F",
-      "description": "Campaña universitaria “Una sola voz”: tejiendo una universidad libre de violencia contra la mujer.\n#UNA…",
-      "facebook_url": "https://www.facebook.com/unapunooficial/videos/2429751994227767/?__cft__[0]=AZiiuSp7J1i2iaTtRaKzGsps4RqRwb6zCSJbh_VIOIHEBddtnr7YaNW0VuyIuBaDMTKBPFGvrFFJ5ocdiDZpHvvASFiYM3usMExS1mushiuhwb8QzaFtw_1hrVPSFl0hEEhFAg7PAHBG7bulljxCFN2vak3giU9Lat-SumPgCLktdEq1MpOaOJsNpQCjzMFFGsw&__tn__=%2CO%2CP-R",
-      "likes": 2680,
-      "shares": 560,
       "featured": true,
       "is_real_facebook": true,
       "extracted_at": "2026-11-24T01:02:31.105534+00:00"
